@@ -14,7 +14,8 @@ function App() {
 
   return (
     <div>
-      <GoogleAd/>
+   
+    <GoogleAd slot="9876543210"/>
       <Navbar/>
       <ExamSections/>
       <RecentlyUpdatedQuestions/>
