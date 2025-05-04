@@ -1,4 +1,4 @@
-export default function Faq() {
+export default function Service() {
     return (
       <>
         <div className="h-min p-5 bg-gray-100 py-16 px-6 md:px-20 text-center">

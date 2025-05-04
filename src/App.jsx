@@ -6,7 +6,7 @@ import InnovationCards from './components/Inovation'
 import StudentSection from './components/StudentCard'
 
 import Footer from './components/Footer'
-import Faq from './components/FAQ.JSX'
+import Service from './components/Service'
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
       <RecentlyUpdatedQuestions/>
       <InnovationCards/>
       <StudentSection/>
-      <Faq/>
+     <Service/>
       <Footer/>
     </div>
   )
