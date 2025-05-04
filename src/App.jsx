@@ -7,10 +7,14 @@ import StudentSection from './components/StudentCard'
 
 import Footer from './components/Footer'
 import Service from './components/Service'
+import GoogleAd from './components/googleAD/googlead'
 
 function App() {
+  console.log("Firebase API Key:", import.meta.env.VITE_FIREBASE_API_KEY);
+
   return (
     <div>
+      <GoogleAd/>
       <Navbar/>
       <ExamSections/>
       <RecentlyUpdatedQuestions/>
