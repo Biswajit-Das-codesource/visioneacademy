@@ -4,8 +4,9 @@ import ExamSections from './components/HeroSection'
 import RecentlyUpdatedQuestions from './components/RecentQus'
 import InnovationCards from './components/Inovation'
 import StudentSection from './components/StudentCard'
-import Faq from './components/FAQ.JSX'
+
 import Footer from './components/Footer'
+import Faq from './components/FAQ.JSX'
 
 function App() {
   return (
