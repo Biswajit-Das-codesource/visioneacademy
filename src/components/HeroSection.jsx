@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 import { FaArrowAltCircleRight } from "react-icons/fa";
+import InfiniteScrollCarousel from "./carousel";
 // Define each card's background color in the data
 const data = {
   popular: [
@@ -273,13 +274,11 @@ export default function ExamSections() {
           </div>
 
           {/* Bottom row */}
-          <div className="mt-6">
-            <h2 className="text-xl font-semibold text-gray-800">
-              Popular Packages
-            </h2>
-          </div>
+         
         </div>
+        <InfiniteScrollCarousel/>
       </div>
+     
     </>
   );
 }

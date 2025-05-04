@@ -1,14 +1,20 @@
 @import "tailwindcss";
-@keyframes fadeInOut {
-    0%, 20%   { opacity: 0; }
-    25%, 75%  { opacity: 1; }
-    80%, 100% { opacity: 0; }
+/* Optional if you use Tailwind, but useful if outside JSX */
+.carousel-blur {
+    position: absolute;
+    top: 0;
+    width: 104px;
+    height: 100%;
+    z-index: 10;
+    pointer-events: none;
   }
-  
-  /* Applies the fadeInOut animation, will be offset per‐span with inline delay */
-  .fade-sequence {
-    display: inline-block;
-    opacity: 0;
-    animation: fadeInOut 8s linear infinite;
+
+  @keyframes scroll {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
   }
   
