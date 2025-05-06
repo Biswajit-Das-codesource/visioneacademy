@@ -1,8 +1,18 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 
 import { FaArrowAltCircleRight } from "react-icons/fa";
 import InfiniteScrollCarousel from "./carousel";
+import GoogleAd from "./googleAD/googlead";
+import RecentlyUpdatedQuestions from "./RecentQus";
+import InnovationCards from "./Inovation";
+import StudentSection from "./StudentCard";
+import Service from "./Service";
+import Footer from "./Footer";
+import { Link, useNavigate } from "react-router-dom";
+import { onAuthStateChanged } from "firebase/auth";
+import { auth, db } from "../config/firebase";
+import { doc, getDoc } from "firebase/firestore";
 // Define each card's background color in the data
 const data = {
   popular: [
@@ -207,6 +217,37 @@ const AnimatedBlob = ({ className, style }) => (
 );
 
 export default function ExamSections() {
+  const [user, setUser] = useState(null);
+  const [role, setRole] = useState(null); // To store the user's role
+  const [message, setMessage] = useState("");
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
+      if (currentUser) {
+        setUser(currentUser);
+
+        const userRef = doc(db, "users", currentUser.uid);
+        const userSnap = await getDoc(userRef);
+
+        if (userSnap.exists()) {
+          const data = userSnap.data();
+          setRole(data.role); // Store the role (admin or student)
+        } else {
+          setMessage("User data not found.");
+        }
+      } else {
+        setUser(null);
+        setRole(null);
+      }
+    });
+
+    // Cleanup the listener on unmount
+    return () => unsubscribe();
+  }, []);
+
+  console.log(role);
+
   return (
     <>
       <div className="relative h-min w-full bg-gray-50 overflow-hidden">
@@ -240,6 +281,16 @@ export default function ExamSections() {
             <button className="bg-transparent text-black border-2 border-black px-6 py-3 rounded-md font-medium cursor-pointer">
               Checkout our courses
             </button>
+            {role === "admin" ? (
+              <button className="bg-blue-600 text-white px-6 py-3 rounded-md font-medium cursor-pointer">
+              <Link to="/admin-dashboard">
+                Admin Dashboard
+                </Link>
+              </button>
+             
+            ) : (
+              ""
+            )}
           </div>
         </div>
         {/* Animated colorful blobs */}
@@ -274,11 +325,16 @@ export default function ExamSections() {
           </div>
 
           {/* Bottom row */}
-         
         </div>
-        <InfiniteScrollCarousel/>
+        <InfiniteScrollCarousel />
       </div>
-     
+
+      <RecentlyUpdatedQuestions />
+      <InnovationCards />
+      <StudentSection />
+      <Service />
+      <Footer />
+      {/* <GoogleAd slot="3539806634" /> */}
     </>
   );
 }

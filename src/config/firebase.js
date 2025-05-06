@@ -1,29 +1,22 @@
 // src/firebase.js
-import { initializeApp } from "firebase/app";
-import { getAuth } from "firebase/auth";
-import { getFirestore } from "firebase/firestore";
-import { getStorage } from "firebase/storage";
-import { getAnalytics } from "firebase/analytics";
+import { initializeApp } from 'firebase/app';
+import { getAuth, GoogleAuthProvider } from 'firebase/auth';
+import { getFirestore } from 'firebase/firestore';
+
 
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
-  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
-  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
-  appId: import.meta.env.VITE_FIREBASE_APP_ID,
-  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
+  apiKey: "AIzaSyCcln7NX3aHNSW4QtgRwT3SMnxfJr0oRYY",
+  authDomain: "visioneacademy-31bf3.firebaseapp.com",
+  projectId: "visioneacademy-31bf3",
+  storageBucket: "visioneacademy-31bf3.appspot.com",
+  messagingSenderId: "397447196896",
+  appId: "1:397447196896:web:9c22ec4674f19178a4e085",
+  measurementId: "G-FG1FSX9906"
 };
 
 const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
+const provider = new GoogleAuthProvider();
+const db = getFirestore(app);
 
-// Optional: Only use analytics in browser
-let analytics;
-if (typeof window !== 'undefined') {
-  analytics = getAnalytics(app);
-}
-
-export const auth = getAuth(app);
-export const db = getFirestore(app);
-export const storage = getStorage(app);
-export { analytics };
+export { auth, provider, db };
