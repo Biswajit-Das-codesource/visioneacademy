@@ -12,7 +12,7 @@ export default function Service() {
   
           <div className="grid md:grid-cols-3 gap-10">
             {/* Item 1 */}
-            <div className="flex flex-col items-center text-center">
+            <div className="flex flex-col items-center text-center" data-aos="fade-up-right">
               <img
                 src="https://guidely.in/assets/images/home/quality-material.svg"
                 className="w-16 h-16 mb-4"
@@ -29,7 +29,7 @@ export default function Service() {
             </div>
   
             {/* Item 3 */}
-            <div className="flex flex-col items-center text-center">
+            <div className="flex flex-col items-center text-center" data-aos="fade-up">
               <img
                 src="https://guidely.in/assets/images/home/mentor.svg"
                 alt="Mentorship Icon"
@@ -46,7 +46,7 @@ export default function Service() {
             </div>
   
             {/* Item 4 */}
-            <div className="flex flex-col items-center text-center">
+            <div className="flex flex-col items-center text-center" data-aos="flip-right">
               <img
                 src="https://guidely.in/assets/images/home/exp-faculty.svg"
                 alt="Faculty Icon"

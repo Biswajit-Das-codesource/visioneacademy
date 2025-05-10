@@ -55,7 +55,7 @@ function App() {
   //     } else if (role === "student") {
   //       navigate("/student-home");
   //     }
-  //   }
+  //  
   // }, [role, navigate]);
 
   return (

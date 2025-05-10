@@ -65,7 +65,7 @@ const RecentlyUpdatedQuestions = () => {
           {data.map((section, idx) => (
             <div
               key={idx}
-              className="bg-green-100 rounded-xl shadow-sm  p-4 hover:shadow-md transition"
+              className="bg-green-100 rounded-xl shadow-sm  p-4 hover:shadow-md transition" data-aos="fade-up"
             >
               <h3 className="text-lg font-semibold text-gray-800 mb-4 relative">
                 <span className="bg-yellow-400 rounded-full px-4 py-1 text-sm font-medium text-gray-800">

@@ -7,7 +7,7 @@ const InnovationCards = () => {
   
         <div className="grid md:grid-cols-3 gap-6 max-w-7xl mx-auto">
           {/* Left Wide Card */}
-          <div className="col-span-2 bg-gray-50 rounded-xl shadow-md p-10 mr-6 relative">
+          <div className="col-span-2 bg-gray-50 rounded-xl shadow-md p-10 mr-6 relative" data-aos="fade-down">
             <div className="text-sm text-gray-500 font-medium mb-2">Visione Academy</div>
             <h3 className="text-[1rem] md:text-3xl font-bold leading-snug text-[#0f172a]">
               <span className="text-blue-600">Prepare Smarter from Anywhere - </span> practice daily quizzes, and earn badges for every milestone. Boost your prep for exams like JEE, NEET, SSC, and more — all in one place!
@@ -26,8 +26,8 @@ const InnovationCards = () => {
   
           {/* Right Slim Card */}
           <div className="bg-green-50 rounded-xl shadow-md  relative flex flex-col justify-between w-xs p-4">
-            <div>
-              <div className="text-sm text-gray-500 font-medium mb-2">Turbo UPI</div>
+            <div  data-aos="fade-up">
+             
               <h3 className="text-base font-semibold text-[#0f172a] leading-relaxed">
                 <span className="text-blue-600">Get 5X Faster Enrollment —</span>,  Join courses instantly with a smoother checkout experience and 10% higher success rates.no delays — just quick learning access!
               </h3>

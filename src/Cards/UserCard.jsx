@@ -71,6 +71,7 @@ const StudentLogin = () => {
       })
       .catch((error) => setMessage("❌ Sign-Out Error: " + error.message));
   };
+  console.log(user)
 
   return (
     <div className="h-min bg-white flex items-center justify-center px-4 py-22">
@@ -94,7 +95,7 @@ const StudentLogin = () => {
             <div className="text-center space-y-4">
               <img
                 src={user.photoURL}
-                alt="User"
+                alt={"https://imgs.search.brave.com/8KMXYpb7y1av9OTKC69OVK7Nv51wUOAe10dx2phv1ug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzEwLzk0Lzc0LzY1/LzM2MF9GXzEwOTQ3/NDY1NjZfajhMdnBr/ckJ3bm4zNlVpd05K/VHhESG5CTURWSjZt/UG0uanBn"}
                 className="w-20 h-20 rounded-full border-4 border-indigo-500 mx-auto"
               />
               <h2 className="text-xl font-semibold text-gray-800">

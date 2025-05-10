@@ -83,18 +83,18 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           
           <div>
-            <h5 className="text-black font-semibold mb-2">About Guidely</h5>
+            <h5 className="text-black font-semibold mb-2">About Visione Academy</h5>
             <p className="text-gray-700">
-              Guidely is one of India’s leading bank exam preparation platforms. Our mission is to provide the best online learning platform for all government job aspirants.
+              VisioneAcademy is one of India’s leading bank exam preparation platforms. Our mission is to provide the best online learning platform for all government job aspirants.
             </p>
           </div>
 
           <div className="text-black">
             <h5 className="text-black font-semibold mb-2">Get in Touch</h5>
-            <p>42/10, Appaji Arcade, Thindal, Erode, Tamil Nadu, India - 638012</p>
-            <p>Email: support@guidely.in</p>
-            <p>Phone: +91-85888-35848 (Mon-Sat, 10AM to 6PM)</p>
-            <p>WhatsApp: 9003786960 (Text Only)</p>
+            <p>//location</p>
+            <p>Email: </p>
+            <p>Phone: +91-8144758671 (Mon-Sat, 10AM to 6PM)</p>
+            <p>WhatsApp: 8144758671 (Text Only)</p>
           </div>
 
           <div>
@@ -114,7 +114,7 @@ const Footer = () => {
         </div>
 
         <div className="text-center mt-8 text-gray-900 text-xs">
-          © {new Date().getFullYear()} Guidely. All rights reserved.
+          © {new Date().getFullYear()} VisioneAcademy. All rights reserved.
         </div>
       </div>
     </footer>

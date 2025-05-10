@@ -2,7 +2,7 @@ export default function StudentSection() {
   return (
     <div className="bg-slate-900 text-white py-16 px-6 md:px-20">
       <h2 className="text-3xl md:text-4xl font-bold mb-6">
-        <span className="text-blue-500">VisioneAcademy</span> is built
+        <span className="text-blue-500" data-aos="fade-right">VisioneAcademy</span> is built
         <br />
         <span className="text-green-400">
           &lt;for learners by educators&gt;
@@ -10,21 +10,21 @@ export default function StudentSection() {
       </h2>
 
       <div className="grid md:grid-cols-3 gap-8 mb-12">
-        <div className="p-4">
+        <div className="p-4" data-aos="fade-right">
           <h3 className="font-semibold text-lg">📘 All-In-One Platform</h3>
           <p className="text-gray-300 mt-2">
             Prepare for RBI, SSC, and Railway exams in one place with video
             classes, notes, and mock tests.
           </p>
         </div>
-        <div className="p-4">
+        <div className="p-4" data-aos="flip-right">
           <h3 className="font-semibold text-lg">📚 Smart Study Tools</h3>
           <p className="text-gray-300 mt-2">
             Access updated syllabus, topic-wise quizzes, and instant performance
             analysis.
           </p>
         </div>
-        <div className="p-4">
+        <div className="p-4" data-aos="flip-left">
           <h3 className="font-semibold text-lg">🔔 Exam Alerts</h3>
           <p className="text-gray-300 mt-2">
             Get instant new exam updates,results.
