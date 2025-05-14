@@ -1,0 +1,357 @@
+{
+  "exam": {
+    "questions": [
+      
+      {
+        "id": "q1",
+        "direction": "Select the option that is related to the third term in the same way as the second term is related to the first term: CAR : FDI :: PEN : ?",
+        "question": "What is the analogous term for PEN?",
+        "options": ["SJQ", "RIQ", "QIR", "PJQ"],
+        "answer": "SJQ"
+      },
+      {
+        "id": "q2",
+        "direction": null,
+        "question": "If 'A + B' means A is the brother of B, 'A - B' means A is the father of B, and 'A * B' means A is the sister of B, which of the following means M is the wife of N?",
+        "options": ["N - P * M", "M * P - N", "N * M - P", "M - N * P"],
+        "answer": "N - P * M"
+      },
+      {
+        "id": "q3",
+        "direction": "In a certain code language, 'RUST' is written as 'VWXY'. How will 'MORN' be written in that code language?",
+        "question": "What is the coded form of 'MORN'?",
+        "options": ["QTUV", "RSUV", "QSVW", "RTVW"],
+        "answer": "QSVW"
+      },
+      {
+        "id": "q4",
+        "direction": "Arrange the following words in a logical sequence: 1. Seed, 2. Tree, 3. Fruit, 4. Flower, 5. Leaf",
+        "question": "What is the correct sequence?",
+        "options": ["1, 2, 5, 4, 3", "1, 5, 4, 3, 2", "1, 2, 4, 5, 3", "1, 4, 5, 3, 2"],
+        "answer": "1, 2, 5, 4, 3"
+      },
+      {
+        "id": "q5",
+        "direction": null,
+        "question": "Find the missing number in the series: 2, 6, 12, 20, ?, 42",
+        "options": ["28", "30", "32", "34"],
+        "answer": "30"
+      },
+      {
+        "id": "q6",
+        "direction": "Select the word-pair that best represents a similar relationship to the given pair: Knife : Cut :: Hammer : ?",
+        "question": "What is the analogous term for Hammer?",
+        "options": ["Nail", "Hit", "Screw", "Fix"],
+        "answer": "Hit"
+      },
+      {
+        "id": "q7",
+        "direction": null,
+        "question": "Which number will replace the question mark in the following: 5, 10, 17, ?, 35, 50",
+        "options": ["25", "26", "27", "28"],
+        "answer": "26"
+      },
+      {
+        "id": "q8",
+        "direction": "Study the given pattern carefully and select the number that can replace the question mark: 3, 7, 16, ?, 76",
+        "question": "What is the missing number?",
+        "options": ["32", "34", "36", "38"],
+        "answer": "34"
+      },
+      {
+        "id": "q9",
+        "direction": null,
+        "question": "If 'CAT' is coded as '3120', how is 'DOG' coded?",
+        "options": ["4157", "5147", "4175", "5174"],
+        "answer": "4157"
+      },
+      {
+        "id": "q10",
+        "direction": "Five people A, B, C, D, and E are seated around a circular table facing the center. A is to the immediate left of B. C is not next to B. D is to the immediate right of E. Who is to the immediate left of E?",
+        "question": "Who is to the immediate left of E?",
+        "options": ["A", "B", "C", "No one"],
+        "answer": "No one"
+      },
+      {
+        "id": "q11",
+        "direction": null,
+        "question": "Select the odd one out: Apple, Banana, Cherry, Date",
+        "options": ["Apple", "Banana", "Cherry", "Date"],
+        "answer": "Banana"
+      },
+      {
+        "id": "q12",
+        "direction": null,
+        "question": "If the day after tomorrow is Wednesday, what day is it today?",
+        "options": ["Monday", "Tuesday", "Sunday", "Saturday"],
+        "answer": "Monday"
+      },
+      {
+        "id": "q13",
+        "direction": "Select the letter-cluster that can replace the question mark in the series: AB, DE, ?, JK, MO",
+        "question": "What is the missing letter-cluster?",
+        "options": ["FG", "GH", "HI", "IJ"],
+        "answer": "HI"
+      },
+      {
+        "id": "q14",
+        "direction": null,
+        "question": "The Finance Commission is constituted under which article of the Constitution of India?",
+        "options": ["280", "281", "282", "283"],
+        "answer": "280"
+      },
+      {
+        "id": "q15",
+        "direction": null,
+        "question": "Nalanda University was founded by which ruler?",
+        "options": ["Samudra Gupta", "Chandra Gupta", "Kumara Gupta", "Harsh Vardhana"],
+        "answer": "Kumara Gupta"
+      },
+      {
+        "id": "q16",
+        "direction": null,
+        "question": "What is the chemical formula for Quick Lime?",
+        "options": ["CaO", "CaCO3", "Ca(OH)2", "CaSO4"],
+        "answer": "CaO"
+      },
+      {
+        "id": "q17",
+        "direction": null,
+        "question": "Which state has the least population density as per the 2011 census?",
+        "options": ["Arunachal Pradesh", "Sikkim", "Mizoram", "Nagaland"],
+        "answer": "Arunachal Pradesh"
+      },
+      {
+        "id": "q18",
+        "direction": null,
+        "question": "Who was the viceroy at the time of the Bengal Partition?",
+        "options": ["Lord Curzon", "Lord Minto", "Lord Ripon", "Lord Dalhousie"],
+        "answer": "Lord Curzon"
+      },
+      {
+        "id": "q19",
+        "direction": null,
+        "question": "The theme for International Day of Yoga 2022 was:",
+        "options": ["Yoga for Peace", "Yoga for Humanity", "Yoga for Health", "Yoga for All"],
+        "answer": "Yoga for Humanity"
+      },
+      {
+        "id": "q20",
+        "direction": null,
+        "question": "Meenakshi Temple is located in which state?",
+        "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+        "answer": "Tamil Nadu"
+      },
+      {
+        "id": "q21",
+        "direction": null,
+        "question": "Droupadi Murmu belongs to which tribe?",
+        "options": ["Santhal", "Munda", "Gond", "Bhil"],
+        "answer": "Santhal"
+      },
+      {
+        "id": "q22",
+        "direction": null,
+        "question": "The 42nd Constitutional Amendment is related to:",
+        "options": ["Preamble changes", "Fundamental Rights", "Directive Principles", "Emergency Provisions"],
+        "answer": "Preamble changes"
+      },
+      {
+        "id": "q23",
+        "direction": null,
+        "question": "Who is known as the Father of History?",
+        "options": ["Herodotus", "Thucydides", "Plato", "Aristotle"],
+        "answer": "Herodotus"
+      },
+      {
+        "id": "q24",
+        "direction": null,
+        "question": "Which continent is the largest by area?",
+        "options": ["Asia", "Africa", "Europe", "Australia"],
+        "answer": "Asia"
+      },
+      {
+        "id": "q25",
+        "direction": null,
+        "question": "Baisakhi festival is celebrated in which month?",
+        "options": ["April", "March", "May", "June"],
+        "answer": "April"
+      },
+      {
+        "id": "q26",
+        "direction": "The following question is based on the given data: A shopkeeper sells an article at a profit of 25%. If the cost price is increased by 20% but the selling price remains the same, the profit percentage becomes 20%.",
+        "question": "What is the original cost price of the article?",
+        "options": ["Rs. 400", "Rs. 500", "Rs. 600", "Rs. 800"],
+        "answer": "Rs. 500"
+      },
+      {
+        "id": "q27",
+        "direction": null,
+        "question": "If the ratio of the ages of A and B is 3:5 and the sum of their ages is 40 years, what is the age of B?",
+        "options": ["15 years", "20 years", "25 years", "30 years"],
+        "answer": "25 years"
+      },
+      {
+        "id": "q28",
+        "direction": null,
+        "question": "A train covers a distance of 600 km in 5 hours. What is its speed in km/h?",
+        "options": ["100 km/h", "120 km/h", "140 km/h", "160 km/h"],
+        "answer": "120 km/h"
+      },
+      {
+        "id": "q29",
+        "direction": "In a triangle ABC, angle A = 60°, AB = 10 cm, and BC = 12 cm.",
+        "question": "What is the length of side AC?",
+        "options": ["8 cm", "10 cm", "12 cm", "14 cm"],
+        "answer": "10 cm"
+      },
+      {
+        "id": "q30",
+        "direction": null,
+        "question": "If 5x + 3y = 15 and 2x - y = 1, what is the value of x + y?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+      },
+      {
+        "id": "q31",
+        "direction": null,
+        "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+        "options": ["26", "28", "30", "32"],
+        "answer": "28"
+      },
+      {
+        "id": "q32",
+        "direction": null,
+        "question": "A sum of money doubles itself in 8 years at simple interest. In how many years will it triple itself?",
+        "options": ["12 years", "16 years", "20 years", "24 years"],
+        "answer": "16 years"
+      },
+      {
+        "id": "q33",
+        "direction": null,
+        "question": "What is the value of sin 30° + cos 60°?",
+        "options": ["1", "1/2", "3/2", "2"],
+        "answer": "1"
+      },
+      {
+        "id": "q34",
+        "direction": null,
+        "question": "A can do a work in 12 days and B in 18 days. How many days will they take to complete the work together?",
+        "options": ["6 days", "7 days", "8 days", "9 days"],
+        "answer": "7 days"
+      },
+      {
+        "id": "q35",
+        "direction": null,
+        "question": "If 20% of a number is 15, what is 25% of that number?",
+        "options": ["18.75", "20", "22.5", "25"],
+        "answer": "18.75"
+      },
+      {
+        "id": "q36",
+        "direction": null,
+        "question": "The perimeter of a rectangle is 34 cm, and its length is 10 cm. What is its breadth?",
+        "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+        "answer": "7 cm"
+      },
+      {
+        "id": "q37",
+        "direction": null,
+        "question": "What is the HCF of 36 and 48?",
+        "options": ["6", "12", "18", "24"],
+        "answer": "12"
+      },
+      {
+        "id": "q38",
+        "direction": "Select the most appropriate synonym of the given word: Enormous",
+        "question": "What is a synonym for 'Enormous'?",
+        "options": ["Tiny", "Huge", "Small", "Average"],
+        "answer": "Huge"
+      },
+      {
+        "id": "q39",
+        "direction": null,
+        "question": "Select the most appropriate antonym of the given word: Reluctant",
+        "options": ["Willing", "Hesitant", "Uncertain", "Cautious"],
+        "answer": "Willing"
+      },
+      {
+        "id": "q40",
+        "direction": "Fill in the blank with the most appropriate word: The meeting was _____ due to the chairman's illness.",
+        "question": "What is the appropriate word to fill the blank?",
+        "options": ["cancelled", "conducted", "held", "attended"],
+        "answer": "cancelled"
+      },
+      {
+        "id": "q41",
+        "direction": null,
+        "question": "Identify the misspelt word:",
+        "options": ["Accommodate", "Seperate", "Opportunity", "Environment"],
+        "answer": "Seperate"
+      },
+      {
+        "id": "q42",
+        "direction": "Select the option that can be used as a one-word substitute for the given phrase: A person who loves books",
+        "question": "What is the one-word substitute?",
+        "options": ["Bibliophile", "Philatelist", "Numismatist", "Polyglot"],
+        "answer": "Bibliophile"
+      },
+      {
+        "id": "q43",
+        "direction": null,
+        "question": "Choose the correctly spelt word:",
+        "options": ["Milage", "Millennium", "Maintanance", "Mischievious"],
+        "answer": "Millennium"
+      },
+      {
+        "id": "q44",
+        "direction": "Select the most appropriate meaning of the given idiom: To beat around the bush",
+        "question": "What does the idiom mean?",
+        "options": ["To avoid the main topic", "To fight aggressively", "To work hard", "To be confused"],
+        "answer": "To avoid the main topic"
+      },
+      {
+        "id": "q45",
+        "direction": "The following sentence has an error. Identify the part with the error: The team is playing good in the tournament.",
+        "question": "Which part contains the error?",
+        "options": ["The team", "is playing", "good", "in the tournament"],
+        "answer": "good"
+      },
+      {
+        "id": "q46",
+        "direction": "Directions: Read the passage and answer the question that follows: The Indian economy has seen significant growth over the past few decades. Liberalization in the 1990s opened up markets, leading to increased foreign investment. However, challenges like unemployment and inflation persist. The government has introduced reforms to address these issues, but their impact is yet to be fully realized.",
+        "question": "What opened up markets in the Indian economy during the 1990s?",
+        "options": ["Globalization", "Privatization", "Liberalization", "Nationalization"],
+        "answer": "Liberalization"
+      },
+      {
+        "id": "q47",
+        "direction": "Directions: Read the passage and answer the question that follows: The Indian economy has seen significant growth over the past few decades. Liberalization in the 1990s opened up markets, leading to increased foreign investment. However, challenges like unemployment and inflation persist. The government has introduced reforms to address these issues, but their impact is yet to be fully realized.",
+        "question": "What challenges are mentioned in the passage?",
+        "options": ["Poverty and corruption", "Unemployment and inflation", "Education and healthcare", "Infrastructure and technology"],
+        "answer": "Unemployment and inflation"
+      },
+      {
+        "id": "q48",
+        "direction": null,
+        "question": "Select the word that is closest in meaning to 'Candid':",
+        "options": ["Deceptive", "Frank", "Reserved", "Cautious"],
+        "answer": "Frank"
+      },
+      {
+        "id": "q49",
+        "direction": null,
+        "question": "Choose the option that best completes the sentence: She was _____ tired that she could barely stand.",
+        "options": ["so", "too", "very", "much"],
+        "answer": "so"
+      },
+      {
+        "id": "q50",
+        "direction": null,
+        "question": "Select the option that correctly rearranges the parts of the sentence: (A) to the park (B) went (C) the children (D) yesterday",
+        "options": ["C, B, A, D", "B, C, A, D", "C, A, B, D", "A, C, B, D"],
+        "answer": "C, B, A, D"
+      }
+    ]
+  }
+}

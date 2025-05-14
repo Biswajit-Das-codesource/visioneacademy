@@ -1,0 +1,405 @@
+{
+  "exam": "SSC CGL 2024",
+  "questions": [
+    {
+      "id": 1,
+      "section": "General Intelligence & Reasoning",
+      "direction": "In the following question, select the related number from the given alternatives.",
+      "question": "20 : 11 :: 102 : ?",
+      "options": ["A. 56", "B. 58", "C. 60", "D. 62"],
+      "answer": "A. 56"
+    },
+    {
+      "id": 2,
+      "section": "General Intelligence & Reasoning",
+      "direction": "If P+Q means that P is the mother of Q, P÷Q means that P is the father of Q, and P-Q means that P is the sister of Q, then which of the following expressions shows that A is the maternal grandfather of C?",
+      "question": "Which expression shows A as the maternal grandfather of C?",
+      "options": ["A. A÷B-C", "B. A÷B+C", "C. B÷A-C", "D. A-B÷C"],
+      "answer": "A. A÷B-C"
+    },
+    {
+      "id": 3,
+      "section": "General Intelligence & Reasoning",
+      "direction": "Find the missing number in the series.",
+      "question": "2, 4, 16, ?, 65536",
+      "options": ["A. 256", "B. 512", "C. 1024", "D. 2048"],
+      "answer": "A. 256"
+    },
+    {
+      "id": 4,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Select the odd word from the given alternatives.",
+      "options": ["A. Life Insurance Corporation", "B. New India Assurance Company Ltd.", "C. United India Insurance Company Ltd.", "D. National Insurance Company Ltd."],
+      "answer": "A. Life Insurance Corporation"
+    },
+    {
+      "id": 5,
+      "section": "General Intelligence & Reasoning",
+      "direction": "Select the letter-cluster that can replace the question mark in the series.",
+      "question": "BD, EG, ?, JM, IQ",
+      "options": ["A. FI", "B. GJ", "C. HK", "D. IL"],
+      "answer": "C. HK"
+    },
+    {
+      "id": 6,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "If 'DOG' is coded as 'WTL', how is 'CAT' coded in the same language?",
+      "options": ["A. IJI", "B. JZK", "C. KYL", "D. LZM"],
+      "answer": "A. IJI"
+    },
+    {
+      "id": 7,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Arrange the following in a logical sequence: 1. Seed, 2. Tree, 3. Fruit, 4. Flower, 5. Leaf",
+      "options": ["A. 1, 2, 5, 4, 3", "B. 1, 5, 4, 3, 2", "C. 1, 2, 4, 5, 3", "D. 1, 4, 5, 3, 2"],
+      "answer": "A. 1, 2, 5, 4, 3"
+    },
+    {
+      "id": 8,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Select the word-pair that best represents a similar relationship to: Pen : Write :: Hammer : ?",
+      "options": ["A. Nail", "B. Hit", "C. Screw", "D. Fix"],
+      "answer": "B. Hit"
+    },
+    {
+      "id": 9,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Find the odd one out: Apple, Banana, Cherry, Date",
+      "options": ["A. Apple", "B. Banana", "C. Cherry", "D. Date"],
+      "answer": "B. Banana"
+    },
+    {
+      "id": 10,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "If the day after tomorrow is Wednesday, what day is it today?",
+      "options": ["A. Monday", "B. Tuesday", "C. Sunday", "D. Saturday"],
+      "answer": "A. Monday"
+    },
+    {
+      "id": 11,
+      "section": "General Intelligence & Reasoning",
+      "direction": "A # B means ‘A is the mother of B’. A @ B means ‘A is the son of B’. A & B means ‘A is the brother of B’. A % B means ‘A is the wife of B’.",
+      "question": "If W # Q @ T & Y @ M % K, then how is K related to W?",
+      "options": ["A. Husband", "B. Son", "C. Father", "D. Brother"],
+      "answer": "A. Husband"
+    },
+    {
+      "id": 12,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Which number will replace the question mark in the series: 5, 10, 17, ?, 35, 50",
+      "options": ["A. 25", "B. 26", "C. 27", "D. 28"],
+      "answer": "B. 26"
+    },
+    {
+      "id": 13,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "In a certain code, 'RUST' is written as 'VWXY'. How will 'MORN' be written?",
+      "options": ["A. QTUV", "B. RSUV", "C. QSVW", "D. RTVW"],
+      "answer": "C. QSVW"
+    },
+    {
+      "id": 14,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "The Finance Commission is constituted under which article of the Constitution of India?",
+      "options": ["A. 280", "B. 281", "C. 282", "D. 283"],
+      "answer": "A. 280"
+    },
+    {
+      "id": 15,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Ashoka sent a mission to spread the principle of Dhamma led by his son, Mahendra, and daughter, Sanghamitra to which country?",
+      "options": ["A. Sri Lanka", "B. Thailand", "C. Myanmar", "D. China"],
+      "answer": "A. Sri Lanka"
+    },
+    {
+      "id": 16,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Which Congress session is known for the relaxation of separate electorates for Muslims by the Congress Party?",
+      "options": ["A. Lucknow Session 1916", "B. Surat Session 1907", "C. Calcutta Session 1920", "D. Nagpur Session 1920"],
+      "answer": "A. Lucknow Session 1916"
+    },
+    {
+      "id": 17,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Nalanda University was founded by which ruler?",
+      "options": ["A. Samudra Gupta", "B. Chandra Gupta", "C. Kumara Gupta", "D. Harsh Vardhana"],
+      "answer": "C. Kumara Gupta"
+    },
+    {
+      "id": 18,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "What is the chemical formula for Quick Lime?",
+      "options": ["A. CaO", "B. CaCO3", "C. Ca(OH)2", "D. CaSO4"],
+      "answer": "A. CaO"
+    },
+    {
+      "id": 19,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Which state has the least population density as per the 2011 census?",
+      "options": ["A. Arunachal Pradesh", "B. Sikkim", "C. Mizoram", "D. Nagaland"],
+      "answer": "A. Arunachal Pradesh"
+    },
+    {
+      "id": 20,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Who was the viceroy at the time of the Bengal Partition?",
+      "options": ["A. Lord Curzon", "B. Lord Minto", "C. Lord Ripon", "D. Lord Dalhousie"],
+      "answer": "A. Lord Curzon"
+    },
+    {
+      "id": 21,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "The theme for International Day of Yoga 2024 was:",
+      "options": ["A. Yoga for Peace", "B. Yoga for Self and Society", "C. Yoga for Health", "D. Yoga for All"],
+      "answer": "B. Yoga for Self and Society"
+    },
+    {
+      "id": 22,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Meenakshi Temple is located in which state?",
+      "options": ["A. Tamil Nadu", "B. Kerala", "C. Karnataka", "D. Andhra Pradesh"],
+      "answer": "A. Tamil Nadu"
+    },
+    {
+      "id": 23,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Who is known as the Father of History?",
+      "options": ["A. Herodotus", "B. Thucydides", "C. Plato", "D. Aristotle"],
+      "answer": "A. Herodotus"
+    },
+    {
+      "id": 24,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Which continent is the largest by area?",
+      "options": ["A. Asia", "B. Africa", "C. Europe", "D. Australia"],
+      "answer": "A. Asia"
+    },
+    {
+      "id": 25,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Baisakhi festival is celebrated in which month?",
+      "options": ["A. April", "B. March", "C. May", "D. June"],
+      "answer": "A. April"
+    },
+    {
+      "id": 26,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "The 42nd Constitutional Amendment is related to:",
+      "options": ["A. Preamble changes", "B. Fundamental Rights", "C. Directive Principles", "D. Emergency Provisions"],
+      "answer": "A. Preamble changes"
+    },
+    {
+      "id": 27,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "Akshara scores 85% in five subjects together. The subjects are Hindi, Science, Mathematics, English, and Computers, where the maximum marks of each subject are 100. Akshara scores 75 marks in Hindi, 92 marks in Computers, 89 marks in Mathematics, and 81 marks in English. How many marks did Akshara score in Science?",
+      "options": ["A. 88", "B. 90", "C. 92", "D. 94"],
+      "answer": "A. 88"
+    },
+    {
+      "id": 28,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "If the diameter of a sphere is 3.5 cm, then what is the total surface area of the sphere?",
+      "options": ["A. 38.5 cm²", "B. 39.25 cm²", "C. 40 cm²", "D. 41.25 cm²"],
+      "answer": "A. 38.5 cm²"
+    },
+    {
+      "id": 29,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "If a:b = c:d, then which of the following ratios is equal to a:c?",
+      "options": ["A. b:d", "B. d:b", "C. c:a", "D. a:d"],
+      "answer": "A. b:d"
+    },
+    {
+      "id": 30,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "The average mark of 60 students in a class is 62. The average marks of boys and girls in that subject are 60 and 65, respectively. The number of boys in the class is:",
+      "options": ["A. 36", "B. 38", "C. 40", "D. 42"],
+      "answer": "A. 36"
+    },
+    {
+      "id": 31,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "A train covers a distance of 600 km in 5 hours. What is its speed in km/h?",
+      "options": ["A. 100 km/h", "B. 120 km/h", "C. 140 km/h", "D. 160 km/h"],
+      "answer": "B. 120 km/h"
+    },
+    {
+      "id": 32,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "If 5x + 3y = 15 and 2x - y = 1, what is the value of x + y?",
+      "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+      "answer": "B. 4"
+    },
+    {
+      "id": 33,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "A sum of money doubles itself in 8 years at simple interest. In how many years will it triple itself?",
+      "options": ["A. 12 years", "B. 16 years", "C. 20 years", "D. 24 years"],
+      "answer": "B. 16 years"
+    },
+    {
+      "id": 34,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "What is the value of sin 30° + cos 60°?",
+      "options": ["A. 1", "B. 1/2", "C. 3/2", "D. 2"],
+      "answer": "A. 1"
+    },
+    {
+      "id": 35,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "A can do a work in 12 days and B in 18 days. How many days will they take to complete the work together?",
+      "options": ["A. 6 days", "B. 7 days", "C. 8 days", "D. 9 days"],
+      "answer": "B. 7 days"
+    },
+    {
+      "id": 36,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "If 20% of a number is 15, what is 25% of that number?",
+      "options": ["A. 18.75", "B. 20", "C. 22.5", "D. 25"],
+      "answer": "A. 18.75"
+    },
+    {
+      "id": 37,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "The perimeter of a rectangle is 34 cm, and its length is 10 cm. What is its breadth?",
+      "options": ["A. 5 cm", "B. 6 cm", "C. 7 cm", "D. 8 cm"],
+      "answer": "C. 7 cm"
+    },
+    {
+      "id": 38,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "What is the HCF of 36 and 48?",
+      "options": ["A. 6", "B. 12", "C. 18", "D. 24"],
+      "answer": "B. 12"
+    },
+    {
+      "id": 39,
+      "section": "English Comprehension",
+      "direction": "Select the most appropriate synonym of the given word.",
+      "question": "What is a synonym for 'Enormous'?",
+      "options": ["A. Tiny", "B. Huge", "C. Small", "D. Average"],
+      "answer": "B. Huge"
+    },
+    {
+      "id": 40,
+      "section": "English Comprehension",
+      "direction": "Select the most appropriate antonym of the given word.",
+      "question": "What is an antonym for 'Reluctant'?",
+      "options": ["A. Willing", "B. Hesitant", "C. Uncertain", "D. Cautious"],
+      "answer": "A. Willing"
+    },
+    {
+      "id": 41,
+      "section": "English Comprehension",
+      "direction": "Fill in the blank with the most appropriate word.",
+      "question": "The meeting was _____ due to the chairman's illness.",
+      "options": ["A. cancelled", "B. conducted", "C. held", "D. attended"],
+      "answer": "A. cancelled"
+    },
+    {
+      "id": 42,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Identify the misspelt word:",
+      "options": ["A. Accommodate", "B. Seperate", "C. Opportunity", "D. Environment"],
+      "answer": "B. Seperate"
+    },
+    {
+      "id": 43,
+      "section": "English Comprehension",
+      "direction": "Select the option that can be used as a one-word substitute for the given phrase.",
+      "question": "A person who loves books",
+      "options": ["A. Bibliophile", "B. Philatelist", "C. Numismatist", "D. Polyglot"],
+      "answer": "A. Bibliophile"
+    },
+    {
+      "id": 44,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Choose the correctly spelt word:",
+      "options": ["A. Milage", "B. Millennium", "C. Maintanance", "D. Mischievious"],
+      "answer": "B. Millennium"
+    },
+    {
+      "id": 45,
+      "section": "English Comprehension",
+      "direction": "Select the most appropriate meaning of the given idiom.",
+      "question": "What does the idiom 'To beat around the bush' mean?",
+      "options": ["A. To avoid the main topic", "B. To fight aggressively", "C. To work hard", "D. To be confused"],
+      "answer": "A. To avoid the main topic"
+    },
+    {
+      "id": 46,
+      "section": "English Comprehension",
+      "direction": "The following sentence has an error. Identify the part with the error.",
+      "question": "The team is playing good in the tournament.",
+      "options": ["A. The team", "B. is playing", "C. good", "D. in the tournament"],
+      "answer": "C. good"
+    },
+    {
+      "id": 47,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Select the word that is closest in meaning to 'Candid':",
+      "options": ["A. Deceptive", "B. Frank", "C. Reserved", "D. Cautious"],
+      "answer": "B. Frank"
+    },
+    {
+      "id": 48,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Choose the option that best completes the sentence: She was _____ tired that she could barely stand.",
+      "options": ["A. so", "B. too", "C. very", "D. much"],
+      "answer": "A. so"
+    },
+    {
+      "id": 49,
+      "section": "English Comprehension",
+      "direction": "Select the option that correctly rearranges the parts of the sentence.",
+      "question": "(A) to the park (B) went (C) the children (D) yesterday",
+      "options": ["A. C, B, A, D", "B. B, C, A, D", "C. C, A, B, D", "D. A, C, B, D"],
+      "answer": "A. C, B, A, D"
+    },
+    {
+      "id": 50,
+      "section": "English Comprehension",
+      "direction": "Read the passage and answer the question that follows: The Indian economy has seen significant growth over the past few decades. Liberalization in the 1990s opened up markets, leading to increased foreign investment. However, challenges like unemployment and inflation persist. The government has introduced reforms to address these issues, but their impact is yet to be fully realized.",
+      "question": "What opened up markets in the Indian economy during the 1990s?",
+      "options": ["A. Globalization", "B. Privatization", "C. Liberalization", "D. Nationalization"],
+      "answer": "C. Liberalization"
+    }
+  ]
+}

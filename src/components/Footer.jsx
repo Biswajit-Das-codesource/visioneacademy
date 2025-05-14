@@ -4,7 +4,6 @@ const Footer = () => {
   return (
     <footer className="bg-gray-100 text-black py-10 px-14">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-3 text-sm">
-        
         <div>
           <h4 className="font-semibold text-lg mb-4">Mock Tests</h4>
           <ul className="space-y-2">

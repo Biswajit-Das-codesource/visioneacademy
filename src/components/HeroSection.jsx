@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 
 import { FaArrowAltCircleRight } from "react-icons/fa";
 import InfiniteScrollCarousel from "./carousel";
-import GoogleAd from "./googleAD/googlead";
 import RecentlyUpdatedQuestions from "./RecentQus";
 import InnovationCards from "./Inovation";
 import StudentSection from "./StudentCard";
@@ -13,7 +12,8 @@ import { Link, useNavigate } from "react-router-dom";
 import { onAuthStateChanged } from "firebase/auth";
 import { auth, db } from "../config/firebase";
 import { doc, getDoc } from "firebase/firestore";
-// Define each card's background color in the data
+
+
 const data = {
   popular: [
     {
@@ -274,20 +274,25 @@ export default function ExamSections() {
           </div>
 
           {/* Buttons */}
+
           <div className="mt-6 flex justify-center gap-4 flex-wrap">
-            <button className="bg-green-500 text-white px-7 py-3 rounded-md hover:bg-green-600 font-medium cursor-pointer">
-              Get Started For Free
-            </button>
+            {role === "student" ? (
+              <button className="bg-blue-600 text-white px-6 py-3 rounded-md font-medium cursor-pointer">
+                <Link to="/student-dashboard">Your Dashboard</Link>
+              </button>
+            ) : (
+              <button className="bg-green-500 text-white px-7 py-3 rounded-md hover:bg-green-600 font-medium cursor-pointer">
+                Get Started For Free
+              </button>
+            )}
             <button className="bg-transparent text-black border-2 border-black px-6 py-3 rounded-md font-medium cursor-pointer">
               Checkout our courses
             </button>
+
             {role === "admin" ? (
               <button className="bg-blue-600 text-white px-6 py-3 rounded-md font-medium cursor-pointer">
-              <Link to="/admin-dashboard">
-                Admin Dashboard
-                </Link>
+                <Link to="/admin-dashboard">Admin Dashboard</Link>
               </button>
-             
             ) : (
               ""
             )}
@@ -311,19 +316,19 @@ export default function ExamSections() {
         <div className="relative z-10 p-6 grid grid-rows-[auto_auto_auto] mt-10">
           {/* Top row */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-            <Section title="Popular Products" items={data.popular} />
-            <Section title="Free Materials" items={data.free} />
-            <Section title="Plans" items={data.plans} />
+            <Section title="Popular Products" items={data.popular} data-aos="flip-right" />
+            <Section title="Free Materials" items={data.free} data-aos="flip-right"/>
+            <Section title="Plans" items={data.plans} data-aos="flip-right" />
           </div>
 
           {/* Middle row */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 h-full mt-4">
             <div className="bg-white rounded-2xl shadow-lg p-2">
-              <Section title="Upcoming Exams" items={data.exams} viewMore />
+              <Section title="Upcoming Exams" items={data.exams} viewMore data-aos="flip-right"/>
             </div>
-            <Banner data-aos="fade-up"/>
+            <Banner data-aos="fade-up" />
           </div>
-
+ 
           {/* Bottom row */}
         </div>
         <InfiniteScrollCarousel />
@@ -334,7 +339,6 @@ export default function ExamSections() {
       <StudentSection />
       <Service />
       <Footer />
-      {/* <GoogleAd slot="3539806634" /> */}
     </>
   );
 }

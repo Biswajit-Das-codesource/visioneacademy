@@ -1,0 +1,1073 @@
+{
+  "exam": {
+    "title": "SBI Clerk Mains Memory Based 2023-2024",
+    "questions": [
+      {
+        "id": "q1",
+        "direction": "Italian super - luxury sports car manufacturer Lamborghini has spread its wings in India. And it, has just opened a dealership in Bengaluru, the IT capital of the country. At a price tag of over Rs. 1 Crore, in addition high import duty barriers. Who will buy a Lamborghini car? Rather, what gives the Italian car maker the confidence to not only drive into India but also expand its presence? If super - luxury brand like Lamborghini is sensing an unfolding big opportunity in a New India, other traditional global luxury car makers have turned very ambitious with new launches.",
+        "question": "Which of the following can be inferred from the given statement?",
+        "options": [
+          "As IT capital, some of the Bengaluru person has the potential to buy Lamborghini car.",
+          "People of India will reject other companies' car and will attracted towards sports car of Lamborghini.",
+          "After India, Lamborghini will plan to launch in neighbouring countries of India.",
+          "Both (a) and (c)",
+          "Both (b) and (c)"
+        ],
+        "answer": "As IT capital, some of the Bengaluru person has the potential to buy Lamborghini car."
+      },
+      {
+        "id": "q2",
+        "direction": null,
+        "question": "Which statement negates the Italian car maker confidence?",
+        "options": [
+          "Two years back, BMW has launched their premium cars in India, and they faced huge loss.",
+          "Before India, Lamborghini had launched their car in France, and they make a 800-million-dollar profit annually.",
+          "After launch, there is a huge demand and query by Indian people.",
+          "Both (a) and (c)",
+          "Both (b) and (c)"
+        ],
+        "answer": "Two years back, BMW has launched their premium cars in India, and they faced huge loss."
+      },
+      {
+        "id": "q3",
+        "direction": "In the following questions, the symbols @, # and $ are used with the following meanings as illustrated below. Study the following information and answer the given questions. In each of the questions given below statements are followed by some conclusions. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.\nP@Q - All P is Q.\nP$Q - Only a few Q is P.\nP#Q - No Q is P.",
+        "question": "Statements: Thread $ Summer; Ranges @ Thread; Ranges $ Numbers; Numbers @ Hills\nConclusions:\nI. Summer @ Numbers\nII. Hills # Thread\nIII. Ranges $ Hills",
+        "options": [
+          "Only I follow",
+          "Only III follows",
+          "Either I or II follows",
+          "Both I and III follows",
+          "Both I and II follows"
+        ],
+        "answer": "Only III follows"
+      },
+      {
+        "id": "q4",
+        "direction": null,
+        "question": "Statements: Duck $ Club; Verst # Duck; Verst @ Pizza\nConclusions:\nI. Pizza @ Duck\nII. Pizza $ Club\nIII. Duck # Pizza",
+        "options": [
+          "Only I follow",
+          "Only II follows",
+          "Both II and III follows",
+          "None follows",
+          "Both I and II follows"
+        ],
+        "answer": "None follows"
+      },
+      {
+        "id": "q5",
+        "direction": null,
+        "question": "Statements: Chase $ Top; Chase @ Road; Angel # Road; String # Angel\nConclusions:\nI. Angel # Chase\nII. String $ Angel\nIII. Road # Top",
+        "options": [
+          "Both I and III follows",
+          "Only II follows",
+          "Both II and III follows",
+          "Only I follow",
+          "Both I and II follows"
+        ],
+        "answer": "Both I and III follows"
+      },
+      {
+        "id": "q6",
+        "direction": "Study the following information carefully and answer the questions given below:\nNine persons lives on different floor in thirteen story building. The bottommost floor is numbered as 1 and so on till the topmost floor is numbered as 13. Four floors are vacant.\nA lives on prime numbered floor above floor 5. Four floors gap between A and G. One floor gap between G and H. H lives above G. Five floors gap between H and C. C lives below H. D lives on even numbered floor. Number of floors above D is same as the numbers of floors between J and B. E lives on even number floor just above B. No vacant floor between C and B. F lives two floors above D.",
+        "question": "Four of the following five are alike in a certain way and hence form a group. Which of the following does not belong to that group?",
+        "options": [
+          "Floor 6",
+          "Floor 13",
+          "Floor 5",
+          "Floor 9",
+          "Floor 1"
+        ],
+        "answer": "Floor 6"
+      },
+      {
+        "id": "q7",
+        "direction": null,
+        "question": "Who live just below and just above J respectively?",
+        "options": [
+          "D, H",
+          "A, G",
+          "G, H",
+          "F, A",
+          "B, G"
+        ],
+        "answer": "G, H"
+      },
+      {
+        "id": "q8",
+        "direction": null,
+        "question": "How many persons live above E?",
+        "options": [
+          "Four",
+          "Five",
+          "Three",
+          "Six",
+          "More than six"
+        ],
+        "answer": "Four"
+      },
+      {
+        "id": "q9",
+        "direction": null,
+        "question": "Which of the following statement is true?\nI. Two persons live between J and B\nII. C does not live below J\nIII. The numbers of floors above B is same as the numbers of floor below A",
+        "options": [
+          "Both I and III",
+          "Only III",
+          "Both I and II",
+          "Only I",
+          "All I, II and III"
+        ],
+        "answer": "Only III"
+      },
+      {
+        "id": "q10",
+        "direction": null,
+        "question": "If F and G interchanged their position then how many persons live between F and H?",
+        "options": [
+          "Two",
+          "One",
+          "Three",
+          "None",
+          "Four"
+        ],
+        "answer": "Two"
+      },
+      {
+        "id": "q11",
+        "direction": null,
+        "question": "Which of the following may be cause/effect in respect to amendments in Public Premises act?\n(I) New ministers and parliamentarians will get accommodation on right time.\n(II) Hunger strike is called by India against corruption leader Anna Hajare.\n(III) A RTI was filed by congress MP 2 years ago who had not get Govt. Bungalow for 5 months after becoming MP.",
+        "options": [
+          "I is cause and II is effect",
+          "I and II is effect",
+          "I is cause and III is effect",
+          "III is cause and I is effect",
+          "None of these"
+        ],
+        "answer": "III is cause and I is effect"
+      },
+      {
+        "id": "q12",
+        "direction": "Read the following statements and answer the question.\n(I) Finally, the government has decided to sell off its sick industrial units, which have become a burden to it.\n(II) Corruption, inefficiency and red-tapism have led to heavy losses to the government owned industrial units.",
+        "question": "Which of the following is true with respect to the above statements?",
+        "options": [
+          "Statement I is the cause and Statement II is its effect",
+          "Statement II is the cause and Statement I is its effect",
+          "Both statement I and II are independent causes",
+          "Both statements I and II are effects of independent causes",
+          "None of these"
+        ],
+        "answer": "Statement II is the cause and Statement I is its effect"
+      },
+      {
+        "id": "q13",
+        "direction": "A word arrangement machine when given an input line of words rearranges them following a particular rule in each step. The example of input and its rearrangement is given below:\nInput: Gold Plus Era Rain Hat Ask Row Bank Bay Join\nStep I: Gold Plus Era Rain aks abkn Hat Row Bay Join\nStep II: Plus Era Rain aks aby dglo abkn Hat Row Join\nStep III: Plus Rain aks aby aer ijno dglo abkn Hat Row\nStep IV: Rain aks aby aer aht lpsu ijno dglo abkn Row\nStep V: aks aby aer aht orw ainr lpsu ijno dglo abkn\nStep V is the last step of the given example. Illustrate the above input arrangement and obtain the steps for the asked input given below:\nInput: Ten Only Car Must Land Yen Away Next End Ink",
+        "question": "What is the position of 'acr' in step IV from left end?",
+        "options": [
+          "5",
+          "4",
+          "3",
+          "2",
+          "1"
+        ],
+        "answer": "3"
+      },
+      {
+        "id": "q14",
+        "direction": null,
+        "question": "How many words are in between 'Yen' and 'den' in step II?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Four",
+          "More than four"
+        ],
+        "answer": "Four"
+      },
+      {
+        "id": "q15",
+        "direction": null,
+        "question": "Which of the following word is fourth from right end in step V?",
+        "options": [
+          "mstu",
+          "adln",
+          "entx",
+          "Yen",
+          "aawy"
+        ],
+        "answer": "mstu"
+      },
+      {
+        "id": "q16",
+        "direction": null,
+        "question": "Which of the following word is third to the left of 'Next' in step III?",
+        "options": [
+          "mstu",
+          "den",
+          "ikn",
+          "adln",
+          "aawy"
+        ],
+        "answer": "den"
+      },
+      {
+        "id": "q17",
+        "direction": null,
+        "question": "How many words are starts with vowel in step IV?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Six",
+          "Seven"
+        ],
+        "answer": "Three"
+      },
+      {
+        "id": "q18",
+        "direction": "In these questions, relationship between different elements is shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer:",
+        "question": "Statements: J ≥ K = M < N, O > N = P, Q ≤ P ≤ R\nConclusion\nI: J > O\nII: Q ≤ M\nIII: K < R",
+        "options": [
+          "If both conclusions I and II are true.",
+          "None is true",
+          "If only conclusion III is true.",
+          "If both conclusions II and III are true.",
+          "If both conclusions I and III are true."
+        ],
+        "answer": "If only conclusion III is true."
+      },
+      {
+        "id": "q19",
+        "direction": null,
+        "question": "Statements: V < W = X ≥ Y, Z ≤ X = U, T > U = Y\nConclusion\nI: T > V\nII: Z ≤ W\nIII: Y > W",
+        "options": [
+          "If both conclusions I and II are true.",
+          "If only conclusion I is true.",
+          "If only conclusion III is true.",
+          "If both conclusions II and III are true.",
+          "If both conclusions I and III are true."
+        ],
+        "answer": "If both conclusions I and II are true."
+      },
+      {
+        "id": "q20",
+        "direction": null,
+        "question": "Statements: E > F = G > H, I ≤ H ≤ J, K < I\nConclusion\nI: E > I\nII: K < G\nIII: J > G",
+        "options": [
+          "If All I, II and III are true",
+          "If both conclusions II and III are true.",
+          "If only conclusion II is true.",
+          "If both conclusions I and II are true.",
+          "If both conclusions I and III are true."
+        ],
+        "answer": "If both conclusions I and II are true."
+      },
+      {
+        "id": "q21",
+        "direction": null,
+        "question": "If in the given word 'DANGEROUS', if all the vowels replaced by its just next letter and all the consonants replaced by its just previous letter then remove all the repeated letter. After that how many letters between 6th letter from the left and 4th letter from the right according to the alphabetical order?",
+        "options": [
+          "7",
+          "4",
+          "2",
+          "1",
+          "3"
+        ],
+        "answer": "2"
+      },
+      {
+        "id": "q22",
+        "direction": null,
+        "question": "District Magistrate of City X gave hard hitting remarks at meeting with all the Pradhan 'One village in district is spreading violence in the region'. The growing forces of violence pose a fundamental challenge. We will not tolerate violence in city. Strict action will be taken for the culprits.\nWhich of the following statement can be inferred from above sentence?\n(I) Law and order of India is not under control.\n(II) The district which is indicated by DM will take strong action against violence.\n(III) DM of city X is too much concern about violent activity and cannot tolerate it.",
+        "options": [
+          "Only I",
+          "Only III",
+          "II and III",
+          "Only I and III",
+          "None of these"
+        ],
+        "answer": "II and III"
+      },
+      {
+        "id": "q23",
+        "direction": null,
+        "question": "Statement: Fair glow in one week otherwise money will be returned. This is Ayurveda cream and there is no side effect-Use 'X' brand cream. -An advertisement in the newspaper A. Which of the following statement can be assumed from the above sentence?\nI. Normally people like Ayurveda cream.\nII. Very few people read advertisement in a newspaper.\nIII. Very few people read the newspaper A.",
+        "options": [
+          "None is implicit",
+          "Only I and II are implicit",
+          "Only I, and either II or III are implicit",
+          "All are implicit",
+          "None of the above"
+        ],
+        "answer": "Only I, and either II or III are implicit"
+      },
+      {
+        "id": "q24",
+        "direction": "Each of the questions below, consist a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read the statements and give answer.",
+        "question": "Six boxes are placed one above the other. How many boxes are placed below B?\nI. E is placed three boxes above D. B is placed just above F. One box is placed between D and C.\nII. Three boxes are placed between A and E. C is placed just below A. Two boxes are placed between C and F. B is placed above D.",
+        "options": [
+          "Only I is sufficient",
+          "Both I and II together are sufficient",
+          "Either I or II is sufficient",
+          "Only II is sufficient",
+          "Both I and II, even together are not sufficient"
+        ],
+        "answer": "Both I and II together are sufficient"
+      },
+      {
+        "id": "q25",
+        "direction": null,
+        "question": "Six persons have different weights to each other. Who among all is 2nd heaviest?\nI. B is heavier than A but lighter than C. Only two persons are lighter than A. D is heavier than F but lighter than E. B is heavier than E.\nII. Only two persons are heavier than C. D is lighter than C but heavier than A. F is lighter than C and B who is not the heaviest. F is heavier than D but lighter than E.",
+        "options": [
+          "Only I is sufficient",
+          "Both I and II together are sufficient",
+          "Either I or II is sufficient",
+          "Only II is sufficient",
+          "Both I and II, even together are not sufficient"
+        ],
+        "answer": "Only I is sufficient"
+      },
+      {
+        "id": "q26",
+        "direction": null,
+        "question": "Six persons visit a city in different months i.e., January, February, March, April, May and June. Who among all visits in March?\nI. M visits in the month having 30 days. Two persons visit between M and B. The number of persons visit before B is same as the number of persons visit after G.\nII. Two persons visit between D and N. N visits on one of the months after D. G visits just before N. E visits three months before G but not in February.",
+        "options": [
+          "Only I is sufficient",
+          "Both I and II together are sufficient",
+          "Either I or II is sufficient",
+          "Only II is sufficient",
+          "Both I and II, even together are not sufficient"
+        ],
+        "answer": "Only II is sufficient"
+      },
+      {
+        "id": "q27",
+        "direction": "Study the following information carefully and answer the questions given below:\nFour persons A, B, C and D walk to their home from junction in different directions. A goes 7m in the north to reach at point P. He turns his right and goes 11m to reach at point R. Now he turns his left and goes 14m to reach at point S. After that he turns his right and goes 20m to reach at point Q. Finally, he takes his right and goes 18m to reach his home. B goes 9m north to reach at point M. Now he takes his left and goes 26m to reach at point T. After that he takes two consecutive right and goes 9m and 15m to reach at point O and point N respectively. Finally, he takes his left and goes 8m to reach his home. D goes 18m south to reach at point E. Now he takes his right and goes 13m to reach at point G. He takes his left and goes 14m to reach at point I. Now he takes two consecutive right and goes 6m and 17m to reach at point H and point F respectively. Finally, he goes 12m west to reach his home. C goes 9m east to reach at point U. Now he takes his right and walks 27m to reach at point X. After that he takes his left turn and goes 15m to reach at point W. Now he takes his left and goes 11m to reach at point V. Finally, he goes 14m east to reach his home.",
+        "question": "Who ends up farthest from the starting junction?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "Cannot be determined"
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "q28",
+        "direction": null,
+        "question": "Four of the following five are alike in a certain way and hence form a group. Which of the following does not belong to that group?",
+        "options": [
+          "O-U",
+          "E-X",
+          "G-F",
+          "M-V",
+          "G-W"
+        ],
+        "answer": "G-F"
+      },
+      {
+        "id": "q29",
+        "direction": null,
+        "question": "Which of the following statement is not true?\nI. Total distance from point U to point V is 53m\nII. A's home is in north-west of C's home and south-east of B's home\nIII. Point G is not in south-west of point R",
+        "options": [
+          "Both I and II",
+          "Only I",
+          "Only III",
+          "Both II and III",
+          "Only II"
+        ],
+        "answer": "Only I"
+      },
+      {
+        "id": "q30",
+        "direction": null,
+        "question": "The total distance from point E to point F is same as the total distance from point and point",
+        "options": [
+          "S and P",
+          "M and N",
+          "U and W",
+          "G and D",
+          "C and U"
+        ],
+        "answer": "M and N"
+      },
+      {
+        "id": "q31",
+        "direction": null,
+        "question": "How far is A from his starting point?",
+        "options": [
+          "Less than 50m",
+          "Exactly 55m",
+          "Between 55m and 65m",
+          "More than 65m",
+          "Cannot be determined"
+        ],
+        "answer": "Less than 50m"
+      },
+      {
+        "id": "q32",
+        "direction": "Read the given information carefully and answer the questions based on it: Eight persons of a family sit in a row facing north. All are related to each other. There are equal number of females and males in the family.\nD sits third from an end of the row. C sits second to the left of D. Three persons sit between C and E's spouse. E's spouse is the immediate neighbor of E. L's son sits third to the left of L. Less than two persons sit to the right of L. F sits fourth to the left of F's brother. C's brother sits second to the right of F. G sits second to the right of H's wife. A's mother sits third to the right of A. A's sister and A sit adjacent to each other. One person sits between A's sister and H's daughter. D is neither H's wife nor sister of H.",
+        "question": "How is G related to A?",
+        "options": [
+          "Sister",
+          "Brother",
+          "Father",
+          "Mother",
+          "Wife"
+        ],
+        "answer": "Father"
+      },
+      {
+        "id": "q33",
+        "direction": null,
+        "question": "Who sits second to the left of L?",
+        "options": [
+          "H",
+          "A",
+          "C",
+          "E",
+          "F"
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "q34",
+        "direction": null,
+        "question": "How many persons sit between H and E?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "answer": "Two"
+      },
+      {
+        "id": "q35",
+        "direction": null,
+        "question": "Four of the following five are alike in a certain way and hence form a group. Which of the following does not belong to that group?",
+        "options": [
+          "A",
+          "C",
+          "E",
+          "F",
+          "H"
+        ],
+        "answer": "F"
+      },
+      {
+        "id": "q36",
+        "direction": null,
+        "question": "How is D related to F?",
+        "options": [
+          "Sister",
+          "Brother",
+          "Father",
+          "Mother",
+          "Wife"
+        ],
+        "answer": "Sister"
+      },
+      {
+        "id": "q38",
+        "direction": null,
+        "question": "Statement: At least 80 people have been killed and over 350 wounded in a suicide car bombing in Kabul's diplomatic quarter this morning, a few hundred metres from the Indian embassy. The area where the explosion took place is close to the presidential palace and several foreign embassies. External Affairs Minister Sushma Swaraj has tweeted that Indian officials are safe.\nWhich of the following is an appropriate course of action as a fallout of the above terrorist attack?",
+        "options": [
+          "India should call back its diplomats and officials immediately.",
+          "India should proceed to International Court of Justice against the Afghan government.",
+          "India should ask the Afghanistan Government to ramp up the security of its officials.",
+          "Officials in Afghanistan should be advised to remain indoors as far as possible.",
+          "None of these"
+        ],
+        "answer": "India should ask the Afghanistan Government to ramp up the security of its officials."
+      },
+      {
+        "id": "q39",
+        "direction": null,
+        "question": "In the number '684359271', if all the digits are arranged in descending order, after then, the digits which remain at same place are removed, now find the difference between the sum of odd digits and sum of even digits in the new number thus formed?",
+        "options": [
+          "5",
+          "7",
+          "6",
+          "8",
+          "4"
+        ],
+        "answer": "5"
+      },
+      {
+        "id": "q40",
+        "direction": "In the given questions, a group of letters is given followed by some combinations of numbers and symbols. You have to find out the correct combinations for the group of letters based on the conditions given below:\nNotes: The alphabets are numbered as 1 to 5 but vowels and the alphabets just before vowel are not numbered here. After numbering till 5, again next five letters are numbered as 1 to 5 and so on.\nVowels are coded as #, @, %, &, $ from U to A respectively. Rest letters are numbered as the highest single digit prime number.\nConditions:\n1. If both first and last alphabets of the word are either consonant or vowel, then the alphabets which are just next to the vowel (within the word) are coded with the code of Z (except the last vowel).\n2. If there are more than two vowels present in the word, then their codes will be written in the alphabetical order of vowels against their places (vowels are considered present in word only).\nCodes of remaining letters will be written after the subtraction of their given codes from 7 as per the note.\n3. If condition 1 and condition 2, both are applied together in the given order, then the code of remaining letter will be written as per note.",
+        "question": "Find the code for 'IMPETUS'.",
+        "options": [
+          "& 43 % 0 # 5",
+          "& 34 % 7 # 2",
+          "% 43 & 0 # 5",
+          "% 34 # 7 & 2",
+          "& 43 # 0 % 5"
+        ],
+        "answer": "& 43 % 0 # 5"
+      },
+      {
+        "id": "q41",
+        "direction": null,
+        "question": "Find the code for 'ZENITH'.",
+        "options": [
+          "2 & 7 % 72",
+          "5 % 7 % 27",
+          "2 & 2 % 27",
+          "2 & 2 % 77",
+          "5 % 2 % 27"
+        ],
+        "answer": "2 & 2 % 27"
+      },
+      {
+        "id": "q42",
+        "direction": null,
+        "question": "Find the code for 'INTERPOLE'.",
+        "options": [
+          "% 77 & 14 @ 2 &",
+          "& 20 & 23 % 2 @",
+          "& 24 % 23 @ 2 &",
+          "& 27 & 24 @ 7 %",
+          "@ 72 % & 274 @"
+        ],
+        "answer": "& 24 % 23 @ 2 &"
+      },
+      {
+        "id": "q43",
+        "direction": null,
+        "question": "Which of the following codes will fill the blank in '_ $22 @ _1$' which is the code of 'DAGLOCK', respectively?",
+        "options": [
+          "0,5",
+          "7,5",
+          "0,6",
+          "7,0",
+          "7,2"
+        ],
+        "answer": "7,5"
+      },
+      {
+        "id": "q44",
+        "direction": null,
+        "question": "Which of the following word is coded as '$2 & # 5$'?",
+        "options": [
+          "SLIDE",
+          "LEAVE",
+          "EQUAL",
+          "MOUNT",
+          "QUITE"
+        ],
+        "answer": "SLIDE"
+      },
+      {
+        "id": "q45",
+        "direction": null,
+        "question": "Six persons go to market in different days of a week stating from Monday to Saturday. Three persons go between A and C. A goes on one of the days before C. E goes just after A. The number of persons go before E is same as the number of persons go after B. D goes after F. How many persons go before B?",
+        "options": [
+          "One",
+          "Two",
+          "More than three",
+          "Three",
+          "None"
+        ],
+        "answer": "Two"
+      },
+      {
+        "id": "q46",
+        "direction": "In each question below is given a passage followed by several inferences. You have to examine each inference separately in the context of the passage and decide upon its degree of truth or falsity. Mark your answer as:\nIndia needs higher investment in the port sector and still lags far behind international ports in container traffic, though there has been considerable growth in this segment over the past few years. There is a need to continually benchmark Indian ports against the best ports worldwide and continue to engage in policy efforts so as to attain prices per container of port services which are the lowest in the world. The average turn-around time for ships docking at most of the ports in India has been falling for the past three years. However, pre-berthing time has been marginally increasing over the years.",
+        "question": "The best port in the world is located in the United States of America.",
+        "options": [
+          "If the inference is 'definitely true' i.e., it directly follows from the facts given in the passage;",
+          "If the inference is 'probably true' though not definitely true in the light of the facts given;",
+          "If you think the data are inadequate i.e., from the facts given you cannot say whether the inference is likely to be true or false;",
+          "If you think the inference is 'definitely false' i.e., it contradicts the given facts.",
+          "If you think the inference is 'probably false' though not definitely false in the light of facts given;"
+        ],
+        "answer": "If you think the data are inadequate i.e., from the facts given you cannot say whether the inference is likely to be true or false;"
+      },
+      {
+        "id": "q47",
+        "direction": null,
+        "question": "Indian ports have not been graded so far on the international standard.",
+        "options": [
+          "If the inference is 'definitely true' i.e., it directly follows from the facts given in the passage;",
+          "If the inference is 'probably true' though not definitely true in the light of the facts given;",
+          "If you think the data are inadequate i.e., from the facts given you cannot say whether the inference is likely to be true or false;",
+          "If you think the inference is 'definitely false' i.e., it contradicts the given facts.",
+          "If you think the inference is 'probably false' though not definitely false in the light of facts given;"
+        ],
+        "answer": "If you think the data are inadequate i.e., from the facts given you cannot say whether the inference is likely to be true or false;"
+      },
+      {
+        "id": "q48",
+        "direction": "Study the following information and answer the related questions:\nIn a certain code language,\nP@Q means P is husband of Q\nP#Q means P is mother of Q\nP^Q means P is father of Q\nP&Q means P is wife of Q\nP%Q means P is brother of Q\nP$Q means P is daughter of Q\nP+Q means P is son of Q",
+        "question": "'D@C$E; S&E^Y#X; J@Y', which of the following is true, if the given expression is true?\nI. C is son of E\nII. J is father of X\nIII. S is mother of Y\nIV. Y is brother of C",
+        "options": [
+          "Only I and III are true",
+          "Only II, III and IV are true",
+          "Only I and IV are true",
+          "Only II and III are true",
+          "Only II and IV are true"
+        ],
+        "answer": "Only II and III are true"
+      },
+      {
+        "id": "q49",
+        "direction": null,
+        "question": "'Z$W^ N+A; G@R#H&N', in the given expression, how W is related to H?",
+        "options": [
+          "Father-in-law",
+          "Brother",
+          "Uncle",
+          "Brother-in-law",
+          "Father"
+        ],
+        "answer": "Father"
+      },
+      {
+        "id": "q53",
+        "direction": null,
+        "question": "Which of the following words will fit in the given blank C?\n(I) Diminution\n(II) Escalation\n(III) Accretion\n(IV) Constriction",
+        "options": [
+          "Both (II) and (IV)",
+          "Only (IV)",
+          "Both (I) and (III)",
+          "Both (II) and (III)",
+          "Both (I) and (IV)"
+        ],
+        "answer": "Both (II) and (III)"
+      },
+      {
+        "id": "q54",
+        "direction": null,
+        "question": "Which of the following words will fit in the given blank D?\n(I) Anodyne\n(II) Benignant\n(III) Deleterious\n(IV) Innocuous",
+        "options": [
+          "Both (II) and (III)",
+          "Only (III)",
+          "Both (I) and (II)",
+          "Only (IV)",
+          "Both (I) and (IV)"
+        ],
+        "answer": "Both (I) and (IV)"
+      },
+      {
+        "id": "q55",
+        "direction": null,
+        "question": "Which of the following words will fit in the given blank E?\n(I) Dire\n(II) Apocalyptic\n(III) Propitious\n(IV) Blithesome",
+        "options": [
+          "Both (I) and (II)",
+          "Only (II)",
+          "Both (I) and (IV)",
+          "Only (III)",
+          "Both (III) and (IV)"
+        ],
+        "answer": "Both (I) and (II)"
+      },
+      {
+        "id": "q56",
+        "direction": null,
+        "question": "Which of the following words will fit in the given blank F?\n(I) Ancillary\n(II) Disparate\n(III) Diacritical\n(IV) Divisional",
+        "options": [
+          "Both (II) and (III)",
+          "Only (II)",
+          "Both (I) and (IV)",
+          "Only (I)",
+          "Both (III) and (IV)"
+        ],
+        "answer": "Only (II)"
+      },
+      {
+        "id": "q57",
+        "direction": null,
+        "question": "Which of the following words will fit in the given blank G?\n(I) Scion\n(II) Harbinger\n(III) Contraindication\n(IV) Prelude",
+        "options": [
+          "Both (II) and (IV)",
+          "Only (III)",
+          "Both (I) and (II)",
+          "Only (IV)",
+          "Both (I) and (III)"
+        ],
+        "answer": "Both (II) and (IV)"
+      },
+      {
+        "id": "q58",
+        "direction": "Read the following passage and answer the given questions based on it. In a world dominated by digital advancements, Rohan, a seasoned software engineer with thirty years of experience, decided to embark on a transformative journey. Eager to contribute to his family's legacy, he embarked on an agricultural journey alongside his brother. Together, they chose to cultivate millets, a crop that thrived in the village's climate and offered resistance to pests, aligning perfectly with their aspirations for sustainable farming.\nThe village's reliance on age-old farming tools and techniques posed a challenge for maximizing millet production. Recognizing the potential for modern technology to enhance agricultural efficiency, Rohan applied his engineering expertise to introduce innovative farming practices. His efforts were met with remarkable success, leading to a significant improvement in millet yields.\nRohan's achievements extended beyond his own fields. He became a catalyst for change, sharing his newfound agricultural knowledge with fellow villagers. His initiative to incorporate technology in farming sparked a collective advancement in agricultural practices within the community.\nUnderstanding the economic challenges faced by farmers due to intermediary exploitation, Rohan founded an agro-based company. This venture enabled direct transactions between farmers and the company, eliminating the need for middlemen and significantly increasing farmers' profits by 30%.\nThe village, once known for its traditional farming, gained recognition for its prolific millet production and innovative agricultural practices under Rohan's influence. His journey from a software engineer to a pioneering farmer exemplifies the power of blending technological innovation with traditional wisdom to foster community development and sustainability. Rohan's story is a testament to the impactful change one individual can bring to agriculture, transforming his village into a beacon of progress.",
+        "question": "Which of the following statement is CORRECT?",
+        "options": [
+          "Rohan initiated his agricultural venture with assistance from his father.",
+          "The choice to cultivate millets was driven by their higher market prices for farmers.",
+          "Millets exhibit resistance to pests.",
+          "Engaging in millet cultivation resulted in significant financial losses for the village's farmers.",
+          "None of the above statements are correct."
+        ],
+        "answer": "Millets exhibit resistance to pests."
+      },
+      {
+        "id": "q59",
+        "direction": null,
+        "question": "Which of the following statement(s) is/ are CORRECT based on the passage?\n(I) Millets were chosen for their high market price and profitability.\n(II) Rohan applied his engineering expertise to overcome the challenges posed by traditional farming methods.\n(III) The introduction of innovative farming practices had no significant effect on the community's agricultural practices.",
+        "options": [
+          "Only (I)",
+          "Both (I) and (II)",
+          "Only (II)",
+          "Both (II) and (III)",
+          "All (I), (II), and (III)"
+        ],
+        "answer": "Only (II)"
+      },
+      {
+        "id": "q60",
+        "direction": null,
+        "question": "Which statement(s) does NOT align with the details in the passage?\n(I) Rohan's decision to cultivate millets was primarily due to their ease of cultivation and low maintenance.\n(II) The significant improvement in millet yields was attributed to Rohan's engineering expertise and the adoption of innovative farming practices.\n(III) Rohan's venture into agriculture had little impact on the economic challenges faced by farmers in the village.",
+        "options": [
+          "Only (I)",
+          "Both (I) and (II)",
+          "Only (III)",
+          "Both (I) and (III)",
+          "All (I), (II), and (III)"
+        ],
+        "answer": "Both (I) and (III)"
+      },
+      {
+        "id": "q61",
+        "direction": null,
+        "question": "Which of the following statement(s) is/ are CORRECT based on the passage?\n(I) Rohan relied on traditional wisdom to enhance agricultural practices in his village.\n(II) Direct sales facilitated by Rohan's agro-based company significantly cut down the exploitation by intermediaries.\n(III) Rohan's transition to agriculture was inspired by a desire to contribute to his family's legacy.",
+        "options": [
+          "Only (I)",
+          "Both (I) and (II)",
+          "Only (III)",
+          "Both (II) and (III)",
+          "All (I), (II), and (III)"
+        ],
+        "answer": "Both (II) and (III)"
+      },
+      {
+        "id": "q62",
+        "direction": null,
+        "question": "How did Rohan's agro-based company impact the farming community?",
+        "options": [
+          "By providing advanced agricultural tools and resources that directly contributed to increased millet production.",
+          "Through facilitating educational workshops on innovative farming techniques, leading to widespread adoption among villagers.",
+          "By enabling sales channels between farmers and markets, thereby ensuring fairer prices for their produce.",
+          "Through the introduction of pest-resistant millet varieties, specifically engineered to thrive in the village's climate.",
+          "By cutting out intermediaries, which resulted in a substantial increase in the farmers' profits."
+        ],
+        "answer": "By cutting out intermediaries, which resulted in a substantial increase in the farmers' profits."
+      },
+      {
+        "id": "q63",
+        "direction": null,
+        "question": "Based on the passage, why did Rohan choose millets as the crop for his agricultural venture?",
+        "options": [
+          "Millets were the most profitable crop in the market at the time.",
+          "He had extensive prior experience in cultivating millets.",
+          "Millets thrived in the village's climate and offered resistance to pests.",
+          "The local government provided subsidies for millet cultivation.",
+          "Millets required less water compared to other crops, making them ideal for the village's dry climate."
+        ],
+        "answer": "Millets thrived in the village's climate and offered resistance to pests."
+      },
+      {
+        "id": "q64",
+        "direction": null,
+        "question": "What was the primary challenge Rohan faced when he began his agricultural venture in the village?",
+        "options": [
+          "A lack of interest from the village community in adopting new farming methods.",
+          "The village's reliance on age-old farming tools and techniques that limited farming practices.",
+          "Difficulty in finding a suitable crop that could thrive in the local climate.",
+          "Resistance from local middlemen who were threatened by his innovative approaches.",
+          "The high cost of importing modern agricultural technology to the village."
+        ],
+        "answer": "The village's reliance on age-old farming tools and techniques that limited farming practices."
+      },
+      {
+        "id": "q65",
+        "direction": "Read the following passage and answer the given questions.\nGermany's economic vigor is surmised to have attenuated by 0.3% in the annum 2023, aligning with autumnal prognostications. An erosion in purchasing power egregiously impinged upon private consumer expenditures. Escalated expenditures pertinent to construction and borrowing, compounded by a paucity of labor and pronounced energy costs, have effectively hamstrung investments in the construction ambit and industries characterized by prodigious energy consumption.\nIndices reflecting economic sentiment have remained in a state of torpor, with certain gauges in January descending to their lowest ebb since the COVID-19 pandemic's advent, signaling an economic expansion that is, at best, tepid in the initial half of 2024. The trajectory of investment growth is poised to continue its lag behind pre-pandemic standards, beleaguered by a dismal investor outlook at the year's outset. Labor shortages steadfastly remain a formidable barrier to economic activities, effectively squaring the circle in terms of reconciling growth aspirations with the reality of workforce constraints. The prospect of a trade-led revitalization appears tenuous, as exports and imports are anticipated to ascend at parallel magnitudes in the ensuing forecast intervals. More austere fiscal policies are poised to cast a pall over the near-term growth outlook. Contrariwise, a modicum of relief in market financing conditions has been noted, with anticipations of further amelioration in the offing.",
+        "question": "What is the primary reason for the hampered investments in Germany's construction sector as mentioned in the passage?",
+        "options": [
+          "Decline in consumer confidence",
+          "Increased costs of construction and borrowing, along with labor shortages and high energy costs",
+          "Stricter environmental regulations",
+          "Reduced government subsidies for construction projects",
+          "Fluctuations in global trade dynamics"
+        ],
+        "answer": "Increased costs of construction and borrowing, along with labor shortages and high energy costs"
+      },
+      {
+        "id": "q66",
+        "direction": null,
+        "question": "According to the passage, what is the expected trend for Germany's economic expansion in the first half of 2024?",
+        "options": [
+          "Robust growth driven by increased consumer spending",
+          "Tepid expansion due to low economic sentiment",
+          "Significant recovery fueled by export growth",
+          "Stagnation due to relaxed fiscal policies",
+          "Rapid improvement due to enhanced market financing conditions"
+        ],
+        "answer": "Tepid expansion due to low economic sentiment"
+      },
+      {
+        "id": "q67",
+        "direction": null,
+        "question": "What does the passage suggest about Germany's trade prospects?",
+        "options": [
+          "A strong trade-led revitalization is expected due to increased exports.",
+          "Exports and imports are likely to grow at similar rates, limiting trade-led recovery.",
+          "Imports will significantly outpace exports, leading to a trade deficit.",
+          "Trade growth will be driven by relaxed fiscal policies.",
+          "Trade activities will decline due to labor shortages."
+        ],
+        "answer": "Exports and imports are likely to grow at similar rates, limiting trade-led recovery."
+      },
+      {
+        "id": "q68",
+        "direction": null,
+        "question": "Which of the following is identified as a persistent challenge to Germany's economic activities?",
+        "options": [
+          "Overreliance on consumer spending",
+          "Excessive government spending",
+          "Labor shortages",
+          "Declining energy costs",
+          "Improved investor confidence"
+        ],
+        "answer": "Labor shortages"
+      },
+      {
+        "id": "q69",
+        "direction": null,
+        "question": "What impact do the fiscal policies mentioned in the passage have on Germany's economic outlook?",
+        "options": [
+          "They are expected to stimulate economic growth significantly.",
+          "They will likely create a favorable environment for consumer spending.",
+          "They are poised to negatively affect near-term growth prospects.",
+          "They will encourage substantial foreign investments.",
+          "They will lead to a significant reduction in energy costs."
+        ],
+        "answer": "They are poised to negatively affect near-term growth prospects."
+      },
+      {
+        "id": "q70",
+        "direction": null,
+        "question": "Which of the following statements is CORRECT based on the passage?",
+        "options": [
+          "Germany's economy grew by 0.3% in 2023.",
+          "Economic sentiment indices in January 2024 were at their highest since the COVID-19 pandemic.",
+          "A decline in purchasing power significantly affected private consumer spending.",
+          "Investment growth in 2023 surpassed pre-pandemic levels.",
+          "Market financing conditions are expected to deteriorate further in 2024."
+        ],
+        "answer": "A decline in purchasing power significantly affected private consumer spending."
+      },
+      {
+        "id": "q71",
+        "direction": null,
+        "question": "What is the passage's outlook on market financing conditions in Germany?",
+        "options": [
+          "They are expected to worsen significantly in the near future.",
+          "There has been a slight improvement with expectations of further positive changes.",
+          "They remain unchanged and are not expected to improve.",
+          "They are the primary driver of economic recovery in 2024.",
+          "They are adversely affected by declining consumer confidence."
+        ],
+        "answer": "There has been a slight improvement with expectations of further positive changes."
+      },
+      {
+        "id": "q126",
+        "direction": null,
+        "question": "The total number of article A (sold + unsold) is calculated based on the given equation involving x, where x represents a certain value determined by solving the equation. What is the total number of article A?",
+        "options": [
+          "250",
+          "200",
+          "150",
+          "100",
+          "300"
+        ],
+        "answer": "250"
+      },
+      {
+        "id": "q127",
+        "direction": null,
+        "question": "Given the selling price relationships between articles A and C, and the profit on article C, which of the following equations correctly represents the relationship between x and y?",
+        "options": [
+          "3x - y = 15",
+          "y - 3x = 15",
+          "3x + y = 15",
+          "x - 3y = 15",
+          "3x - y = 25"
+        ],
+        "answer": "3x - y = 15"
+      },
+      {
+        "id": "q128",
+        "direction": null,
+        "question": "Based on the given equations involving y, what is the value of (3.5y - 10)?",
+        "options": [
+          "200",
+          "150",
+          "250",
+          "100",
+          "300"
+        ],
+        "answer": "200"
+      },
+      {
+        "id": "q129",
+        "direction": null,
+        "question": "Given the equation involving y and the selling price relationships, what is the required percentage calculated as per the given formula?",
+        "options": [
+          "9%",
+          "10%",
+          "8%",
+          "12%",
+          "15%"
+        ],
+        "answer": "9%"
+      },
+      {
+        "id": "q130",
+        "direction": null,
+        "question": "What is the required ratio calculated based on the given values involving x?",
+        "options": [
+          "300:1",
+          "200:1",
+          "150:1",
+          "400:1",
+          "250:1"
+        ],
+        "answer": "300:1"
+      },
+      {
+        "id": "q131",
+        "direction": null,
+        "question": "Using the given statements about a vessel containing a mixture of milk and water, what is the quantity of milk in the initial mixture?",
+        "options": [
+          "37.5 liters",
+          "40 liters",
+          "35 liters",
+          "45 liters",
+          "30 liters"
+        ],
+        "answer": "37.5 liters"
+      },
+      {
+        "id": "q132",
+        "direction": null,
+        "question": "Given the marked price relationships between items P and Q, and using statement II, what is the cost price of P?",
+        "options": [
+          "Rs. 350",
+          "Rs. 400",
+          "Rs. 300",
+          "Rs. 450",
+          "Rs. 200"
+        ],
+        "answer": "Rs. 350"
+      },
+      {
+        "id": "q133",
+        "direction": null,
+        "question": "Based on the given statements about the ages of P, Q, R, A, and D, which option correctly describes the sufficiency of the statements to determine the ages?",
+        "options": [
+          "Neither I nor II is sufficient",
+          "Only I is sufficient",
+          "Only II is sufficient",
+          "Both I and II together are sufficient",
+          "Either I or II is sufficient"
+        ],
+        "answer": "Neither I nor II is sufficient"
+      },
+      {
+        "id": "q134",
+        "direction": null,
+        "question": "Given the salary and expenditure details of A and B, what is the required difference between their salaries?",
+        "options": [
+          "Rs. 8500",
+          "Rs. 9000",
+          "Rs. 8000",
+          "Rs. 9500",
+          "Rs. 7000"
+        ],
+        "answer": "Rs. 8500"
+      },
+      {
+        "id": "q135",
+        "direction": null,
+        "question": "Given the number of green, blue, and red pebbles and the probability calculation, what is the required probability of selecting a blue and a red pebble?",
+        "options": [
+          "10/51",
+          "7/51",
+          "12/51",
+          "5/51",
+          "15/51"
+        ],
+        "answer": "10/51"
+      },
+      {
+        "id": "q136",
+        "direction": null,
+        "question": "Comparing the cost of painting a cuboid and an equilateral triangle based on their dimensions, which quantity is greater?",
+        "options": [
+          "Quantity (I) > Quantity (II)",
+          "Quantity (I) < Quantity (II)",
+          "Quantity (I) = Quantity (II)",
+          "No relation can be established",
+          "Quantity (I) ≥ Quantity (II)"
+        ],
+        "answer": "Quantity (I) > Quantity (II)"
+      },
+      {
+        "id": "q137",
+        "direction": null,
+        "question": "Given the initial mixture of milk and water and the replacement process, what is the value of x (quantity of water added) to achieve a 1:1 ratio of milk to water?",
+        "options": [
+          "3 liters",
+          "4 liters",
+          "2 liters",
+          "5 liters",
+          "6 liters"
+        ],
+        "answer": "3 liters"
+      },
+      {
+        "id": "q138",
+        "direction": null,
+        "question": "Given the downstream and upstream speeds of a boat and the distances covered, what is the required distance traveled in 5 hours at the speed of the boat in still water?",
+        "options": [
+          "37.5 km",
+          "40 km",
+          "35 km",
+          "45 km",
+          "30 km"
+        ],
+        "answer": "37.5 km"
+      },
+      {
+        "id": "q139",
+        "direction": null,
+        "question": "Given the total earnings and the difference between the highest and lowest earnings, what is the average of the remaining three earnings?",
+        "options": [
+          "29",
+          "30",
+          "28",
+          "31",
+          "27"
+        ],
+        "answer": "29"
+      },
+      {
+        "id": "q140",
+        "direction": null,
+        "question": "Given the efficiency and work done by boys and girls, what is the relationship between the time taken by two groups to complete the work?",
+        "options": [
+          "a + c is a multiple of 7",
+          "a + c is a multiple of 5",
+          "a + c is a multiple of 6",
+          "a + c is a multiple of 8",
+          "a + c is a multiple of 9"
+        ],
+        "answer": "a + c is a multiple of 7"
+      }
+    ]
+  }
+}

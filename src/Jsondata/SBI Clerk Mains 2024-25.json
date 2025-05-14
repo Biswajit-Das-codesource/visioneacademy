@@ -1,0 +1,915 @@
+{
+  "exam": "Sbi_Clerk 2024-2",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which Indian Institute of Technology has recently commissioned Asia's largest indigenously developed shallow wave basin research facility to support advanced marine and coastal engineering research? (January 2025)",
+      "native_question": "हाल ही में किस भारतीय प्रौद्योगिकी संस्थान ने उन्नत समुद्री और तटीय इंजीनियरिंग अनुसंधान का समर्थन करने के लिए एशिया की सबसे बड़ी स्वदेशी रूप से विकसित उथली लहर बेसिन अनुसंधान सुविधा शुरू की है? (जनवरी 2025)",
+      "options": [
+        "a. IIT Bombay",
+        "b. IIT Kharagpur",
+        "c. IIT Madras",
+        "d. IIT Delhi",
+        "e. IIT Kanpur"
+      ],
+      "answer": "c. IIT Madras"
+    },
+    {
+      "id": 2,
+      "question": "Odisha has recently announced a landmark three-year sponsorship deal for the Indian National Kho Kho team. What is the total amount committed by the state government to sponsor the team over the three-year period? (January 2025)",
+      "native_question": "ओडिशा ने हाल ही में भारतीय राष्ट्रीय खो-खो टीम के लिए तीन वर्ष के ऐतिहासिक प्रायोजन सौदे की घोषणा की है। तीन वर्ष की अवधि में टीम को प्रायोजित करने के लिए राज्य सरकार द्वारा प्रतिबद्ध कुल राशि कितनी है? (जनवरी 2025)",
+      "options": [
+        "a. ₹5 crore",
+        "b. ₹10 crore",
+        "c. ₹12 crore",
+        "d. ₹15 crore",
+        "e. ₹20 crore"
+      ],
+      "answer": "b. ₹10 crore"
+    },
+    {
+      "id": 3,
+      "question": "In which Indian state is the Pachmarhi Biosphere Reserve located, which is known for its rich biodiversity, UNESCO recognition, and cultural heritage?",
+      "native_question": "पचमढ़ी जीवमंडल रिजर्व किस भारतीय राज्य में स्थित है, जो अपनी समृद्ध जैव विविधता, यूनेस्को मान्यता और सांस्कृतिक विरासत के लिए जाना जाता है?",
+      "options": [
+        "a. Chhattisgarh",
+        "b. Madhya Pradesh",
+        "c. Maharashtra",
+        "d. Jharkhand",
+        "e. Odisha"
+      ],
+      "answer": "b. Madhya Pradesh"
+    },
+    {
+      "id": 4,
+      "question": "As per the Network Readiness Index 2024 released by the Portulans Institute and the Saïd Business School at the University of Oxford, which of the following countries is not ranked among the top five economies globally?",
+      "native_question": "पोर्टुलन्स इंस्टीट्यूट और ऑक्सफोर्ड विश्वविद्यालय के सैद बिजनेस स्कूल द्वारा जारी नेटवर्क रेडीनेस इंडेक्स 2024 के अनुसार, निम्नलिखित में से कौन सा देश वैश्विक स्तर पर शीर्ष पांच अर्थव्यवस्थाओं में शामिल नहीं है?",
+      "options": [
+        "a. United States",
+        "b. Singapore",
+        "c. Sweden",
+        "d. Switzerland",
+        "e. Republic of Korea (South Korea)"
+      ],
+      "answer": "e. Republic of Korea (South Korea)"
+    },
+    {
+      "id": 5,
+      "question": "The intricate Kasuti embroidery, honoured with a Geographical Indication (GI) tag and known for reflecting the traditions and customs of women through delicate handwork using cotton thread, originates from which Indian state?",
+      "native_question": "भौगोलिक संकेत (GI) टैग से सम्मानित और सूती धागे का उपयोग करके नाजुक हस्तकला के माध्यम से महिलाओं की परंपराओं और रीति-रिवाजों को प्रतिबिंबित करने के लिए जानी जाने वाली जटिल कसुती कढ़ाई, किस भारतीय राज्य से उत्पन्न हुई है?",
+      "options": [
+        "a. Andhra Pradesh",
+        "b. Tamil Nadu",
+        "c. Maharashtra",
+        "d. Karnataka",
+        "e. Kerala"
+      ],
+      "answer": "d. Karnataka"
+    },
+    {
+      "id": 6,
+      "question": "Which country most recently joined the BRICS group as its 10th member, with membership becoming effective from January 2025?",
+      "native_question": "कौन सा देश हाल ही में BRICS समूह में 10वें सदस्य के रूप में शामिल हुआ, जिसकी सदस्यता जनवरी 2025 से प्रभावी होगी?",
+      "options": [
+        "a. Saudi Arabia",
+        "b. Ethiopia",
+        "c. Egypt",
+        "d. Iran",
+        "e. Indonesia"
+      ],
+      "answer": "a. Saudi Arabia"
+    },
+    {
+      "id": 7,
+      "question": "Which Indian cricket legend was recently awarded honorary membership of the prestigious Melbourne Cricket Club (MCC) during the India-Australia Boxing Day Test in 2024?",
+      "native_question": "किस भारतीय क्रिकेट दिग्गज को हाल ही में 2024 में भारत-ऑस्ट्रेलिया बॉक्सिंग डे टेस्ट के दौरान प्रतिष्ठित मेलबर्न क्रिकेट क्लब (MCC) की मानद सदस्यता से सम्मानित किया गया?",
+      "options": [
+        "a. Virat Kohli",
+        "b. Rahul Dravid",
+        "c. M.S. Dhoni",
+        "d. Sachin Tendulkar",
+        "e. Rohit Sharma"
+      ],
+      "answer": "d. Sachin Tendulkar"
+    },
+    {
+      "id": 8,
+      "question": "As part of its effort to boost space infrastructure for future human spaceflight missions and Next Generation Launch Vehicles (NGLVs), what is the total financial outlay approved by the Union Cabinet for setting up ISRO's Third Launch Pad (TLP) at the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh? (January 2025)",
+      "native_question": "भविष्य के मानव अंतरिक्ष उड़ान मिशनों और अगली पीढ़ी के प्रक्षेपण वाहनों (NGLV) के लिए अंतरिक्ष बुनियादी ढांचे को बढ़ावा देने के अपने प्रयास के हिस्से के रूप में, आंध्र प्रदेश के श्रीहरिकोटा में सतीश धवन अंतरिक्ष केंद्र में इसरो के तीसरे लॉन्च पैड (TLP) की स्थापना के लिए केंद्रीय मंत्रिमंडल द्वारा अनुमोदित कुल वित्तीय परिव्यय क्या है? (जनवरी 2025)",
+      "options": [
+        "a. ₹2,536 crore",
+        "b. ₹3,291 crore",
+        "c. ₹3,985 crore",
+        "d. ₹4,500 crore",
+        "e. ₹5,174 crore"
+      ],
+      "answer": "b. ₹3,291 crore"
+    },
+    {
+      "id": 9,
+      "question": "On which date was the first Foundation Day of the Lokpal of India celebrated, marking the establishment of the institution to combat corruption in public offices?",
+      "native_question": "भारत के लोकपाल का पहला स्थापना दिवस किस तारीख को मनाया गया, जो सार्वजनिक कार्यालयों में भ्रष्टाचार से निपटने के लिए संस्था की स्थापना का प्रतीक है?",
+      "options": [
+        "a. March 1, 2025",
+        "b. January 26, 2025",
+        "c. December 27, 2024",
+        "d. January 16, 2025",
+        "e. February 10, 2025"
+      ],
+      "answer": "c. December 27, 2024"
+    },
+    {
+      "id": 10,
+      "question": "The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Shri Narendra Modi, has approved an infusion of equity for the Food Corporation of India (FCI) in the financial year 2024-25 to strengthen the agricultural sector. What is the amount of capital infusion approved for FCI in the year 2024-25?",
+      "native_question": "प्रधानमंत्री श्री नरेंद्र मोदी की अध्यक्षता में आर्थिक मामलों की मंत्रिमंडलीय समिति (CCEA) ने कृषि क्षेत्र को मजबूत करने के लिए वित्तीय वर्ष 2024-25 में भारतीय खाद्य निगम (FCI) के लिए इक्विटी के निवेश को मंजूरी दे दी है। वर्ष 2024-25 में FCI के लिए स्वीकृत पूंजी निवेश की राशि कितनी है?",
+      "options": [
+        "a. ₹9,157 Crores",
+        "b. ₹10,700 Crores",
+        "c. ₹12,496 Crores",
+        "d. ₹21,388 Crores",
+        "e. ₹25,000 Crores"
+      ],
+      "answer": "b. ₹10,700 Crores"
+    },
+    {
+      "id": 11,
+      "question": "The Reserve Bank of India (RBI) has introduced the SORR as a new benchmark for overnight rupee transactions, aiming to improve transparency and better reflect market dynamics. What does the 'S' in SORR stand for?",
+      "native_question": "भारतीय रिजर्व बैंक (RBI) ने पारदर्शिता में सुधार लाने और बाजार की गतिशीलता को बेहतर ढंग से दर्शाने के उद्देश्य से ओवरनाइट रुपये लेनदेन के लिए एक नए बेंचमार्क के रूप में SORR शुरू किया है। SORR में 'S' का पूर्ण रूप क्या है?",
+      "options": [
+        "a. Secured",
+        "b. System",
+        "c. Standard",
+        "d. Special",
+        "e. Service"
+      ],
+      "answer": "a. Secured"
+    },
+    {
+      "id": 12,
+      "question": "Where is the headquarters of the International Olympic Committee (IOC) situated?",
+      "native_question": "अंतरराष्ट्रीय ओलंपिक समिति (IOC) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "a. Geneva, Switzerland",
+        "b. Berlin, Germany",
+        "c. Zurich, Switzerland",
+        "d. Paris, France",
+        "e. Lausanne, Switzerland"
+      ],
+      "answer": "e. Lausanne, Switzerland"
+    },
+    {
+      "id": 13,
+      "question": "In which year did the International Astronomical Union (IAU) reclassify Pluto from a planet to a dwarf planet, marking the end of its status as the ninth planet in our solar system?",
+      "native_question": "किस वर्ष अंतरराष्ट्रीय खगोलीय संघ (IAU) ने प्लूटो को ग्रह से बौने ग्रह के रूप में पुनर्वर्गीकृत किया, जिससे हमारे सौर मंडल में नौवें ग्रह के रूप में इसकी स्थिति समाप्त हो गई?",
+      "options": [
+        "a. 2005",
+        "b. 2006",
+        "c. 2007",
+        "d. 2008",
+        "e. 2009"
+      ],
+      "answer": "b. 2006"
+    },
+    {
+      "id": 14,
+      "question": "ISRO recently signed an agreement with which international space agency to cooperate on astronaut training, mission implementation, and research experiments, including collaboration on the upcoming Axiom-4 mission?",
+      "native_question": "ISRO ने हाल ही में किस अंतरराष्ट्रीय अंतरिक्ष एजेंसी के साथ अंतरिक्ष यात्री प्रशिक्षण, मिशन कार्यान्वयन और अनुसंधान प्रयोगों पर सहयोग करने के लिए एक समझौते पर हस्ताक्षर किए, जिसमें आगामी Axiom-4 मिशन पर सहयोग भी शामिल है?",
+      "options": [
+        "a. NASA",
+        "b. JAXA",
+        "c. Roscosmos",
+        "d. ESA",
+        "e. CNES"
+      ],
+      "answer": "a. NASA"
+    },
+    {
+      "id": 15,
+      "question": "The National Payments Corporation of India (NPCI) had initially set a deadline of December 31, 2024, for third-party UPI apps to comply with a 30% market share cap. This deadline has now been extended. What is the new deadline for compliance?",
+      "native_question": "नेशनल पेमेंट्स कॉरपोरेशन ऑफ इंडिया (NPCI) ने शुरू में तृतीय-पक्ष UPI ऐप्स के लिए 30% बाजार हिस्सेदारी सीमा का अनुपालन करने के लिए 31 दिसंबर, 2024 की समय सीमा तय की थी। अब इस समय सीमा को बढ़ा दिया गया है। अनुपालन के लिए नई समय सीमा क्या है?",
+      "options": [
+        "a. December 31, 2025",
+        "b. December 31, 2026",
+        "c. December 31, 2027",
+        "d. December 31, 2028",
+        "e. December 31, 2029"
+      ],
+      "answer": "b. December 31, 2026"
+    },
+    {
+      "id": 16,
+      "question": "Which Indian men's hockey player was recently conferred with the prestigious Major Dhyan Chand Khel Ratna Award for his leadership and performance, including guiding the team to a historic Olympic bronze medal?",
+      "native_question": "किस भारतीय पुरुष हॉकी खिलाड़ी को उनके नेतृत्व और प्रदर्शन के लिए प्रतिष्ठित मेजर ध्यानचंद खेल रत्न पुरस्कार से सम्मानित किया गया, जिसमें टीम को ऐतिहासिक ओलंपिक कांस्य पदक दिलाना भी शामिल है?",
+      "options": [
+        "a. Manpreet Singh",
+        "b. P.R. Sreejesh",
+        "c. Harmanpreet Singh",
+        "d. Rupinder Pal Singh",
+        "e. Mandeep Singh"
+      ],
+      "answer": "c. Harmanpreet Singh"
+    },
+    {
+      "id": 17,
+      "question": "Who is the author of the novel The Safekeep, which was shortlisted for the 2024 Booker Prize?",
+      "native_question": "उपन्यास द सेफकीप की लेखिका कौन है, जिसे 2024 के बुकर पुरस्कार के लिए चुना गया था?",
+      "options": [
+        "a. Rajni George",
+        "b. Yael van der Wouden",
+        "c. Elif Shafak",
+        "d. Meg Mason",
+        "e. Leila Slimani"
+      ],
+      "answer": "b. Yael van der Wouden"
+    },
+    {
+      "id": 18,
+      "question": "The 'Glory of Allapalli,' designated as a Biodiversity Heritage Site and known for its preserved forest ecosystem, is located in which Indian state?",
+      "native_question": "'ग्लोरी ऑफ अल्लापल्ली', जिसे जैव विविधता विरासत स्थल के रूप में नामित किया गया है और जो अपने संरक्षित वन पारिस्थितिकी तंत्र के लिए जाना जाता है, किस भारतीय राज्य में स्थित है?",
+      "options": [
+        "a. Kerala",
+        "b. Karnataka",
+        "c. Maharashtra",
+        "d. Madhya Pradesh",
+        "e. Chhattisgarh"
+      ],
+      "answer": "c. Maharashtra"
+    },
+    {
+      "id": 19,
+      "question": "As per the ongoing India-Australia Comprehensive Economic Cooperation Agreement (CECA) discussions, both countries aim to reach a bilateral trade target of AUD 100 billion by which year?",
+      "native_question": "चल रहे भारत-ऑस्ट्रेलिया व्यापक आर्थिक सहयोग समझौता (CECA) चर्चा के अनुसार, दोनों देशों का लक्ष्य किस वर्ष तक AUD 100 बिलियन के द्विपक्षीय व्यापार लक्ष्य तक पहुँचना है?",
+      "options": [
+        "a. 2027",
+        "b. 2028",
+        "c. 2030",
+        "d. 2032",
+        "e. 2035"
+      ],
+      "answer": "c. 2030"
+    },
+    {
+      "id": 20,
+      "question": "What is the total indicative financial outlay approved by the Government of India as the Central share for the implementation of the Watershed Development Component of Pradhan Mantri Krishi Sinchayee Yojana (WDC-PMKSY) 2.0 from 2021-22 to 2025-26?",
+      "native_question": "2021-22 से 2025-26 तक प्रधानमंत्री कृषि सिंचाई योजना (WDC-PMKSY) 2.0 के वाटरशेड विकास घटक के कार्यान्वयन के लिए केंद्रीय हिस्से के रूप में भारत सरकार द्वारा अनुमोदित कुल सांकेतिक वित्तीय परिव्यय कितना है?",
+      "options": [
+        "a. ₹6,598 crore",
+        "b. ₹7,021 crore",
+        "c. ₹8,134 crore",
+        "d. ₹9,517 crore",
+        "e. ₹10,236 crore"
+      ],
+      "answer": "c. ₹8,134 crore"
+    },
+    {
+      "id": 21,
+      "question": "The Financial Sector Assessment Program (FSAP), which provides comprehensive evaluations of a country's financial system, is jointly conducted by which two international organisations?",
+      "native_question": "वित्तीय क्षेत्र मूल्यांकन कार्यक्रम (FSAP), जो किसी देश की वित्तीय प्रणाली का व्यापक मूल्यांकन प्रदान करता है, किन दो अंतरराष्ट्रीय संगठनों द्वारा संयुक्त रूप से संचालित किया जाता है?",
+      "options": [
+        "a. World Bank and WTO",
+        "b. IMF and WTO",
+        "c. IMF and BIS",
+        "d. OECD and World Bank",
+        "e. IMF and World Bank"
+      ],
+      "answer": "e. IMF and World Bank"
+    },
+    {
+      "id": 22,
+      "question": "According to NABARD's All India Rural Financial Inclusion Survey (NAFIS) 2021-22, by what percentage did the average monthly income of rural households increase over the five-year period from 2016-17 to 2021-22?",
+      "native_question": "नाबार्ड के अखिल भारतीय ग्रामीण वित्तीय समावेशन सर्वेक्षण (NAFIS) 2021-22 के अनुसार, 2016-17 से 2021-22 तक पांच साल की अवधि में ग्रामीण परिवारों की औसत मासिक आय में कितने प्रतिशत की वृद्धि हुई?",
+      "options": [
+        "a. 45.3%",
+        "b. 50.2%",
+        "c. 57.6%",
+        "d. 60.8%",
+        "e. 65.1%"
+      ],
+      "answer": "c. 57.6%"
+    },
+    {
+      "id": 23,
+      "question": "As per the Cabinet's latest approval for the ethanol supply year 2024-25, what is the revised ex-mill price of ethanol derived from C-heavy molasses?",
+      "native_question": "इथेनॉल आपूर्ति वर्ष 2024-25 के लिए कैबिनेट की नवीनतम स्वीकृति के अनुसार, C-हेवी मोलासेस से प्राप्त इथेनॉल की संशोधित एक्स-मिल कीमत क्या है?",
+      "options": [
+        "a. ₹56.28/litre",
+        "b. ₹58.50/litre",
+        "c. ₹60.73/litre",
+        "d. ₹57.97/litre",
+        "e. ₹65.61/litre"
+      ],
+      "answer": "c. ₹60.73/litre"
+    },
+    {
+      "id": 24,
+      "question": "According to NITI Aayog's Sustainable Development Goal (SDG) India Index 2023-24, which of the following states emerged as the top performers with the highest score?",
+      "native_question": "नीति आयोग के सस्टेनेबल डेवलपमेंट गोल (SDG) इंडिया इंडेक्स 2023-24 के अनुसार, निम्नलिखित में से कौन-से राज्य उच्चतम स्कोर के साथ शीर्ष प्रदर्शनकर्ता के रूप में उभरे?",
+      "options": [
+        "a. Maharashtra and Gujarat",
+        "b. Tamil Nadu and Karnataka",
+        "c. Kerala and Uttarakhand",
+        "d. Haryana and Punjab",
+        "e. Delhi and Telangana"
+      ],
+      "answer": "c. Kerala and Uttarakhand"
+    },
+    {
+      "id": 25,
+      "question": "Quantity I: The value of y. Given: 9y² + 51y - 17 = 0. Quantity II: The value of x. Given: 3x² - 5x - 2 = 0. Which of the following is true?",
+      "native_question": "मात्रा I: y का मान। दिया गया: 9y² + 51y - 17 = 0। मात्रा II: x का मान। दिया गया: 3x² - 5x - 2 = 0। निम्नलिखित में से कौन सा सत्य है?",
+      "options": [
+        "a. Quantity I > Quantity II",
+        "b. Quantity I < Quantity II",
+        "c. Quantity I ≥ Quantity II",
+        "d. Quantity I ≤ Quantity II",
+        "e. Relation cannot be determined"
+      ],
+      "answer": "e. Relation cannot be determined"
+    },
+    {
+      "id": 26,
+      "question": "In vessel P, the ratio of milk to water is 3:1 and the total quantity of the mixture is 56 liters. In vessel Q, the ratio of milk to water is 3:2 and 25% of the mixture is taken out from vessel Q and poured into vessel P, after which 60% of the mixture is taken out from vessel P. If the ratio of milk to water in vessel P becomes 141:52, find the quantity of milk taken out from vessel Q.",
+      "native_question": "वेसल P में दूध और पानी का अनुपात 3:1 है और मिश्रण की कुल मात्रा 56 लीटर है। वेसल Q में दूध और पानी का अनुपात 3:2 है और वेसल Q से 25% मिश्रण निकाला जाता है और उसे वेसल P में डाला जाता है, जिसके बाद वेसल P से 60% मिश्रण निकाला जाता है। यदि वेसल P में दूध और पानी का अनुपात 141:52 हो जाता है, तो वेसल Q से निकाले गए दूध की मात्रा ज्ञात करें।",
+      "options": [
+        "a. 3 liters",
+        "b. 4 liters",
+        "c. 5 liters",
+        "d. 6 liters",
+        "e. 7 liters"
+      ],
+      "answer": "d. 6 liters"
+    },
+    {
+      "id": 27,
+      "question": "Given: P × Q = 18, where Q is a multiple of 2 and P is a prime number. Also, the product of the denominator and numerator of a^b/c is 24. Find the value of a^b/c.",
+      "native_question": "दिया गया: P × Q = 18, जहाँ Q, 2 का गुणज है और P एक अभाज्य संख्या है। साथ ही, a^b/c के हर और अंश का गुणनफल 24 है। a^b/c का मान ज्ञात करें।",
+      "options": [
+        "a. 3/2",
+        "b. 81/6",
+        "c. 9/6",
+        "d. 27/6",
+        "e. 3/6"
+      ],
+      "answer": "d. 27/6"
+    },
+    {
+      "id": 28,
+      "question": "P and Q together can complete a work in 9/2 days. R, working at twice the efficiency, and P together can complete the same work in 5 days. How many days will Q and R together take to complete the work?",
+      "native_question": "P और Q मिलकर एक कार्य को 9/2 दिनों में पूरा कर सकते हैं। R, दोगुनी दक्षता के साथ कार्य करते हुए, और P मिलकर उसी कार्य को 5 दिनों में पूरा कर सकते हैं। Q और R मिलकर कार्य को पूरा करने में कितने दिन लेंगे?",
+      "options": [
+        "a. 3 days",
+        "b. 4 days",
+        "c. 5 days",
+        "d. 6 days",
+        "e. Cannot be determined"
+      ],
+      "answer": "b. 4 days"
+    },
+    {
+      "id": 29,
+      "question": "Quantity I: The value of x. Given: (5x)²/4 = 10x - √9. Quantity II: The value of y. Given: 169y² - ∜64 + 2(10)y = 144y² + 110y - 3⁴. Which of the following is true?",
+      "native_question": "मात्रा I: x का मान। दिया गया: (5x)²/4 = 10x - √9। मात्रा II: y का मान। दिया गया: 169y² - ∜64 + 2(10)y = 144y² + 110y - 3⁴। निम्नलिखित में से कौन सा सत्य है?",
+      "options": [
+        "a. Quantity I > Quantity II",
+        "b. Quantity I < Quantity II",
+        "c. Quantity I ≥ Quantity II",
+        "d. Quantity I ≤ Quantity II",
+        "e. Relation cannot be determined"
+      ],
+      "answer": "b. Quantity I < Quantity II"
+    },
+    {
+      "id": 30,
+      "question": "A train crosses a platform in 30 seconds when its speed is reduced to 40% of its original speed. The same train crosses another platform, whose length is three times the length of the train, in 24 seconds at its original speed. Find the ratio of the length of the platform to the speed of the train.",
+      "native_question": "एक ट्रेन एक प्लेटफॉर्म को 30 सेकंड में पार करती है जब उसकी गति उसकी मूल गति का 40% कम हो जाती है। वही ट्रेन एक अन्य प्लेटफॉर्म को, जिसकी लंबाई ट्रेन की लंबाई का तीन गुना है, अपनी मूल गति से 24 सेकंड में पार करती है। प्लेटफॉर्म की लंबाई और ट्रेन की गति का अनुपात ज्ञात करें।",
+      "options": [
+        "a. 12:1",
+        "b. 10:1",
+        "c. 8:1",
+        "d. 6:1",
+        "e. 14:1"
+      ],
+      "answer": "c. 8:1"
+    },
+    {
+      "id": 31,
+      "question": "For country Q, the number of visas granted is 4000, out of which 75% are granted to males. For country R, the number of visas granted is 6000, out of which 80% are granted to males. If the difference between the total number of females and males rejected for visas from both countries is one-sixth of the visas granted in country R, find the total number of visa applications received from both countries.",
+      "native_question": "देश Q के लिए, दी गई वीजा की संख्या 4000 है, जिसमें से 75% पुरुषों को दी जाती है। देश R के लिए, दी गई वीजा की संख्या 6000 है, जिसमें से 80% पुरुषों को दी जाती है। यदि दोनों देशों से वीजा के लिए अस्वीकृत कुल महिलाओं और पुरुषों की संख्या का अंतर देश R में दी गई वीजा की संख्या का छठा हिस्सा है, तो दोनों देशों से प्राप्त कुल वीजा आवेदनों की संख्या ज्ञात करें।",
+      "options": [
+        "a. 8000",
+        "b. 8500",
+        "c. 9000",
+        "d. 9500",
+        "e. 10000"
+      ],
+      "answer": "e. 10000"
+    },
+    {
+      "id": 32,
+      "question": "For country Q, the number of visas granted is 4000, out of which 75% are granted to males. For country R, the number of visas granted is 6000, out of which 80% are granted to males. If the number of visas granted to females in country P is 7200, and 60% of the total applications received from P are granted, find the difference between the number of visas rejected from P and the number of visas granted to males in Q.",
+      "native_question": "देश Q के लिए, दी गई वीजा की संख्या 4000 है, जिसमें से 75% पुरुषों को दी जाती है। देश R के लिए, दी गई वीजा की संख्या 6000 है, जिसमें से 80% पुरुषों को दी जाती है। यदि देश P में महिलाओं को दी गई वीजा की संख्या 7200 है, और P से प्राप्त कुल आवेदनों का 60% स्वीकृत है, तो P से अस्वीकृत वीजा की संख्या और Q में पुरुषों को दी गई वीजा की संख्या के बीच अंतर ज्ञात करें।",
+      "options": [
+        "a. 4000",
+        "b. 4500",
+        "c. 5000",
+        "d. 5500",
+        "e. 6000"
+      ],
+      "answer": "c. 5000"
+    },
+    {
+      "id": 33,
+      "question": "For country Q, the number of visas granted is 4000, out of which 75% are granted to males. For country R, the number of visas granted is 6000, out of which 80% are granted to males. In country R, 7/12 of the visas granted to males are of X type, and the remaining are of Y type. The number of Y type visas granted to females is one-fifth of the Y type visas granted to males. Find the ratio of the total number of X type visas to the total number of Y type visas granted in country R.",
+      "native_question": "देश Q के लिए, दी गई वीजा की संख्या 4000 है, जिसमें से 75% पुरुषों को दी जाती है। देश R के लिए, दी गई वीजा की संख्या 6000 है, जिसमें से 80% पुरुषों को दी जाती है। देश R में, पुरुषों को दी गई वीजा का 7/12 X प्रकार का है, और शेष Y प्रकार का है। महिलाओं को दी गई Y प्रकार की वीजा की संख्या पुरुषों को दी गई Y प्रकार की वीजा की संख्या का पांचवां हिस्सा है। देश R में दी गई कुल X प्रकार की वीजा और कुल Y प्रकार की वीजा की संख्या का अनुपात ज्ञात करें।",
+      "options": [
+        "a. 2:3",
+        "b. 3:4",
+        "c. 4:3",
+        "d. 5:2",
+        "e. 3:2"
+      ],
+      "answer": "c. 4:3"
+    },
+    {
+      "id": 34,
+      "question": "For country Q, the number of visas granted is 4000, out of which 75% are granted to males. For country R, the number of visas granted is 6000, out of which 80% are granted to males. The total number of visas granted from country S is 500 more than the average number of visas granted from Q and R. The number of visas granted to males from S is twice the number of visas granted to females in Q. Find the number of visas granted to females in S.",
+      "native_question": "देश Q के लिए, दी गई वीजा की संख्या 4000 है, जिसमें से 75% पुरुषों को दी जाती है। देश R के लिए, दी गई वीजा की संख्या 6000 है, जिसमें से 80% पुरुषों को दी जाती है। देश S से दी गई कुल वीजा की संख्या Q और R से दी गई वीजा की औसत संख्या से 500 अधिक है। S से पुरुषों को दी गई वीजा की संख्या Q में महिलाओं को दी गई वीजा की संख्या का दोगुना है। S में महिलाओं को दी गई वीजा की संख्या ज्ञात करें।",
+      "options": [
+        "a. 1000",
+        "b. 1200",
+        "c. 1500",
+        "d. 1800",
+        "e. 2000"
+      ],
+      "answer": "c. 1500"
+    },
+    {
+      "id": 35,
+      "question": "For country Q, the number of visas granted is 4000, out of which 75% are granted to males. For country R, the number of visas granted is 6000, out of which 80% are granted to males. The total number of visas granted from all three countries (P, Q, and R) is 3.5 times the number of visas granted to males in R. If 60% of the total visas granted in P are granted to females, find the difference between the number of visas granted to females in P and the number of visas granted to females in Q.",
+      "native_question": "देश Q के लिए, दी गई वीजा की संख्या 4000 है, जिसमें से 75% पुरुषों को दी जाती है। देश R के लिए, दी गई वीजा की संख्या 6000 है, जिसमें से 80% पुरुषों को दी जाती है। तीनों देशों (P, Q, और R) से दी गई कुल वीजा की संख्या R में पुरुषों को दी गई वीजा की संख्या का 3.5 गुना है। यदि P में दी गई कुल वीजा का 60% महिलाओं को दी जाती है, तो P में महिलाओं को दी गई वीजा की संख्या और Q में महिलाओं को दी गई वीजा की संख्या के बीच अंतर ज्ञात करें।",
+      "options": [
+        "a. 3080",
+        "b. 3200",
+        "c. 3400",
+        "d. 3600",
+        "e. 3800"
+      ],
+      "answer": "b. 3200"
+    },
+    {
+      "id": 36,
+      "question": "The total number of boys and girls who played hockey together is 160. The number of boys who played hockey is 5/3 times the number of girls who played football. The number of boys who played volleyball is twice the number of girls who played football. The number of girls who played volleyball is 30 less than the number of boys who played volleyball. The total number of boys who played hockey, volleyball, and football together is 295. Find the percentage by which the number of girls who played volleyball exceeds the number of boys who played football.",
+      "native_question": "हॉकी खेलने वाले कुल लड़कों और लड़कियों की संख्या 160 है। हॉकी खेलने वाले लड़कों की संख्या फुटबॉल खेलने वाली लड़कियों की संख्या का 5/3 गुना है। वॉलीबॉल खेलने वाले लड़कों की संख्या फुटबॉल खेलने वाली लड़कियों की संख्या का दोगुना है। वॉलीबॉल खेलने वाली लड़कियों की संख्या वॉलीबॉल खेलने वाले लड़कों की संख्या से 30 कम है। हॉकी, वॉलीबॉल और फुटबॉल खेलने वाले कुल लड़कों की संख्या 295 है। वॉलीबॉल खेलने वाली लड़कियों की संख्या फुटबॉल खेलने वाले लड़कों की संख्या से कितने प्रतिशत अधिक है?",
+      "options": [
+        "a. 20%",
+        "b. 25%",
+        "c. 30%",
+        "d. 35%",
+        "e. 40%"
+      ],
+      "answer": "b. 25%"
+    },
+    {
+      "id": 37,
+      "question": "The total number of boys and girls who played hockey together is 160. The number of boys who played hockey is 5/3 times the number of girls who played football. The number of boys who played volleyball is twice the number of girls who played football. The number of girls who played volleyball is 30 less than the number of boys who played volleyball. The total number of boys who played hockey, volleyball, and football together is 295. Find the ratio of the total number of boys and girls who played volleyball to the total number of boys who played hockey and football.",
+      "native_question": "हॉकी खेलने वाले कुल लड़कों और लड़कियों की संख्या 160 है। हॉकी खेलने वाले लड़कों की संख्या फुटबॉल खेलने वाली लड़कियों की संख्या का 5/3 गुना है। वॉलीबॉल खेलने वाले लड़कों की संख्या फुटबॉल खेलने वाली लड़कियों की संख्या का दोगुना है। वॉलीबॉल खेलने वाली लड़कियों की संख्या वॉलीबॉल खेलने वाले लड़कों की संख्या से 30 कम है। हॉकी, वॉलीबॉल और फुटबॉल खेलने वाले कुल लड़कों की संख्या 295 है। वॉलीबॉल खेलने वाले कुल लड़कों और लड़कियों की संख्या का हॉकी और फुटबॉल खेलने वाले कुल लड़कों की संख्या से अनुपात ज्ञात करें।",
+      "options": [
+        "a. 5:6",
+        "b. 6:5",
+        "c. 7:5",
+        "d. 5:7",
+        "e. 6:7"
+      ],
+      "answer": "c. 7:5"
+    },
+    {
+      "id": 38,
+      "question": "The total number of boys and girls who played hockey together is 160. The number of boys who played hockey is 5/3 times the number of girls who played football. The number of boys who played volleyball is twice the number of girls who played football. The number of girls who played volleyball is 30 less than the number of boys who played volleyball. The total number of boys who played hockey, volleyball, and football together is 295. Find the difference between the total number of girls who played all three sports and the total number of boys and girls who played football.",
+      "native_question": "हॉकी खेलने वाले कुल लड़कों और लड़कियों की संख्या 160 है। हॉकी खेलने वाले लड़कों की संख्या फुटबॉल खेलने वाली लड़कियों की संख्या का 5/3 गुना है। वॉलीबॉल खेलने वाले लड़कों की संख्या फुटबॉल खेलने वाली लड़कियों की संख्या का दोगुना है। वॉलीबॉल खेलने वाली लड़कियों की संख्या वॉलीबॉल खेलने वाले लड़कों की संख्या से 30 कम है। हॉकी, वॉलीबॉल और फुटबॉल खेलने वाले कुल लड़कों की संख्या 295 है। तीनों खेल खेलने वाली कुल लड़कियों की संख्या और फुटबॉल खेलने वाले कुल लड़कों और लड़कियों की संख्या के बीच अंतर ज्ञात करें।",
+      "options": [
+        "a. 60",
+        "b. 65",
+        "c. 75",
+        "d. 80",
+        "e. 85"
+      ],
+      "answer": "c. 75"
+    },
+    {
+      "id": 39,
+      "question": "Which portal was launched by the Reserve Bank of India to enable individuals to search for unclaimed deposits across multiple banks? (August 2023)",
+      "native_question": "भारतीय रिजर्व बैंक ने व्यक्तियों को कई बैंकों में दावा न किए गए जमा की खोज करने में सक्षम बनाने के लिए कौन सा पोर्टल शुरू किया? (अगस्त 2023)",
+      "options": [
+        "a. SAHAJ Portal",
+        "b. UDGAM Portal",
+        "c. SAMPARK Portal",
+        "d. PRAGATI Portal",
+        "e. NIRNAY Portal"
+      ],
+      "answer": "b. UDGAM Portal"
+    },
+    {
+      "id": 40,
+      "question": "How many Regional Rural Banks (RRBs) are currently operational in India as per the latest data from the Reserve Bank of India? (2024)",
+      "native_question": "भारतीय रिजर्व बैंक के नवीनतम आंकड़ों के अनुसार, भारत में वर्तमान में कितने क्षेत्रीय ग्रामीण बैंक (RRBs) संचालित हैं? (2024)",
+      "options": [
+        "a. 36",
+        "b. 43",
+        "c. 50",
+        "d. 56",
+        "e. 62"
+      ],
+      "answer": "b. 43"
+    },
+    {
+      "id": 41,
+      "question": "What is the maximum transaction limit for UPI payments during an Initial Public Offering (IPO) as set by the National Payments Corporation of India? (2024)",
+      "native_question": "नेशनल पेमेंट्स कॉरपोरेशन ऑफ इंडिया द्वारा निर्धारित प्रारंभिक सार्वजनिक पेशकश (IPO) के दौरान UPI भुगतान के लिए अधिकतम लेनदेन सीमा क्या है? (2024)",
+      "options": [
+        "a. ₹1 Lakh",
+        "b. ₹2 Lakhs",
+        "c. ₹3 Lakhs",
+        "d. ₹4 Lakhs",
+        "e. ₹5 Lakhs"
+      ],
+      "answer": "e. ₹5 Lakhs"
+    },
+    {
+      "id": 42,
+      "question": "The Pench Tiger Reserve, known for its biodiversity and conservation efforts, is located in which Indian state?",
+      "native_question": "पेंच टाइगर रिजर्व, जो अपनी जैव विविधता और संरक्षण प्रयासों के लिए जाना जाता है, किस भारतीय राज्य में स्थित है?",
+      "options": [
+        "a. Rajasthan",
+        "b. Madhya Pradesh",
+        "c. Gujarat",
+        "d. Assam",
+        "e. Uttar Pradesh"
+      ],
+      "answer": "b. Madhya Pradesh"
+    },
+    {
+      "id": 43,
+      "question": "What is the term used for an account that has had no transactions for two years and is classified as inactive by banks?",
+      "native_question": "ऐसे खाते के लिए क्या शब्द प्रयोग किया जाता है जिसमें दो वर्षों तक कोई लेनदेन नहीं हुआ हो और जिसे बैंकों द्वारा निष्क्रिय के रूप में वर्गीकृत किया जाता है?",
+      "options": [
+        "a. Dormant Account",
+        "b. Frozen Account",
+        "c. Inoperative Account",
+        "d. Suspended Account",
+        "e. Closed Account"
+      ],
+      "answer": "c. Inoperative Account"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is a Domestic Systemically Important Insurer (D-SII) in India as per the Insurance Regulatory and Development Authority of India (IRDAI)? (2024)",
+      "native_question": "भारतीय बीमा विनियामक और विकास प्राधिकरण (IRDAI) के अनुसार, निम्नलिखित में से कौन भारत में घरेलू प्रणालीगत रूप से महत्वपूर्ण बीमाकर्ता (D-SII) है? (2024)",
+      "options": [
+        "a. Bajaj Allianz General Insurance",
+        "b. Life Insurance Corporation of India",
+        "c. HDFC ERGO General Insurance",
+        "d. ICICI Lombard General Insurance",
+        "e. Reliance General Insurance"
+      ],
+      "answer": "b. Life Insurance Corporation of India"
+    },
+    {
+      "id": 45,
+      "question": "What is the primary purpose of the Windfall Tax imposed by the Government of India on certain industries?",
+      "native_question": "भारत सरकार द्वारा कुछ उद्योगों पर लगाए गए विंडफॉल टैक्स का प्राथमिक उद्देश्य क्या है?",
+      "options": [
+        "a. To reduce inflation",
+        "b. To tax unexpected profits",
+        "c. To promote exports",
+        "d. To fund infrastructure",
+        "e. To stabilize currency"
+      ],
+      "answer": "b. To tax unexpected profits"
+    },
+    {
+      "id": 46,
+      "question": "Directions: In the following question, a sentence is given with a highlighted idiom. Choose the option that correctly explains the meaning of the idiom. Sentence: 'His decision to ignore the warnings was like pouring fuel on the fire.'",
+      "native_question": "निर्देश: निम्नलिखित प्रश्न में, एक वाक्य दिया गया है जिसमें एक मुहावरा हाइलाइट किया गया है। उस विकल्प को चुनें जो मुहावरे के अर्थ को सही ढंग से स्पष्ट करता है। वाक्य: 'उसका चेतावनियों को नजरअंदाज करने का निर्णय आग में ईंधन डालने जैसा था।'",
+      "options": [
+        "a. Solving the problem",
+        "b. Making the situation worse",
+        "c. Acting cautiously",
+        "d. Ignoring the issue",
+        "e. Taking a bold step"
+      ],
+      "answer": "b. Making the situation worse"
+    },
+    {
+      "id": 47,
+      "question": "Directions: In the following question, a sentence has four parts labeled (A), (B), (C), and (D). Identify the part that contains a grammatical error. Sentence: (A) The committee has decided (B) to implement the new policy (C) which will effective (D) from next month.",
+      "native_question": "निर्देश: निम्नलिखित प्रश्न में, एक वाक्य चार भागों (A), (B), (C), और (D) में विभाजित है। उस भाग को पहचानें जिसमें व्याकरणिक त्रुटि है। वाक्य: (A) समिति ने निर्णय लिया है (B) नई नीति लागू करने का (C) जो अगले महीने से प्रभावी होगा (D)।",
+      "options": [
+        "a. A",
+        "b. B",
+        "c. C",
+        "d. D",
+        "e. No error"
+      ],
+      "answer": "c. C"
+    },
+    {
+      "id": 48,
+      "question": "What will come in place of the question mark (?) in the following number series? 2, 5, 11, 23, ?, 95",
+      "native_question": "निम्नलिखित संख्या श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 2, 5, 11, 23, ?, 95",
+      "options": [
+        "a. 44",
+        "b. 46",
+        "c. 48",
+        "d. 50",
+        "e. 52"
+      ],
+      "answer": "b. 46"
+    },
+    {
+      "id": 49,
+      "question": "A boat travels downstream at a speed of 24 km/h and upstream at a speed of 12 km/h. What is the speed of the boat in still water?",
+      "native_question": "एक नाव धारा के साथ 24 किमी/घंटा की गति से और धारा के विपरीत 12 किमी/घंटा की गति से चलती है। स्थिर जल में नाव की गति क्या है?",
+      "options": [
+        "a. 16 km/h",
+        "b. 18 km/h",
+        "c. 20 km/h",
+        "d. 22 km/h",
+        "e. 24 km/h"
+      ],
+      "answer": "b. 18 km/h"
+    },
+    {
+      "id": 50,
+      "question": "The ratio of the ages of A and B is 3:5. Five years ago, the sum of their ages was 32 years. What will be the ratio of their ages 5 years from now?",
+      "native_question": "A और B की आयु का अनुपात 3:5 है। पांच वर्ष पहले, उनकी आयु का योग 32 वर्ष था। पांच वर्ष बाद उनकी आयु का अनुपात क्या होगा?",
+      "options": [
+        "a. 4:5",
+        "b. 4:6",
+        "c. 5:7",
+        "d. 5:8",
+        "e. 6:7"
+      ],
+      "answer": "c. 5:7"
+    },
+    {
+      "id": 51,
+      "question": "Directions: Study the following information carefully and answer the question. Eight persons A, B, C, D, E, F, G, and H are sitting around a circular table facing the center. A is sitting second to the right of D. B is sitting third to the left of A. C is sitting opposite to E. F is sitting second to the right of C. G is not an immediate neighbor of A. Who is sitting second to the left of D?",
+      "native_question": "निर्देश: निम्नलिखित जानकारी को ध्यानपूर्वक पढ़ें और प्रश्न का उत्तर दें। आठ व्यक्ति A, B, C, D, E, F, G, और H एक गोल मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। A, D के दायें से दूसरा बैठा है। B, A के बायें से तीसरा बैठा है। C, E के सामने बैठा है। F, C के दायें से दूसरा बैठा है। G, A का तत्काल पड़ोसी नहीं है। D के बायें से दूसरा कौन बैठा है?",
+      "options": [
+        "a. B",
+        "b. C",
+        "c. E",
+        "d. F",
+        "e. G"
+      ],
+      "answer": "c. E"
+    },
+    {
+      "id": 52,
+      "question": "What is the full form of the term 'URL' used in the context of the Internet?",
+      "native_question": "इंटरनेट के संदर्भ में उपयोग किए जाने वाले शब्द 'URL' का पूर्ण रूप क्या है?",
+      "options": [
+        "a. Uniform Resource Locator",
+        "b. Universal Resource Link",
+        "c. Uniform Reference Link",
+        "d. Universal Reference Locator",
+        "e. Unified Resource Locator"
+      ],
+      "answer": "a. Uniform Resource Locator"
+    },
+    {
+      "id": 53,
+      "question": "Which of the following is an example of an operating system?",
+      "native_question": "निम्नलिखित में से कौन सा एक ऑपरेटिंग सिस्टम का उदाहरण है?",
+      "options": [
+        "a. Microsoft Word",
+        "b. Google Chrome",
+        "c. Windows 10",
+        "d. Adobe Photoshop",
+        "e. Mozilla Firefox"
+      ],
+      "answer": "c. Windows 10"
+    },
+    {
+      "id": 54,
+      "question": "The difference between the compound interest and simple interest on a certain sum of money at 10% per annum for 2 years is ₹50. Find the sum.",
+      "native_question": "एक निश्चित राशि पर 10% प्रति वर्ष की दर से 2 वर्षों के लिए चक्रवृद्धि ब्याज और साधारण ब्याज के बीच का अंतर ₹50 है। राशि ज्ञात करें।",
+      "options": [
+        "a. ₹4000",
+        "b. ₹4500",
+        "c. ₹5000",
+        "d. ₹5500",
+        "e. ₹6000"
+      ],
+      "answer": "c. ₹5000"
+    },
+    {
+      "id": 55,
+      "question": "Directions: In the following question, a word is given followed by five options. Choose the word that is most nearly opposite in meaning to the given word. Word: ABUNDANT",
+      "native_question": "निर्देश: निम्नलिखित प्रश्न में, एक शब्द दिया गया है जिसके बाद पांच विकल्प दिए गए हैं। उस शब्द को चुनें जो दिए गए शब्द के अर्थ में सबसे अधिक विपरीत हो। शब्द: ABUNDANT",
+      "options": [
+        "a. Plentiful",
+        "b. Scarce",
+        "c. Ample",
+        "d. Sufficient",
+        "e. Copious"
+      ],
+      "answer": "b. Scarce"
+    },
+    {
+      "id": 56,
+      "question": "A man invests ₹10,000 at 8% per annum simple interest for 3 years. How much amount will he receive at the end of the period?",
+      "native_question": "एक व्यक्ति ₹10,000 को 8% प्रति वर्ष की साधारण ब्याज दर पर 3 वर्षों के लिए निवेश करता है। अवधि के अंत में उसे कितनी राशि प्राप्त होगी?",
+      "options": [
+        "a. ₹12,000",
+        "b. ₹12,400",
+        "c. ₹12,800",
+        "d. ₹13,200",
+        "e. ₹13,600"
+      ],
+      "answer": "b. ₹12,400"
+    },
+    {
+      "id": 57,
+      "question": "Directions: Study the following information and answer the question. In a certain code language: 'sun rises east' is written as 'la mi fa', 'east west direction' is written as 'fa ra so', 'sun sets west' is written as 'la ti ra'. What is the code for 'direction'?",
+      "native_question": "निर्देश: निम्नलिखित जानकारी का अध्ययन करें और प्रश्न का उत्तर दें। एक निश्चित कोड भाषा में: 'sun rises east' को 'la mi fa' लिखा जाता है, 'east west direction' को 'fa ra so' लिखा जाता है, 'sun sets west' को 'la ti ra' लिखा जाता है। 'direction' के लिए कोड क्या है?",
+      "options": [
+        "a. la",
+        "b. fa",
+        "c. ra",
+        "d. so",
+        "e. ti"
+      ],
+      "answer": "d. so"
+    },
+    {
+      "id": 58,
+      "question": "Which Indian state launched the 'Mukhyamantri Teerth Darshan Yojana' to facilitate pilgrimage for senior citizens? (2024)",
+      "native_question": "किस भारतीय राज्य ने वरिष्ठ नागरिकों के लिए तीर्थ यात्रा को सुविधाजनक बनाने के लिए 'मुख्यमंत्री तीर्थ दर्शन योजना' शुरू की? (2024)",
+      "options": [
+        "a. Uttar Pradesh",
+        "b. Rajasthan",
+        "c. Madhya Pradesh",
+        "d. Gujarat",
+        "e. Haryana"
+      ],
+      "answer": "c. Madhya Pradesh"
+    },
+    {
+      "id": 59,
+      "question": "What is the name of the initiative launched by the Government of India to promote green energy and reduce carbon emissions under the National Green Hydrogen Mission? (2024)",
+      "native_question": "राष्ट्रीय ग्रीन हाइड्रोजन मिशन के तहत ग्रीन ऊर्जा को बढ़ावा देने और कार्बन उत्सर्जन को कम करने के लिए भारत सरकार द्वारा शुरू की गई पहल का नाम क्या है? (2024)",
+      "options": [
+        "a. Suryodaya Yojana",
+        "b. Green Energy Corridor",
+        "c. PM Suryaghar Yojana",
+        "d. Ujjwala Yojana",
+        "e. Amrit Sarovar Yojana"
+      ],
+      "answer": "c. PM Suryaghar Yojana"
+    },
+    {
+      "id": 60,
+      "question": "The total number of employees in a company is 240. The ratio of male to female employees is 5:3. If 20% of the male employees are promoted, how many male employees are not promoted?",
+      "native_question": "एक कंपनी में कर्मचारियों की कुल संख्या 240 है। पुरुष और महिला कर्मचारियों का अनुपात 5:3 है। यदि 20% पुरुष कर्मचारियों को पदोन्नति दी जाती है, तो कितने पुरुष कर्मचारी पदोन्नत नहीं होते हैं?",
+      "options": [
+        "a. 100",
+        "b. 110",
+        "c. 120",
+        "d. 130",
+        "e. 140"
+      ],
+      "answer": "c. 120"
+    },
+    {
+      "id": 61,
+      "question": "Directions: In the following question, a sentence is given with a blank. Choose the word that best fits the blank. Sentence: The company's decision to ignore the economic data was _______ and dangerous.",
+      "native_question": "निर्देश: निम्नलिखित प्रश्न में, एक वाक्य में रिक्त स्थान दिया गया है। वह शब्द चुनें जो रिक्त स्थान में सबसे उपयुक्त हो। वाक्य: कंपनी का आर्थिक डेटा को नजरअंदाज करने का निर्णय _______ और खतरनाक था।",
+      "options": [
+        "a. Prudent",
+        "b. Reckless",
+        "c. Strategic",
+        "d. Calculated",
+        "e. Beneficial"
+      ],
+      "answer": "b. Reckless"
+    },
+    {
+      "id": 62,
+      "question": "What is the shortcut key to undo the last action in most Windows applications?",
+      "native_question": "अधिकांश विंडोज अनुप्रयोगों में अंतिम क्रिया को पूर्ववत करने के लिए शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "a. Ctrl + S",
+        "b. Ctrl + Z",
+        "c. Ctrl + C",
+        "d. Ctrl + V",
+        "e. Ctrl + X"
+      ],
+      "answer": "b. Ctrl + Z"
+    },
+    {
+      "id": 63,
+      "question": "A shopkeeper sells an item at a 20% discount on the marked price and still makes a 25% profit. If the marked price is ₹500, what is the cost price of the item?",
+      "native_question": "एक दुकानदार एक वस्तु को अंकित मूल्य पर 20% छूट के साथ बेचता है और फिर भी 25% लाभ कमाता है। यदि अंकित मूल्य ₹500 है, तो वस्तु का लागत मूल्य क्या है?",
+      "options": [
+        "a. ₹300",
+        "b. ₹320",
+        "c. ₹350",
+        "d. ₹360",
+        "e. ₹400"
+      ],
+      "answer": "b. ₹320"
+    },
+    {
+      "id": 64,
+      "question": "Directions: In the following question, a number series is given with one wrong number. Find the wrong number. Series: 7, 14, 28, 56, 113, 224, 448",
+      "native_question": "निर्देश: निम्नलिखित प्रश्न में, एक संख्या श्रृंखला दी गई है जिसमें एक गलत संख्या है। गलत संख्या ज्ञात करें। श्रृंखला: 7, 14, 28, 56, 113, 224, 448",
+      "options": [
+        "a. 14",
+        "b. 28",
+        "c. 56",
+        "d. 113",
+        "e. 224"
+      ],
+      "answer": "d. 113"
+    },
+    {
+      "id": 65,
+      "question": "Which international organization publishes the 'World Economic Outlook' report?",
+      "native_question": "कौन सा अंतरराष्ट्रीय संगठन 'विश्व आर्थिक आउटलुक' रिपोर्ट प्रकाशित करता है?",
+      "options": [
+        "a. World Bank",
+        "b. International Monetary Fund",
+        "c. World Trade Organization",
+        "d. United Nations",
+        "e. Asian Development Bank"
+      ],
+      "answer": "b. International Monetary Fund"
+    },
+    {
+      "id": 66,
+      "question": "Directions: Study the following information and answer the question. Five persons P, Q, R, S, and T live on different floors of a five-story building (1st to 5th floor). P lives on an odd-numbered floor. Q lives immediately above R. S does not live on the 1st floor. T lives on the 4th floor. Who lives on the 3rd floor?",
+      "native_question": "निर्देश: निम्नलिखित जानकारी का अध्ययन करें और प्रश्न का उत्तर दें। पांच व्यक्ति P, Q, R, S, और T एक पांच मंजिला इमारत (पहली से पांचवीं मंजिल) के विभिन्न मंजिलों पर रहते हैं। P विषम संख्या वाली मंजिल पर रहता है। Q, R के ठीक ऊपर रहता है। S पहली मंजिल पर नहीं रहता। T चौथी मंजिल पर रहता है। तीसरी मंजिल पर कौन रहता है?",
+      "options": [
+        "a. P",
+        "b. Q",
+        "c. R",
+        "d. S",
+        "e. T"
+      ],
+      "answer": "a. P"
+    },
+    {
+      "id": 67,
+      "question": "What is the name of the scheme launched by the Government of India to provide affordable healthcare to economically weaker sections?",
+      "native_question": "आर्थिक रूप से कमजोर वर्गों को सस्ती स्वास्थ्य सेवा प्रदान करने के लिए भारत सरकार द्वारा शुरू की गई योजना का नाम क्या है?",
+      "options": [
+        "a. Ayushman Bharat",
+        "b. Jan Aushadhi Yojana",
+        "c. Swachh Bharat Abhiyan",
+        "d. Ujjwala Yojana",
+        "e. PM Awas Yojana"
+      ],
+      "answer": "a. Ayushman Bharat"
+    },
+    {
+      "id": 68,
+      "question": "A sum of money doubles itself in 5 years at simple interest. In how many years will it become eight times itself?",
+      "native_question": "एक राशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में आठ गुना हो जाएगी?",
+      "options": [
+        "a. 10 years",
+        "b. 12 years",
+        "c. 15 years",
+        "d. 18 years",
+        "e. 20 years"
+      ],
+      "answer": "c. 15 years"
+    },
+    {
+      "id": 69,
+      "question": "Directions: In the following question, choose the word that is most similar in meaning to the given word. Word: MITIGATE",
+      "native_question": "निर्देश: निम्नलिखित प्रश्न में, दिए गए शब्द के अर्थ में सबसे समान शब्द चुनें। शब्द: MITIGATE",
+      "options": [
+        "a. Aggravate",
+        "b. Intensify",
+        "c. Alleviate",
+        "d. Exacerbate",
+        "e. Provoke"
+      ],
+      "answer": "c. Alleviate"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is a type of malware that locks the user’s data and demands payment to unlock it?",
+      "native_question": "निम्नलिखित में से कौन सा एक प्रकार का मैलवेयर है जो उपयोगकर्ता के डेटा को लॉक करता है और इसे अनलॉक करने के लिए भुगतान की मांग करता है?",
+      "options": [
+        "a. Spyware",
+        "b. Adware",
+        "c. Ransomware",
+        "d. Trojan",
+        "e. Worm"
+      ],
+      "answer": "c. Ransomware"
+    }
+  ]
+}

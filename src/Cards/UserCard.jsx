@@ -2,9 +2,10 @@ import { useEffect, useState } from "react";
 import { auth, provider, db } from "../config/firebase";
 import { signInWithPopup, signOut, onAuthStateChanged } from "firebase/auth";
 import { doc, setDoc, getDoc, serverTimestamp } from "firebase/firestore";
-import { useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 
 const StudentLogin = () => {
+
   const [user, setUser] = useState(null);
   const [message, setMessage] = useState("");
 
@@ -52,7 +53,7 @@ const StudentLogin = () => {
         navigate("/admin-dashboard");
         console.log(admin)
       } else {
-        navigate("/");
+        navigate("/student-dashboard");
         console.log("no")
       }
 

@@ -138,7 +138,7 @@ const Navbar = () => {
           </div>
 
           {/* Desktop Nav */}
-          {option && (
+          {/* {option && ( */}
             <ul className="hidden md:flex gap-6 font-medium text-gray-800 text-[0.94rem] cursor-pointer">
               <li className="relative group cursor-pointer">
                 <div className="flex items-center gap-1">
@@ -239,7 +239,7 @@ const Navbar = () => {
               <li>Materials</li>
               <li>Courses</li>
             </ul>
-          )}
+        
         </div>
 
         {user ? (

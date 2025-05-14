@@ -1,0 +1,655 @@
+{
+  "exam": "Railway Group D 2023",
+  "questions": [
+    {
+      "id": 1,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Who was the first Railway Minister of India after Independence on August 15, 1947?",
+      "options": [
+        "A. John Mathai",
+        "B. Lal Bahadur Shastri",
+        "C. Jagjivan Ram",
+        "D. Sardar Patel"
+      ],
+      "answer": "A. John Mathai"
+    },
+    {
+      "id": 2,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Article 24 of the Indian Constitution is related to:",
+      "options": [
+        "A. Prohibition of child employment in factories",
+        "B. Freedom of speech",
+        "C. Right to education",
+        "D. Equality before law"
+      ],
+      "answer": "A. Prohibition of child employment in factories"
+    },
+    {
+      "id": 3,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "The Darjeeling Himalayan Railway, opened in 1881, is an example of:",
+      "options": [
+        "A. Hill passenger railway",
+        "B. Freight railway",
+        "C. Metro railway",
+        "D. Monorail"
+      ],
+      "answer": "A. Hill passenger railway"
+    },
+    {
+      "id": 4,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "The Fairy Queen, the world’s oldest working locomotive, was manufactured in:",
+      "options": [
+        "A. 1855",
+        "B. 1870",
+        "C. 1890",
+        "D. 1900"
+      ],
+      "answer": "A. 1855"
+    },
+    {
+      "id": 5,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "The headquarters of South Central Railway is located at:",
+      "options": [
+        "A. Secunderabad",
+        "B. Chennai",
+        "C. Mumbai",
+        "D. Kolkata"
+      ],
+      "answer": "A. Secunderabad"
+    },
+    {
+      "id": 6,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Who was appointed as the brand ambassador of Uttarakhand in February 2022?",
+      "options": [
+        "A. Rishabh Pant",
+        "B. Virat Kohli",
+        "C. MS Dhoni",
+        "D. Rohit Sharma"
+      ],
+      "answer": "A. Rishabh Pant"
+    },
+    {
+      "id": 7,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "The railway budget was separated from the general budget in which year?",
+      "options": [
+        "A. 1924",
+        "B. 1930",
+        "C. 1947",
+        "D. 1950"
+      ],
+      "answer": "A. 1924"
+    },
+    {
+      "id": 8,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Which is the longest railway platform in India?",
+      "options": [
+        "A. Hubli",
+        "B. Kharagpur",
+        "C. Gorakhpur",
+        "D. Bilaspur"
+      ],
+      "answer": "C. Gorakhpur"
+    },
+    {
+      "id": 9,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "The Southern Coast Railway, formed in 2019, has its headquarters in:",
+      "options": [
+        "A. Visakhapatnam",
+        "B. Hyderabad",
+        "C. Bengaluru",
+        "D. Chennai"
+      ],
+      "answer": "A. Visakhapatnam"
+    },
+    {
+      "id": 10,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Who was the Prime Minister of the UK who resigned on July 7, 2022?",
+      "options": [
+        "A. Boris Johnson",
+        "B. Theresa May",
+        "C. David Cameron",
+        "D. Liz Truss"
+      ],
+      "answer": "A. Boris Johnson"
+    },
+    {
+      "id": 11,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Which vitamin is also known as Biotin?",
+      "options": [
+        "A. Vitamin B7",
+        "B. Vitamin C",
+        "C. Vitamin D",
+        "D. Vitamin A"
+      ],
+      "answer": "A. Vitamin B7"
+    },
+    {
+      "id": 12,
+      "section": "General Science",
+      "direction": null,
+      "question": "What is the valency of nitrogen in ammonia (NH3)?",
+      "options": [
+        "A. 3",
+        "B. 2",
+        "C. 4",
+        "D. 1"
+      ],
+      "answer": "A. 3"
+    },
+    {
+      "id": 13,
+      "section": "General Science",
+      "direction": null,
+      "question": "Ohm’s law relates which of the following quantities?",
+      "options": [
+        "A. Voltage, Current, Resistance",
+        "B. Power, Energy, Time",
+        "C. Charge, Voltage, Current",
+        "D. Resistance, Power, Voltage"
+      ],
+      "answer": "A. Voltage, Current, Resistance"
+    },
+    {
+      "id": 14,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which vitamin is responsible for increasing calcium absorption?",
+      "options": [
+        "A. Vitamin D",
+        "B. Vitamin K",
+        "C. Vitamin B12",
+        "D. Vitamin E"
+      ],
+      "answer": "A. Vitamin D"
+    },
+    {
+      "id": 15,
+      "section": "General Science",
+      "direction": null,
+      "question": "The chemical formula for baking soda is:",
+      "options": [
+        "A. NaHCO3",
+        "B. NaCl",
+        "C. CaCO3",
+        "D. NaOH"
+      ],
+      "answer": "A. NaHCO3"
+    },
+    {
+      "id": 16,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which gas is the second most abundant in Earth’s atmosphere?",
+      "options": [
+        "A. Oxygen",
+        "B. Nitrogen",
+        "C. Carbon Dioxide",
+        "D. Argon"
+      ],
+      "answer": "A. Oxygen"
+    },
+    {
+      "id": 17,
+      "section": "General Science",
+      "direction": null,
+      "question": "The SI unit of power is:",
+      "options": [
+        "A. Watt",
+        "B. Joule",
+        "C. Newton",
+        "D. Volt"
+      ],
+      "answer": "A. Watt"
+    },
+    {
+      "id": 18,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which part of the human body is primarily responsible for regulating blood sugar?",
+      "options": [
+        "A. Pancreas",
+        "B. Liver",
+        "C. Kidney",
+        "D. Heart"
+      ],
+      "answer": "A. Pancreas"
+    },
+    {
+      "id": 19,
+      "section": "General Science",
+      "direction": null,
+      "question": "The process by which plants convert light energy into chemical energy is called:",
+      "options": [
+        "A. Photosynthesis",
+        "B. Respiration",
+        "C. Fermentation",
+        "D. Oxidation"
+      ],
+      "answer": "A. Photosynthesis"
+    },
+    {
+      "id": 20,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        "A. Mercury",
+        "B. Iron",
+        "C. Aluminum",
+        "D. Copper"
+      ],
+      "answer": "A. Mercury"
+    },
+    {
+      "id": 21,
+      "section": "General Science",
+      "direction": null,
+      "question": "The focal length of a concave mirror is:",
+      "options": [
+        "A. Positive",
+        "B. Negative",
+        "C. Zero",
+        "D. Infinite"
+      ],
+      "answer": "A. Positive"
+    },
+    {
+      "id": 22,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which acid is present in the stomach to aid digestion?",
+      "options": [
+        "A. Hydrochloric Acid",
+        "B. Sulfuric Acid",
+        "C. Nitric Acid",
+        "D. Citric Acid"
+      ],
+      "answer": "A. Hydrochloric Acid"
+    },
+    {
+      "id": 23,
+      "section": "General Science",
+      "direction": null,
+      "question": "The main source of energy for Earth’s climate system is:",
+      "options": [
+        "A. Sun",
+        "B. Earth’s core",
+        "C. Moon",
+        "D. Wind"
+      ],
+      "answer": "A. Sun"
+    },
+    {
+      "id": 24,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which element is essential for the formation of hemoglobin?",
+      "options": [
+        "A. Iron",
+        "B. Calcium",
+        "C. Sodium",
+        "D. Potassium"
+      ],
+      "answer": "A. Iron"
+    },
+    {
+      "id": 25,
+      "section": "Mathematics",
+      "direction": "Find the missing number in the series.",
+      "question": "4, 9, 19, 34, ?, 64",
+      "options": [
+        "A. 50",
+        "B. 48",
+        "C. 46",
+        "D. 52"
+      ],
+      "answer": "A. 50"
+    },
+    {
+      "id": 26,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "If 3x + 5 = 20, what is the value of x?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": "A. 5"
+    },
+    {
+      "id": 27,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "A train travels 240 km in 3 hours. What is its speed?",
+      "options": [
+        "A. 80 km/h",
+        "B. 90 km/h",
+        "C. 100 km/h",
+        "D. 120 km/h"
+      ],
+      "answer": "A. 80 km/h"
+    },
+    {
+      "id": 28,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "What is 20% of 150?",
+      "options": [
+        "A. 30",
+        "B. 25",
+        "C. 35",
+        "D. 40"
+      ],
+      "answer": "A. 30"
+    },
+    {
+      "id": 29,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "The LCM of 12 and 18 is:",
+      "options": [
+        "A. 36",
+        "B. 24",
+        "C. 18",
+        "D. 12"
+      ],
+      "answer": "A. 36"
+    },
+    {
+      "id": 30,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "If a:b = 3:5 and b:c = 2:7, what is a:c?",
+      "options": [
+        "A. 6:35",
+        "B. 3:7",
+        "C. 5:14",
+        "D. 2:5"
+      ],
+      "answer": "A. 6:35"
+    },
+    {
+      "id": 31,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "A sum of money doubles in 8 years at simple interest. In how many years will it triple?",
+      "options": [
+        "A. 12 years",
+        "B. 14 years",
+        "C. 16 years",
+        "D. 18 years"
+      ],
+      "answer": "C. 16 years"
+    },
+    {
+      "id": 32,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "The area of a circle with radius 7 cm is (use π = 22/7):",
+      "options": [
+        "A. 154 cm²",
+        "B. 144 cm²",
+        "C. 164 cm²",
+        "D. 174 cm²"
+      ],
+      "answer": "A. 154 cm²"
+    },
+    {
+      "id": 33,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "If 2/3 of a number is 24, what is the number?",
+      "options": [
+        "A. 36",
+        "B. 32",
+        "C. 28",
+        "D. 40"
+      ],
+      "answer": "A. 36"
+    },
+    {
+      "id": 34,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "A can complete a work in 15 days and B in 20 days. How many days will they take together?",
+      "options": [
+        "A. 8.57 days",
+        "B. 9 days",
+        "C. 10 days",
+        "D. 12 days"
+      ],
+      "answer": "A. 8.57 days"
+    },
+    {
+      "id": 35,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "What is the value of (1/4) ÷ (2/5)?",
+      "options": [
+        "A. 5/8",
+        "B. 2/5",
+        "C. 1/2",
+        "D. 3/4"
+      ],
+      "answer": "A. 5/8"
+    },
+    {
+      "id": 36,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "The average of 4 numbers is 25. If one number is 20, what is the average of the other three?",
+      "options": [
+        "A. 26.67",
+        "B. 25",
+        "C. 24",
+        "D. 27"
+      ],
+      "answer": "A. 26.67"
+    },
+    {
+      "id": 37,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "What is the square of 13?",
+      "options": [
+        "A. 169",
+        "B. 144",
+        "C. 196",
+        "D. 121"
+      ],
+      "answer": "A. 169"
+    },
+    {
+      "id": 38,
+      "section": "General Intelligence & Reasoning",
+      "direction": "Select the related word from the given alternatives.",
+      "question": "Pen : Write :: Knife : ?",
+      "options": [
+        "A. Cut",
+        "B. Cook",
+        "C. Slice",
+        "D. Chop"
+      ],
+      "answer": "A. Cut"
+    },
+    {
+      "id": 39,
+      "section": "General Intelligence & Reasoning",
+      "direction": "Find the missing number in the series.",
+      "question": "2, 6, 12, 20, ?, 42",
+      "options": [
+        "A. 30",
+        "B. 28",
+        "C. 32",
+        "D. 34"
+      ],
+      "answer": "A. 30"
+    },
+    {
+      "id": 40,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "If ‘BOOK’ is coded as ‘FLLP’, how is ‘READ’ coded?",
+      "options": [
+        "A. UJFI",
+        "B. VIGJ",
+        "C. WHFK",
+        "D. XIGL"
+      ],
+      "answer": "A. UJFI"
+    },
+    {
+      "id": 41,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Select the odd one out: Tiger, Lion, Leopard, Wolf",
+      "options": [
+        "A. Wolf",
+        "B. Tiger",
+        "C. Lion",
+        "D. Leopard"
+      ],
+      "answer": "A. Wolf"
+    },
+    {
+      "id": 42,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "If today is Monday, what day will it be after 15 days?",
+      "options": [
+        "A. Tuesday",
+        "B. Wednesday",
+        "C. Sunday",
+        "D. Monday"
+      ],
+      "answer": "A. Tuesday"
+    },
+    {
+      "id": 43,
+      "section": "General Intelligence & Reasoning",
+      "direction": "Select the letter-cluster to replace the question mark in the series.",
+      "question": "BD, GI, KM, ?, UI",
+      "options": [
+        "A. OI",
+        "B. PJ",
+        "C. QK",
+        "D. RL"
+      ],
+      "answer": "A. OI"
+    },
+    {
+      "id": 44,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Arrange in logical order: 1. Birth, 2. Education, 3. Marriage, 4. Death, 5. Job",
+      "options": [
+        "A. 1, 2, 5, 3, 4",
+        "B. 1, 2, 3, 5, 4",
+        "C. 1, 3, 2, 5, 4",
+        "D. 1, 5, 2, 3, 4"
+      ],
+      "answer": "A. 1, 2, 5, 3, 4"
+    },
+    {
+      "id": 45,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "If ‘+’ means ‘÷’, ‘-’ means ‘×’, ‘×’ means ‘+’, ‘÷’ means ‘-’, then 8 ÷ 4 - 2 × 3 + 1 = ?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": "A. 5"
+    },
+    {
+      "id": 46,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "In a code, ‘MUSIC’ is written as ‘QXUAF’. How is ‘TUNE’ written?",
+      "options": [
+        "A. AFKP",
+        "B. BGJQ",
+        "C. CHIR",
+        "D. DIJS"
+      ],
+      "answer": "A. AFKP"
+    },
+    {
+      "id": 47,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Find the odd one out: 9, 16, 25, 36, 48",
+      "options": [
+        "A. 48",
+        "B. 9",
+        "C. 16",
+        "D. 25"
+      ],
+      "answer": "A. 48"
+    },
+    {
+      "id": 48,
+      "section": "General Intelligence & Reasoning",
+      "direction": "If A+B means A is the wife of B, A-B means A is the sister of B, A×B means A is the brother of B, then which means P is the wife of Q?",
+      "question": "Which means P is the wife of Q?",
+      "options": [
+        "A. P+Q",
+        "B. P-Q",
+        "C. P×Q",
+        "D. Q+P"
+      ],
+      "answer": "A. P+Q"
+    },
+    {
+      "id": 49,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "If ‘CANDLE’ is coded as ‘AFMGYR’, how is ‘TORCH’ coded?",
+      "options": [
+        "A. FJHLTK",
+        "B. GIKUL",
+        "C. HJIVM",
+        "D. IKJWN"
+      ],
+      "answer": "A. FJHLTK"
+    },
+    {
+      "id": 50,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Select the number that will replace the question mark: 3 : 12 :: 5 : ?",
+      "options": [
+        "A. 28",
+        "B. 30",
+        "C. 32",
+        "D. 34"
+      ],
+      "answer": "A. 28"
+    }
+  ]
+}

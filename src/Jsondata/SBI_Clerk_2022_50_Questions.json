@@ -1,0 +1,371 @@
+{
+  "exam": "SBI Clerk 2022",
+  "questions": [
+    {
+      "id": 1,
+      "section": "English Language",
+      "question": "Choose the word that best fits the blank: The company adopted a _______ strategy to increase its market share.",
+      "options": ["A. dynamic", "B. static", "C. rigid", "D. obsolete", "E. vague"],
+      "answer": "A. dynamic"
+    },
+    {
+      "id": 2,
+      "section": "English Language",
+      "question": "Find the error in the sentence: The team are working on the project since last month.",
+      "options": ["A. The team are", "B. working on", "C. since last month", "D. the project", "E. No error"],
+      "answer": "A. The team are"
+    },
+    {
+      "id": 3,
+      "section": "English Language",
+      "question": "Synonym of 'Candid':",
+      "options": ["A. Deceptive", "B. Honest", "C. Reserved", "D. Hesitant", "E. Arrogant"],
+      "answer": "B. Honest"
+    },
+    {
+      "id": 4,
+      "section": "English Language",
+      "question": "Rearrange the sentences to form a coherent paragraph: (A) It promotes teamwork. (B) Sports are essential for holistic development. (C) It also improves physical fitness. (D) Students should participate actively.",
+      "options": ["A. BADC", "B. BCAD", "C. ACDB", "D. DBCA", "E. CBAD"],
+      "answer": "A. BADC"
+    },
+    {
+      "id": 5,
+      "section": "English Language",
+      "question": "Fill in the blank: She was _______ to accept the award on behalf of her team.",
+      "options": ["A. honored", "B. reluctant", "C. indifferent", "D. forced", "E. unaware"],
+      "answer": "A. honored"
+    },
+    {
+      "id": 6,
+      "section": "Numerical Ability",
+      "question": "Simplify: 18 ÷ 3 × 5 + 7 - 2",
+      "native_question": "सरल करें: 18 ÷ 3 × 5 + 7 - 2",
+      "options": ["A. 35", "B. 30", "C. 40", "D. 25", "E. 28"],
+      "answer": "A. 35"
+    },
+    {
+      "id": 7,
+      "section": "Numerical Ability",
+      "question": "If the ratio of two numbers is 3:4 and their sum is 28, what is the smaller number?",
+      "native_question": "यदि दो संख्याओं का अनुपात 3:4 है और उनका योग 28 है, तो छोटी संख्या क्या है?",
+      "options": ["A. 12", "B. 16", "C. 9", "D. 15", "E. 10"],
+      "answer": "A. 12"
+    },
+    {
+      "id": 8,
+      "section": "Numerical Ability",
+      "question": "What is the simple interest on Rs. 5000 at 6% per annum for 3 years?",
+      "options": ["A. Rs. 900", "B. Rs. 800", "C. Rs. 1000", "D. Rs. 850", "E. Rs. 950"],
+      "answer": "A. Rs. 900"
+    },
+    {
+      "id": 9,
+      "section": "Numerical Ability",
+      "question": "A train travels 240 km in 4 hours. What is its speed in km/h?",
+      "native_question": "एक ट्रेन 240 किमी को 4 घंटे में तय करती है। इसकी गति किमी/घंटा में क्या है?",
+      "options": ["A. 60", "B. 50", "C. 70", "D. 55", "E. 65"],
+      "answer": "A. 60"
+    },
+    {
+      "id": 10,
+      "section": "Numerical Ability",
+      "question": "If 20% of a number is 15, what is the number?",
+      "options": ["A. 60", "B. 75", "C. 80", "D. 65", "E. 70"],
+      "answer": "B. 75"
+    },
+    {
+      "id": 11,
+      "section": "Reasoning Ability",
+      "question": "If 'PEN' is coded as 'QFO', how is 'INK' coded?",
+      "native_question": "यदि 'PEN' को 'QFO' के रूप में कोडित किया जाता है, तो 'INK' को कैसे कोडित किया जाएगा?",
+      "options": ["A. JOL", "B. KPM", "C. JNL", "D. IKM", "E. JML"],
+      "answer": "A. JOL"
+    },
+    {
+      "id": 12,
+      "section": "Reasoning Ability",
+      "question": "In a row of 25 people, Ravi is 9th from the left. What is his position from the right?",
+      "native_question": "25 लोगों की एक पंक्ति में, रवि बाईं ओर से 9वाँ है। उसकी दाईं ओर से स्थिति क्या है?",
+      "options": ["A. 16th", "B. 17th", "C. 18th", "D. 15th", "E. 19th"],
+      "answer": "B. 17th"
+    },
+    {
+      "id": 13,
+      "section": "Reasoning Ability",
+      "question": "Which comes next in the series: 2, 6, 12, 20, 30, ?",
+      "options": ["A. 42", "B. 40", "C. 45", "D. 48", "E. 36"],
+      "answer": "A. 42"
+    },
+    {
+      "id": 14,
+      "section": "Reasoning Ability",
+      "question": "If all roses are flowers and some flowers are red, which statement is true?",
+      "options": ["A. All roses are red", "B. Some roses are red", "C. Some flowers are roses", "D. No roses are red", "E. None of these"],
+      "answer": "C. Some flowers are roses"
+    },
+    {
+      "id": 15,
+      "section": "General/Financial Awareness",
+      "question": "What is the full form of RTGS?",
+      "native_question": "RTGS का पूर्ण रूप क्या है?",
+      "options": ["A. Real Time Gross Settlement", "B. Rapid Transfer Gross System", "C. Real Time General Settlement", "D. Remote Transaction Gross Service", "E. Real Transfer Global System"],
+      "answer": "A. Real Time Gross Settlement"
+    },
+    {
+      "id": 16,
+      "section": "General/Financial Awareness",
+      "question": "Which bank was merged with Bank of Baroda in 2019?",
+      "options": ["A. Syndicate Bank", "B. Dena Bank", "C. Canara Bank", "D. Indian Bank", "E. Allahabad Bank"],
+      "answer": "B. Dena Bank"
+    },
+    {
+      "id": 17,
+      "section": "General English",
+      "question": "Antonym of 'Expand':",
+      "options": ["A. Increase", "B. Extend", "C. Contract", "D. Enhance", "E. Develop"],
+      "answer": "C. Contract"
+    },
+    {
+      "id": 18,
+      "section": "General English",
+      "question": "Choose the correct spelling:",
+      "options": ["A. Accomodation", "B. Accommodation", "C. Acommodation", "D. Accomodetion", "E. Accommodetion"],
+      "answer": "B. Accommodation"
+    },
+    {
+      "id": 19,
+      "section": "Quantitative Aptitude",
+      "question": "What is the compound interest on Rs. 8000 at 5% per annum for 2 years, compounded annually?",
+      "options": ["A. Rs. 820", "B. Rs. 840", "C. Rs. 860", "D. Rs. 880", "E. Rs. 900"],
+      "answer": "A. Rs. 820"
+    },
+    {
+      "id": 20,
+      "section": "Quantitative Aptitude",
+      "question": "A boat travels 36 km downstream in 3 hours. If the speed of the stream is 2 km/h, what is the speed of the boat in still water?",
+      "native_question": "एक नाव 36 किमी धारा के साथ 3 घंटे में तय करती है। यदि धारा की गति 2 किमी/घंटा है, तो स्थिर जल में नाव की गति क्या है?",
+      "options": ["A. 10 km/h", "B. 12 km/h", "C. 14 km/h", "D. 8 km/h", "E. 11 km/h"],
+      "answer": "A. 10 km/h"
+    },
+    {
+      "id": 21,
+      "section": "Reasoning Ability & Computer Aptitude",
+      "question": "What is the full form of RAM in computers?",
+      "options": ["A. Random Access Memory", "B. Read Access Memory", "C. Rapid Access Module", "D. Remote Access Memory", "E. Real Access Module"],
+      "answer": "A. Random Access Memory"
+    },
+    {
+      "id": 22,
+      "section": "Reasoning Ability & Computer Aptitude",
+      "question": "In a certain code, 'COMPUTER' is written as 'DNOVQFUS'. How is 'KEYBOARD' written in that code?",
+      "options": ["A. LFZPCPSE", "B. LFZPCQSE", "C. LFZQCPSE", "D. LFZPDQSE", "E. LFZQDPSE"],
+      "answer": "A. LFZPCPSE"
+    },
+    {
+      "id": 23,
+      "section": "English Language",
+      "question": "Choose the correct phrase to replace the underlined part: He is *not interested in* playing football.",
+      "options": ["A. keen on", "B. fond of", "C. averse to", "D. excited about", "E. No change"],
+      "answer": "C. averse to"
+    },
+    {
+      "id": 24,
+      "section": "Numerical Ability",
+      "question": "If a shirt costs Rs. 400 after a 20% discount, what was its original price?",
+      "options": ["A. Rs. 480", "B. Rs. 500", "C. Rs. 450", "D. Rs. 520", "E. Rs. 460"],
+      "answer": "B. Rs. 500"
+    },
+    {
+      "id": 25,
+      "section": "Reasoning Ability",
+      "question": "Find the odd one out: 4, 9, 16, 25, 35",
+      "options": ["A. 4", "B. 9", "C. 16", "D. 25", "E. 35"],
+      "answer": "E. 35"
+    },
+    {
+      "id": 26,
+      "section": "General/Financial Awareness",
+      "question": "Who is the Governor of the Reserve Bank of India as of 2022?",
+      "native_question": "2022 तक भारतीय रिज़र्व बैंक का गवर्नर कौन है?",
+      "options": ["A. Shaktikanta Das", "B. Urjit Patel", "C. Raghuram Rajan", "D. D. Subbarao", "E. Y. V. Reddy"],
+      "answer": "A. Shaktikanta Das"
+    },
+    {
+      "id": 27,
+      "section": "English Language",
+      "question": "Identify the correctly punctuated sentence:",
+      "options": ["A. Where are you going, she asked.", "B. Where are you going? she asked.", "C. Where are you going she asked?", "D. Where are you going, she asked?", "E. Where are you going? She asked."],
+      "answer": "B. Where are you going? she asked."
+    },
+    {
+      "id": 28,
+      "section": "Numerical Ability",
+      "question": "What is the average of the first 10 prime numbers?",
+      "options": ["A. 12.9", "B. 11.7", "C. 10.8", "D. 13.2", "E. 14.1"],
+      "answer": "A. 12.9"
+    },
+    {
+      "id": 29,
+      "section": "Reasoning Ability",
+      "question": "If today is Wednesday, what day will it be after 45 days?",
+      "native_question": "यदि आज बुधवार है, तो 45 दिन बाद कौन सा दिन होगा?",
+      "options": ["A. Monday", "B. Tuesday", "C. Wednesday", "D. Thursday", "E. Friday"],
+      "answer": "B. Tuesday"
+    },
+    {
+      "id": 30,
+      "section": "General/Financial Awareness",
+      "question": "What is the minimum age to open a savings bank account in India?",
+      "options": ["A. 10 years", "B. 12 years", "C. 15 years", "D. 18 years", "E. No minimum age"],
+      "answer": "E. No minimum age"
+    },
+    {
+      "id": 31,
+      "section": "Quantitative Aptitude",
+      "question": "A shopkeeper sells an item at a profit of 20%. If the cost price is Rs. 500, what is the selling price?",
+      "options": ["A. Rs. 600", "B. Rs. 580", "C. Rs. 620", "D. Rs. 560", "E. Rs. 650"],
+      "answer": "A. Rs. 600"
+    },
+    {
+      "id": 32,
+      "section": "English Language",
+      "question": "Choose the correct word to complete the sentence: The meeting was _______ due to unforeseen circumstances.",
+      "options": ["A. postponed", "B. advanced", "C. conducted", "D. initiated", "E. concluded"],
+      "answer": "A. postponed"
+    },
+    {
+      "id": 33,
+      "section": "Numerical Ability",
+      "question": "If 3 pens cost Rs. 45, how much will 7 pens cost?",
+      "native_question": "यदि 3 पेन की कीमत 45 रुपये है, तो 7 पेन की कीमत कितनी होगी?",
+      "options": ["A. Rs. 98", "B. Rs. 105", "C. Rs. 90", "D. Rs. 112", "E. Rs. 84"],
+      "answer": "B. Rs. 105"
+    },
+    {
+      "id": 34,
+      "section": "Reasoning Ability",
+      "question": "Complete the analogy: Book : Library :: Food : ?",
+      "options": ["A. Kitchen", "B. Market", "C. Plate", "D. Fridge", "E. Store"],
+      "answer": "A. Kitchen"
+    },
+    {
+      "id": 35,
+      "section": "General/Financial Awareness",
+      "question": "Which organization regulates the insurance sector in India?",
+      "native_question": "भारत में बीमा क्षेत्र को कौन सा संगठन नियंत्रित करता है?",
+      "options": ["A. SEBI", "B. RBI", "C. IRDAI", "D. NABARD", "E. SIDBI"],
+      "answer": "C. IRDAI"
+    },
+    {
+      "id": 36,
+      "section": "Quantitative Aptitude",
+      "question": "If the perimeter of a square is 48 cm, what is its area?",
+      "options": ["A. 144 cm²", "B. 128 cm²", "C. 136 cm²", "D. 152 cm²", "E. 160 cm²"],
+      "answer": "A. 144 cm²"
+    },
+    {
+      "id": 37,
+      "section": "English Language",
+      "question": "Find the error in the sentence: Neither of the boys have finished their homework.",
+      "options": ["A. Neither of", "B. the boys have", "C. finished their", "D. homework", "E. No error"],
+      "answer": "B. the boys have"
+    },
+    {
+      "id": 38,
+      "section": "Numerical Ability",
+      "question": "What is the LCM of 12 and 18?",
+      "native_question": "12 और 18 का लघुत्तम समापवर्तक (LCM) क्या है?",
+      "options": ["A. 24", "B. 36", "C. 48", "D. 60", "E. 72"],
+      "answer": "B. 36"
+    },
+    {
+      "id": 39,
+      "section": "Reasoning Ability",
+      "question": "If 'FRIEND' is coded as 'IKSFMR', how is 'ENEMY' coded?",
+      "options": ["A. JFOSZ", "B. KGLTK", "C. IFLVZ", "D. JGLTK", "E. KFLVZ"],
+      "answer": "A. JFOSZ"
+    },
+    {
+      "id": 40,
+      "section": "General/Financial Awareness",
+      "question": "What is the currency of Japan?",
+      "native_question": "जापान की मुद्रा क्या है?",
+      "options": ["A. Yuan", "B. Yen", "C. Won", "D. Ringgit", "E. Baht"],
+      "answer": "B. Yen"
+    },
+    {
+      "id": 41,
+      "section": "Quantitative Aptitude",
+      "question": "A man completes a work in 15 days. How many days will it take for 3 men to complete the same work?",
+      "options": ["A. 5 days", "B. 6 days", "C. 7 days", "D. 8 days", "E. 4 days"],
+      "answer": "A. 5 days"
+    },
+    {
+      "id": 42,
+      "section": "English Language",
+      "question": "Choose the correct idiom to complete the sentence: Don’t count your chickens _______ they hatch.",
+      "options": ["A. after", "B. before", "C. when", "D. until", "E. once"],
+      "answer": "B. before"
+    },
+    {
+      "id": 43,
+      "section": "Numerical Ability",
+      "question": "If a number is increased by 25% and then decreased by 20%, what is the net percentage change?",
+      "options": ["A. 0%", "B. 5% increase", "C. 5% decrease", "D. 10% increase", "E. 10% decrease"],
+      "answer": "A. 0%"
+    },
+    {
+      "id": 44,
+      "section": "Reasoning Ability",
+      "question": "Find the missing number: 3, 8, 18, 38, ?",
+      "options": ["A. 78", "B. 80", "C. 82", "D. 84", "E. 86"],
+      "answer": "A. 78"
+    },
+    {
+      "id": 45,
+      "section": "General/Financial Awareness",
+      "question": "What is the tagline of the State Bank of India?",
+      "native_question": "भारतीय स्टेट बैंक का टैगलाइन क्या है?",
+      "options": ["A. With You All The Way", "B. The Banker to Every Indian", "C. A Tradition of Trust", "D. Relationships Beyond Banking", "E. Pure Banking, Nothing Else"],
+      "answer": "B. The Banker to Every Indian"
+    },
+    {
+      "id": 46,
+      "section": "Quantitative Aptitude",
+      "question": "If the area of a circle is 154 cm², what is its radius? (Use π = 22/7)",
+      "options": ["A. 7 cm", "B. 8 cm", "C. 6 cm", "D. 9 cm", "E. 10 cm"],
+      "answer": "A. 7 cm"
+    },
+    {
+      "id": 47,
+      "section": "English Language",
+      "question": "Choose the word that is opposite in meaning to 'Reluctant':",
+      "options": ["A. Hesitant", "B. Unwilling", "C. Eager", "D. Cautious", "E. Reserved"],
+      "answer": "C. Eager"
+    },
+    {
+      "id": 48,
+      "section": "Numerical Ability",
+      "question": "A sum of Rs. 6000 amounts to Rs. 7200 in 2 years at simple interest. What is the rate of interest?",
+      "options": ["A. 8%", "B. 10%", "C. 12%", "D. 6%", "E. 15%"],
+      "answer": "B. 10%"
+    },
+    {
+      "id": 49,
+      "section": "Reasoning Ability",
+      "question": "If 'APPLE' is coded as 'CRTKG', how is 'MANGO' coded?",
+      "native_question": "यदि 'APPLE' को 'CRTKG' के रूप में कोडित किया जाता है, तो 'MANGO' को कैसे कोडित किया जाएगा?",
+      "options": ["A. OCKTK", "B. PDVUL", "C. OBIUJ", "D. PCVTL", "E. ODJTK"],
+      "answer": "A. OCKTK"
+    },
+    {
+      "id": 50,
+      "section": "General/Financial Awareness",
+      "question": "Which act governs the banking sector in India?",
+      "native_question": "भारत में बैंकिंग क्षेत्र को कौन सा अधिनियम नियंत्रित करता है?",
+      "options": ["A. Banking Regulation Act, 1949", "B. RBI Act, 1934", "C. Companies Act, 2013", "D. SEBI Act, 1992", "E. Insurance Act, 1938"],
+      "answer": "A. Banking Regulation Act, 1949"
+    }
+  ]
+}

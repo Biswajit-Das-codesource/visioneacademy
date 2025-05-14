@@ -1,0 +1,405 @@
+{
+  "exam": "SSC CGL 2023",
+  "questions": [
+    {
+      "id": 1,
+      "section": "General Intelligence and Reasoning",
+      "direction": "Select the option that is related to the third term in the same way as the second term is related to the first term: FLOWER : EJHLTK :: GARDEN : ?",
+      "question": "What is the analogous term for GARDEN?",
+      "options": ["A. IZTKAF", "B. IYTKAF", "C. IZTKAG", "D. IYTKAG"],
+      "answer": "A. IZTKAF"
+    },
+    {
+      "id": 2,
+      "section": "General Intelligence and Reasoning",
+      "direction": null,
+      "question": "If 'P + Q' means P is the husband of Q, 'P - Q' means P is the father of Q, and 'P * Q' means P is the sister of Q, which of the following means A is the wife of B?",
+      "options": ["A. B - C * A", "B. A * C - B", "C. B * A - C", "D. A - B * C"],
+      "answer": "A. B - C * A"
+    },
+    {
+      "id": 3,
+      "section": "General Intelligence and Reasoning",
+      "direction": "In a certain code language, 'TRUST' is written as 'WVXYZ'. How will 'FAITH' be written in that code language?",
+      "question": "What is the coded form of 'FAITH'?",
+      "options": ["A. IJHLTK", "B. IJHLTK", "C. IHLTKJ", "D. ILTKJH"],
+      "answer": "A. IJHLTK"
+    },
+    {
+      "id": 4,
+      "section": "General Intelligence and Reasoning",
+      "direction": "Five people P, Q, R, S, and T are seated in a straight line facing north. P is second to the left of Q. R is to the immediate right of P. S is not next to Q. Who is at the extreme left?",
+      "question": "Who is at the extreme left?",
+      "options": ["A. P", "B. Q", "C. S", "D. T"],
+      "answer": "C. S"
+    },
+    {
+      "id": 5,
+      "section": "General Intelligence and Reasoning",
+      "direction": null,
+      "question": "Find the missing number in the series: 3, 8, 18, 35, ?, 86",
+      "options": ["A. 56", "B. 58", "C. 60", "D. 62"],
+      "answer": "B. 58"
+    },
+    {
+      "id": 6,
+      "section": "General Intelligence and Reasoning",
+      "direction": "Select the word-pair that best represents a similar relationship to the given pair: Pen : Write :: Scissors : ?",
+      "question": "What is the analogous term for Scissors?",
+      "options": ["A. Cut", "B. Paper", "C. Blade", "D. Sharp"],
+      "answer": "A. Cut"
+    },
+    {
+      "id": 7,
+      "section": "General Intelligence and Reasoning",
+      "direction": null,
+      "question": "If 'DOG' is coded as 'WTL', how is 'CAT' coded?",
+      "options": ["A. IJE", "B. JKE", "C. KLF", "D. LKG"],
+      "answer": "A. IJE"
+    },
+    {
+      "id": 8,
+      "section": "General Intelligence and Reasoning",
+      "direction": null,
+      "question": "Select the odd one out: Circle, Square, Triangle, Rectangle",
+      "options": ["A. Circle", "B. Square", "C. Triangle", "D. Rectangle"],
+      "answer": "A. Circle"
+    },
+    {
+      "id": 9,
+      "section": "General Intelligence and Reasoning",
+      "direction": "Arrange the following words in a logical sequence: 1. Seed, 2. Plant, 3. Flower, 4. Fruit, 5. Tree",
+      "question": "What is the correct sequence?",
+      "options": ["A. 1, 2, 5, 3, 4", "B. 1, 5, 2, 3, 4", "C. 1, 2, 3, 5, 4", "D. 1, 5, 3, 2, 4"],
+      "answer": "A. 1, 2, 5, 3, 4"
+    },
+    {
+      "id": 10,
+      "section": "General Intelligence and Reasoning",
+      "direction": null,
+      "question": "If the day after tomorrow is Tuesday, what day is it today?",
+      "options": ["A. Sunday", "B. Monday", "C. Saturday", "D. Friday"],
+      "answer": "A. Sunday"
+    },
+    {
+      "id": 11,
+      "section": "General Intelligence and Reasoning",
+      "direction": "Select the letter-cluster that can replace the question mark in the series: BC, FG, ?, OP, SU",
+      "question": "What is the missing letter-cluster?",
+      "options": ["A. IJ", "B. JK", "C. KL", "D. LM"],
+      "answer": "A. IJ"
+    },
+    {
+      "id": 12,
+      "section": "General Intelligence and Reasoning",
+      "direction": null,
+      "question": "Which number will replace the question mark in the following: 4, 9, 17, ?, 38, 60",
+      "options": ["A. 26", "B. 27", "C. 28", "D. 29"],
+      "answer": "C. 28"
+    },
+    {
+      "id": 13,
+      "section": "General Intelligence and Reasoning",
+      "direction": null,
+      "question": "Select the option that is different from the others: 125, 216, 343, 512",
+      "options": ["A. 125", "B. 216", "C. 343", "D. 512"],
+      "answer": "B. 216"
+    },
+    {
+      "id": 14,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Who is known as the father of the Indian Constitution?",
+      "options": ["A. Jawaharlal Nehru", "B. B.R. Ambedkar", "C. Mahatma Gandhi", "D. Sardar Patel"],
+      "answer": "B. B.R. Ambedkar"
+    },
+    {
+      "id": 15,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "The Finance Commission is constituted under which article of the Constitution of India?",
+      "options": ["A. Article 280", "B. Article 281", "C. Article 282", "D. Article 283"],
+      "answer": "A. Article 280"
+    },
+    {
+      "id": 16,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Who was the guest at India’s Republic Day in 2023?",
+      "options": ["A. Abdel Fattah El-Sisi", "B. Emmanuel Macron", "C. Joe Biden", "D. Boris Johnson"],
+      "answer": "A. Abdel Fattah El-Sisi"
+    },
+    {
+      "id": 17,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Which state has the highest literacy rate as per the 2011 Census?",
+      "options": ["A. Kerala", "B. Mizoram", "C. Lakshadweep", "D. Goa"],
+      "answer": "A. Kerala"
+    },
+    {
+      "id": 18,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "What is the chemical formula for Blue Vitriol?",
+      "options": ["A. CuSO4·5H2O", "B. CaSO4·2H2O", "C. FeSO4·7H2O", "D. ZnSO4·7H2O"],
+      "answer": "A. CuSO4·5H2O"
+    },
+    {
+      "id": 19,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "The Tapi Basin is primarily located in which state?",
+      "options": ["A. Maharashtra", "B. Gujarat", "C. Madhya Pradesh", "D. Rajasthan"],
+      "answer": "A. Maharashtra"
+    },
+    {
+      "id": 20,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "When was the Sati Pratha abolished in India?",
+      "options": ["A. 1829", "B. 1835", "C. 1843", "D. 1856"],
+      "answer": "A. 1829"
+    },
+    {
+      "id": 21,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Who discovered X-rays?",
+      "options": ["A. Marie Curie", "B. Wilhelm Röntgen", "C. Albert Einstein", "D. Niels Bohr"],
+      "answer": "B. Wilhelm Röntgen"
+    },
+    {
+      "id": 22,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Which dance form is associated with Odisha?",
+      "options": ["A. Kathak", "B. Odissi", "C. Bharatanatyam", "D. Kuchipudi"],
+      "answer": "B. Odissi"
+    },
+    {
+      "id": 23,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "The Cellular Jail is located in which place?",
+      "options": ["A. Andaman and Nicobar Islands", "B. Lakshadweep", "C. Goa", "D. Daman and Diu"],
+      "answer": "A. Andaman and Nicobar Islands"
+    },
+    {
+      "id": 24,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["A. Venus", "B. Mars", "C. Jupiter", "D. Saturn"],
+      "answer": "B. Mars"
+    },
+    {
+      "id": 25,
+      "section": "General Awareness",
+      "direction": null,
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": ["A. 1757", "B. 1764", "C. 1772", "D. 1780"],
+      "answer": "A. 1757"
+    },
+    {
+      "id": 26,
+      "section": "Quantitative Aptitude",
+      "direction": "A shopkeeper marks an article 20% above its cost price and offers a discount of 10%. The cost price of the article is Rs. 500.",
+      "question": "What is the selling price of the article?",
+      "options": ["A. Rs. 540", "B. Rs. 550", "C. Rs. 560", "D. Rs. 570"],
+      "answer": "A. Rs. 540"
+    },
+    {
+      "id": 27,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "If the ratio of ages of A and B is 2:3 and their sum is 25 years, what is the age of B?",
+      "options": ["A. 12 years", "B. 15 years", "C. 18 years", "D. 20 years"],
+      "answer": "B. 15 years"
+    },
+    {
+      "id": 28,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "A train travels 360 km in 3 hours. What is its speed in km/h?",
+      "options": ["A. 100 km/h", "B. 110 km/h", "C. 120 km/h", "D. 130 km/h"],
+      "answer": "C. 120 km/h"
+    },
+    {
+      "id": 29,
+      "section": "Quantitative Aptitude",
+      "direction": "In a triangle ABC, angle A = 90°, AB = 8 cm, and AC = 6 cm.",
+      "question": "What is the length of side BC?",
+      "options": ["A. 10 cm", "B. 12 cm", "C. 14 cm", "D. 16 cm"],
+      "answer": "A. 10 cm"
+    },
+    {
+      "id": 30,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "If 3x + 2y = 12 and x - y = 1, what is the value of x + y?",
+      "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+      "answer": "B. 4"
+    },
+    {
+      "id": 31,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "The average of 6 numbers is 15. If one number is removed, the average becomes 14. What is the removed number?",
+      "options": ["A. 18", "B. 20", "C. 22", "D. 24"],
+      "answer": "B. 20"
+    },
+    {
+      "id": 32,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "A sum of money triples itself in 12 years at simple interest. In how many years will it become 5 times itself?",
+      "options": ["A. 20 years", "B. 22 years", "C. 24 years", "D. 26 years"],
+      "answer": "C. 24 years"
+    },
+    {
+      "id": 33,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "What is the value of tan 45° + cot 45°?",
+      "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+      "answer": "B. 2"
+    },
+    {
+      "id": 34,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "A can complete a work in 15 days and B in 20 days. How many days will they take to complete the work together?",
+      "options": ["A. 8 days", "B. 9 days", "C. 10 days", "D. 12 days"],
+      "answer": "B. 9 days"
+    },
+    {
+      "id": 35,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "If 15% of a number is 45, what is the number?",
+      "options": ["A. 270", "B. 280", "C. 290", "D. 300"],
+      "answer": "D. 300"
+    },
+    {
+      "id": 36,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "The perimeter of a rectangle is 50 cm, and its length is 15 cm. What is its breadth?",
+      "options": ["A. 8 cm", "B. 9 cm", "C. 10 cm", "D. 11 cm"],
+      "answer": "C. 10 cm"
+    },
+    {
+      "id": 37,
+      "section": "Quantitative Aptitude",
+      "direction": null,
+      "question": "What is the LCM of 12, 18, and 24?",
+      "options": ["A. 36", "B. 48", "C. 72", "D. 96"],
+      "answer": "C. 72"
+    },
+    {
+      "id": 38,
+      "section": "English Comprehension",
+      "direction": "Select the most appropriate synonym of the given word: Massive",
+      "question": "What is a synonym for 'Massive'?",
+      "options": ["A. Tiny", "B. Huge", "C. Small", "D. Average"],
+      "answer": "B. Huge"
+    },
+    {
+      "id": 39,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Select the most appropriate antonym of the given word: Reluctant",
+      "options": ["A. Hesitant", "B. Willing", "C. Cautious", "D. Reserved"],
+      "answer": "B. Willing"
+    },
+    {
+      "id": 40,
+      "section": "English Comprehension",
+      "direction": "Fill in the blank with the most appropriate word: The event was _______ due to heavy rain.",
+      "question": "What is the appropriate word to fill the blank?",
+      "options": ["A. cancelled", "B. conducted", "C. held", "D. continued"],
+      "answer": "A. cancelled"
+    },
+    {
+      "id": 41,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Identify the misspelt word:",
+      "options": ["A. Accommodation", "B. Seperate", "C. Opportunity", "D. Environment"],
+      "answer": "B. Seperate"
+    },
+    {
+      "id": 42,
+      "section": "English Comprehension",
+      "direction": "Select the option that can be used as a one-word substitute for the given phrase: A person who loves to travel",
+      "question": "What is the one-word substitute?",
+      "options": ["A. Nomad", "B. Wanderlust", "C. Explorer", "D. Tourist"],
+      "answer": "A. Nomad"
+    },
+    {
+      "id": 43,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Choose the correctly spelt word:",
+      "options": ["A. Millenium", "B. Maintenance", "C. Mischievous", "D. Managment"],
+      "answer": "B. Maintenance"
+    },
+    {
+      "id": 44,
+      "section": "English Comprehension",
+      "direction": "Select the most appropriate meaning of the given idiom: To spill the beans",
+      "question": "What does the idiom mean?",
+      "options": ["A. To reveal a secret", "B. To make a mess", "C. To waste resources", "D. To be careless"],
+      "answer": "A. To reveal a secret"
+    },
+    {
+      "id": 45,
+      "section": "English Comprehension",
+      "direction": "The following sentence has an error. Identify the part with the error: The team are playing well in the match.",
+      "question": "Which part contains the error?",
+      "options": ["A. The team are", "B. playing well", "C. in the match", "D. No error"],
+      "answer": "A. The team are"
+    },
+    {
+      "id": 46,
+      "section": "English Comprehension",
+      "direction": "Read the passage and answer the question that follows: The Indian economy has grown significantly since the 1991 reforms. Liberalization opened markets, attracting foreign investment. However, issues like unemployment and rural poverty remain challenges. The government has launched schemes to address these, but their success is limited.",
+      "question": "What opened markets in the Indian economy in 1991?",
+      "options": ["A. Privatization", "B. Globalization", "C. Liberalization", "D. Nationalization"],
+      "answer": "C. Liberalization"
+    },
+    {
+      "id": 47,
+      "section": "English Comprehension",
+      "direction": "Read the passage and answer the question that follows: The Indian economy has grown significantly since the 1991 reforms. Liberalization opened markets, attracting foreign investment. However, issues like unemployment and rural poverty remain challenges. The government has launched schemes to address these, but their success is limited.",
+      "question": "What challenges are mentioned in the passage?",
+      "options": ["A. Corruption and infrastructure", "B. Unemployment and rural poverty", "C. Education and healthcare", "D. Technology and innovation"],
+      "answer": "B. Unemployment and rural poverty"
+    },
+    {
+      "id": 48,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Select the word closest in meaning to 'Candid':",
+      "options": ["A. Deceptive", "B. Frank", "C. Reserved", "D. Cautious"],
+      "answer": "B. Frank"
+    },
+    {
+      "id": 49,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Choose the option that best completes the sentence: She was _____ tired that she fell asleep immediately.",
+      "options": ["A. so", "B. too", "C. very", "D. much"],
+      "answer": "A. so"
+    },
+    {
+      "id": 50,
+      "section": "English Comprehension",
+      "direction": null,
+      "question": "Rearrange the parts of the sentence to form a meaningful sentence: (A) to the market (B) went (C) yesterday (D) she",
+      "options": ["A. D, B, A, C", "B. B, D, A, C", "C. D, A, B, C", "D. A, D, B, C"],
+      "answer": "A. D, B, A, C"
+    }
+  ]
+}

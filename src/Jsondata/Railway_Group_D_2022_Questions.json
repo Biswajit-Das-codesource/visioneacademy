@@ -1,0 +1,655 @@
+{
+  "exam": "Railway Group D 2022",
+  "questions": [
+    {
+      "id": 1,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "On 14th June 2022, the first private train under Bharat Gaurav Yojana was started from which place to which place?",
+      "options": [
+        "A. Coimbatore North to Sainagar Shirdi",
+        "B. Delhi to Mumbai",
+        "C. Chennai to Kolkata",
+        "D. Ahmedabad to Varanasi"
+      ],
+      "answer": "A. Coimbatore North to Sainagar Shirdi"
+    },
+    {
+      "id": 2,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "The first Janshatabdi express train connecting which state with Tripura via Assam started in January 2022?",
+      "options": [
+        "A. Manipur",
+        "B. Meghalaya",
+        "C. Nagaland",
+        "D. Mizoram"
+      ],
+      "answer": "A. Manipur"
+    },
+    {
+      "id": 3,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "When was the first train steamed off in India?",
+      "options": [
+        "A. 1853",
+        "B. 1860",
+        "C. 1875",
+        "D. 1880"
+      ],
+      "answer": "A. 1853"
+    },
+    {
+      "id": 4,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Which of the following is the headquarters of the newly established railway zone ‘East Coast Railways’?",
+      "options": [
+        "A. Bhubaneswar",
+        "B. Visakhapatnam",
+        "C. Kolkata",
+        "D. Chennai"
+      ],
+      "answer": "A. Bhubaneswar"
+    },
+    {
+      "id": 5,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Which train in India has the longest route length?",
+      "options": [
+        "A. Vivek Express",
+        "B. Himsagar Express",
+        "C. Rajdhani Express",
+        "D. Shatabdi Express"
+      ],
+      "answer": "A. Vivek Express"
+    },
+    {
+      "id": 6,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Where is the Railway Staff College located?",
+      "options": [
+        "A. Vadodara",
+        "B. Pune",
+        "C. Delhi",
+        "D. Secunderabad"
+      ],
+      "answer": "A. Vadodara"
+    },
+    {
+      "id": 7,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Who is known as the Father of History?",
+      "options": [
+        "A. Herodotus",
+        "B. Thucydides",
+        "C. Plato",
+        "D. Aristotle"
+      ],
+      "answer": "A. Herodotus"
+    },
+    {
+      "id": 8,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "The theme for International Day of Yoga 2022 was:",
+      "options": [
+        "A. Yoga for Humanity",
+        "B. Yoga for Peace",
+        "C. Yoga for Health",
+        "D. Yoga for All"
+      ],
+      "answer": "A. Yoga for Humanity"
+    },
+    {
+      "id": 9,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Which state has the least population density as per the 2011 census?",
+      "options": [
+        "A. Arunachal Pradesh",
+        "B. Sikkim",
+        "C. Mizoram",
+        "D. Nagaland"
+      ],
+      "answer": "A. Arunachal Pradesh"
+    },
+    {
+      "id": 10,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Who was the viceroy at the time of the Bengal Partition?",
+      "options": [
+        "A. Lord Curzon",
+        "B. Lord Minto",
+        "C. Lord Ripon",
+        "D. Lord Dalhousie"
+      ],
+      "answer": "A. Lord Curzon"
+    },
+    {
+      "id": 11,
+      "section": "General Awareness & Current Affairs",
+      "direction": null,
+      "question": "Ranji Trophy winner 2022 was:",
+      "options": [
+        "A. Madhya Pradesh",
+        "B. Mumbai",
+        "C. Karnataka",
+        "D. Delhi"
+      ],
+      "answer": "A. Madhya Pradesh"
+    },
+    {
+      "id": 12,
+      "section": "General Science",
+      "direction": null,
+      "question": "What is the chemical formula for Quick Lime?",
+      "options": [
+        "A. CaO",
+        "B. CaCO3",
+        "C. Ca(OH)2",
+        "D. CaSO4"
+      ],
+      "answer": "A. CaO"
+    },
+    {
+      "id": 13,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which gas is known as the 'laughing gas'?",
+      "options": [
+        "A. Nitrous Oxide",
+        "B. Carbon Dioxide",
+        "C. Nitrogen",
+        "D. Oxygen"
+      ],
+      "answer": "A. Nitrous Oxide"
+    },
+    {
+      "id": 14,
+      "section": "General Science",
+      "direction": null,
+      "question": "The SI unit of force is:",
+      "options": [
+        "A. Newton",
+        "B. Joule",
+        "C. Watt",
+        "D. Pascal"
+      ],
+      "answer": "A. Newton"
+    },
+    {
+      "id": 15,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which vitamin is essential for blood clotting?",
+      "options": [
+        "A. Vitamin K",
+        "B. Vitamin C",
+        "C. Vitamin D",
+        "D. Vitamin A"
+      ],
+      "answer": "A. Vitamin K"
+    },
+    {
+      "id": 16,
+      "section": "General Science",
+      "direction": null,
+      "question": "The primary source of energy for Earth’s climate system is:",
+      "options": [
+        "A. Sun",
+        "B. Moon",
+        "C. Earth’s core",
+        "D. Oceans"
+      ],
+      "answer": "A. Sun"
+    },
+    {
+      "id": 17,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which element has the atomic number 8?",
+      "options": [
+        "A. Oxygen",
+        "B. Nitrogen",
+        "C. Carbon",
+        "D. Fluorine"
+      ],
+      "answer": "A. Oxygen"
+    },
+    {
+      "id": 18,
+      "section": "General Science",
+      "direction": null,
+      "question": "What is the pH value of pure water?",
+      "options": [
+        "A. 7",
+        "B. 5",
+        "C. 9",
+        "D. 3"
+      ],
+      "answer": "A. 7"
+    },
+    {
+      "id": 19,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which metal is the best conductor of electricity?",
+      "options": [
+        "A. Copper",
+        "B. Silver",
+        "C. Gold",
+        "D. Aluminum"
+      ],
+      "answer": "B. Silver"
+    },
+    {
+      "id": 20,
+      "section": "General Science",
+      "direction": null,
+      "question": "The process of conversion of sugar into alcohol is called:",
+      "options": [
+        "A. Fermentation",
+        "B. Distillation",
+        "C. Oxidation",
+        "D. Reduction"
+      ],
+      "answer": "A. Fermentation"
+    },
+    {
+      "id": 21,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which organ in the human body is primarily responsible for detoxification?",
+      "options": [
+        "A. Liver",
+        "B. Kidney",
+        "C. Lungs",
+        "D. Heart"
+      ],
+      "answer": "A. Liver"
+    },
+    {
+      "id": 22,
+      "section": "General Science",
+      "direction": null,
+      "question": "What is the boiling point of water at standard atmospheric pressure?",
+      "options": [
+        "A. 100°C",
+        "B. 0°C",
+        "C. 50°C",
+        "D. 200°C"
+      ],
+      "answer": "A. 100°C"
+    },
+    {
+      "id": 23,
+      "section": "General Science",
+      "direction": null,
+      "question": "Which gas is most abundant in the Earth’s atmosphere?",
+      "options": [
+        "A. Nitrogen",
+        "B. Oxygen",
+        "C. Carbon Dioxide",
+        "D. Argon"
+      ],
+      "answer": "A. Nitrogen"
+    },
+    {
+      "id": 24,
+      "section": "General Science",
+      "direction": null,
+      "question": "The unit of electric current is:",
+      "options": [
+        "A. Ampere",
+        "B. Volt",
+        "C. Ohm",
+        "D. Watt"
+      ],
+      "answer": "A. Ampere"
+    },
+    {
+      "id": 25,
+      "section": "Mathematics",
+      "direction": "Find the missing number in the series.",
+      "question": "2, 5, 11, 20, ?, 44",
+      "options": [
+        "A. 32",
+        "B. 30",
+        "C. 28",
+        "D. 26"
+      ],
+      "answer": "A. 32"
+    },
+    {
+      "id": 26,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "If the ratio of two numbers is 3:4 and their sum is 28, what is the smaller number?",
+      "options": [
+        "A. 12",
+        "B. 14",
+        "C. 16",
+        "D. 18"
+      ],
+      "answer": "A. 12"
+    },
+    {
+      "id": 27,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "A train covers 360 km in 4 hours. What is its speed in km/h?",
+      "options": [
+        "A. 80 km/h",
+        "B. 90 km/h",
+        "C. 100 km/h",
+        "D. 120 km/h"
+      ],
+      "answer": "B. 90 km/h"
+    },
+    {
+      "id": 28,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "What is 15% of 200?",
+      "options": [
+        "A. 30",
+        "B. 25",
+        "C. 35",
+        "D. 40"
+      ],
+      "answer": "A. 30"
+    },
+    {
+      "id": 29,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "If a:b = 2:3 and b:c = 4:5, then a:c is:",
+      "options": [
+        "A. 8:15",
+        "B. 6:10",
+        "C. 5:12",
+        "D. 7:9"
+      ],
+      "answer": "A. 8:15"
+    },
+    {
+      "id": 30,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "The average of 5 numbers is 20. If one number is 10, what is the average of the other four numbers?",
+      "options": [
+        "A. 22.5",
+        "B. 20",
+        "C. 25",
+        "D. 15"
+      ],
+      "answer": "A. 22.5"
+    },
+    {
+      "id": 31,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "What is the HCF of 24 and 36?",
+      "options": [
+        "A. 6",
+        "B. 12",
+        "C. 18",
+        "D. 24"
+      ],
+      "answer": "B. 12"
+    },
+    {
+      "id": 32,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "A sum of money doubles itself in 5 years at simple interest. In how many years will it triple itself?",
+      "options": [
+        "A. 8 years",
+        "B. 10 years",
+        "C. 12 years",
+        "D. 15 years"
+      ],
+      "answer": "B. 10 years"
+    },
+    {
+      "id": 33,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "If 2x + 3y = 12 and x - y = 1, what is the value of x?",
+      "options": [
+        "A. 3",
+        "B. 4",
+        "C. 5",
+        "D. 6"
+      ],
+      "answer": "A. 3"
+    },
+    {
+      "id": 34,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "The area of a rectangle is 48 cm² and its length is 8 cm. What is its breadth?",
+      "options": [
+        "A. 4 cm",
+        "B. 6 cm",
+        "C. 8 cm",
+        "D. 10 cm"
+      ],
+      "answer": "B. 6 cm"
+    },
+    {
+      "id": 35,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "What is the value of (2/3) × (9/4)?",
+      "options": [
+        "A. 3/2",
+        "B. 2/3",
+        "C. 1/2",
+        "D. 4/3"
+      ],
+      "answer": "A. 3/2"
+    },
+    {
+      "id": 36,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "A can do a work in 12 days and B in 18 days. How many days will they take to complete the work together?",
+      "options": [
+        "A. 6 days",
+        "B. 7.2 days",
+        "C. 8 days",
+        "D. 9 days"
+      ],
+      "answer": "B. 7.2 days"
+    },
+    {
+      "id": 37,
+      "section": "Mathematics",
+      "direction": null,
+      "question": "What is the square root of 144?",
+      "options": [
+        "A. 10",
+        "B. 12",
+        "C. 14",
+        "D. 16"
+      ],
+      "answer": "B. 12"
+    },
+    {
+      "id": 38,
+      "section": "General Intelligence & Reasoning",
+      "direction": "In the following question, select the related number from the given alternatives.",
+      "question": "5 : 26 :: 7 : ?",
+      "options": [
+        "A. 50",
+        "B. 48",
+        "C. 46",
+        "D. 44"
+      ],
+      "answer": "A. 50"
+    },
+    {
+      "id": 39,
+      "section": "General Intelligence & Reasoning",
+      "direction": "Find the missing number in the series.",
+      "question": "3, 6, 12, 24, ?, 96",
+      "options": [
+        "A. 36",
+        "B. 48",
+        "C. 60",
+        "D. 72"
+      ],
+      "answer": "B. 48"
+    },
+    {
+      "id": 40,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "If ‘CAT’ is coded as ‘FBU’, how is ‘DOG’ coded in the same language?",
+      "options": [
+        "A. GPH",
+        "B. IJI",
+        "C. JZK",
+        "D. KYL"
+      ],
+      "answer": "A. GPH"
+    },
+    {
+      "id": 41,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Select the odd one out: Apple, Banana, Cherry, Date",
+      "options": [
+        "A. Apple",
+        "B. Banana",
+        "C. Cherry",
+        "D. Date"
+      ],
+      "answer": "B. Banana"
+    },
+    {
+      "id": 42,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "If the day after tomorrow is Wednesday, what day is it today?",
+      "options": [
+        "A. Monday",
+        "B. Tuesday",
+        "C. Sunday",
+        "D. Saturday"
+      ],
+      "answer": "A. Monday"
+    },
+    {
+      "id": 43,
+      "section": "General Intelligence & Reasoning",
+      "direction": "Select the letter-cluster that can replace the question mark in the series.",
+      "question": "AC, EG, IK, ?, OI",
+      "options": [
+        "A. JM",
+        "B. KN",
+        "C. LO",
+        "D. MP"
+      ],
+      "answer": "A. JM"
+    },
+    {
+      "id": 44,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Arrange the following in a logical sequence: 1. Seed, 2. Tree, 3. Fruit, 4. Flower, 5. Leaf",
+      "options": [
+        "A. 1, 2, 5, 4, 3",
+        "B. 1, 5, 4, 3, 2",
+        "C. 1, 2, 4, 5, 3",
+        "D. 1, 4, 5, 3, 2"
+      ],
+      "answer": "A. 1, 2, 5, 4, 3"
+    },
+    {
+      "id": 45,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Select the word-pair that best represents a similar relationship to: Pen : Write :: Hammer : ?",
+      "options": [
+        "A. Nail",
+        "B. Hit",
+        "C. Screw",
+        "D. Fix"
+      ],
+      "answer": "B. Hit"
+    },
+    {
+      "id": 46,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "In a certain code, 'RUST' is written as 'VWXY'. How will 'MORN' be written?",
+      "options": [
+        "A. QTUV",
+        "B. RSUV",
+        "C. QSVW",
+        "D. RTVW"
+      ],
+      "answer": "C. QSVW"
+    },
+    {
+      "id": 47,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Which number will replace the question mark in the series: 4, 8, 14, 22, ?, 38",
+      "options": [
+        "A. 28",
+        "B. 30",
+        "C. 32",
+        "D. 34"
+      ],
+      "answer": "B. 30"
+    },
+    {
+      "id": 48,
+      "section": "General Intelligence & Reasoning",
+      "direction": "If P+Q means P is the mother of Q, P÷Q means P is the father of Q, P-Q means P is the sister of Q, then which expression shows A as the mother of B?",
+      "question": "Which expression shows A as the mother of B?",
+      "options": [
+        "A. A+B",
+        "B. A÷B",
+        "C. A-B",
+        "D. B+A"
+      ],
+      "answer": "A. A+B"
+    },
+    {
+      "id": 49,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "Find the odd one out: 16, 25, 36, 49, 63",
+      "options": [
+        "A. 16",
+        "B. 25",
+        "C. 36",
+        "D. 63"
+      ],
+      "answer": "D. 63"
+    },
+    {
+      "id": 50,
+      "section": "General Intelligence & Reasoning",
+      "direction": null,
+      "question": "If ‘FISH’ is written as ‘IRTK’, how is ‘BIRD’ written in the same code?",
+      "options": [
+        "A. FJHL",
+        "B. IKAM",
+        "C. JKBN",
+        "D. HLTK"
+      ],
+      "answer": "A. FJHL"
+    }
+  ]
+}
